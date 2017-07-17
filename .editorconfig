@@ -1,0 +1,22 @@
+# This file is used by editors and IDEs to unify coding standards
+# @see http://EditorConfig.org
+# @styling https://github.com/styleguide/ruby
+
+root = true
+
+# Default configuration (applies to all file types)
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# jekyll customizations for _includes
+[_includes/*.html]
+insert_final_newline=false
+
+# Markdown customizations
+[*.{md,markdown}]
+trim_trailing_whitespace = false
