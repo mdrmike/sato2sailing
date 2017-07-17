@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 ruby RUBY_VERSION
 # Gemfile is used by `bundler` package manger to ensure dependencies are met
 
@@ -10,7 +10,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "3.2.1"
+# gem 'jekyll', '3.2.1'
 
 
 # Add gems to jekyll_plugins group
@@ -20,7 +20,7 @@ ruby RUBY_VERSION
 #
 # To use any of these gems, be sure to add to `_config.yml`
 #       For example, `jekyll-sitemap` is enabled by default.
-gem "github-pages", group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 
 
 # Add gems to development group
@@ -32,14 +32,13 @@ gem "github-pages", group: :jekyll_plugins
 #        is removed from that list.
 #
 # Example: bundle install --with development
-#gem "jekyll-admin", require: false, group: :development
-gem "bootstrap-sass", require: false, group: :development
-
+#gem 'jekyll-admin', require: false, group: :development
+gem 'bootstrap-sass', require: false, group: :development
 
 # Add gems to travis group
 # About Travis CI: http://jekyllrb.com/docs/continuous-integration/
-#gem "html-proofer", group: :travis
-#gem "scss_lint", require: false, group: :travis
+#gem 'html-proofer', group: :travis
+#gem 'scss_lint', require: false, group: :travis
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
