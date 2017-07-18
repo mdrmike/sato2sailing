@@ -34,6 +34,10 @@ gem 'github-pages', group: :jekyll_plugins
 # Example: bundle install --with development
 #gem 'jekyll-admin', require: false, group: :development
 gem 'bootstrap-sass', require: false, group: :development
+# Add to older version of sass to development group to ensure its available when
+# generating sourcemaps using compass 1.0.3 (:bug: with 3.5.x branch)
+# see `assets/style.scss` for details
+gem 'sass', '~> 3.4.25', group: :development
 
 # Add gems to travis group
 # About Travis CI: http://jekyllrb.com/docs/continuous-integration/
