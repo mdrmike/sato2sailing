@@ -62,7 +62,7 @@ gems:
 liquid:
   error_mode: strict #warn  #lax
 markdown: kramdown
-theme: minima
+
 exclude:
   - Gemfile
   - Gemfile.lock
