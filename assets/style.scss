@@ -1,18 +1,21 @@
 ---
-# Front Matter tells Jekyll to use sass-converter
+# DO NOT EDIT
+#
+# This Front Matter tells Jekyll to use sass-converter
 #
 # There are two kinds of Sass files:
 #   1. Main files, like this one, to be output as CSS files.
 #   2. Partials (AKA components), are used by main files in @import statements.
 #
-# Main files are like pages – they go where you want them to be output.
-# They contain the YAML front matter (--- lines) at the top. The front matter
+# Main files are like Jekyll pages – they go where you want them to be output.
+# They contain YAML front matter (--- lines) at the top. The front matter
 # and extension (`.sass` or `.scss`) tell Jekyll to parse with *sass-converter.*
 #
-# Partials are normal sass syntax files *without front matter*. They are used in
-# @import statements. Since they are similar to other hidden Jekyll data used
+# Partials are standard sass syntax files *without front matter*. They are used
+# in `@import` statements. Since they are similar to other hidden Jekyll data
 # to generate the site they go in an underscored directory defined by
-# `sass_dir`, which defaults to `_sass` (and can be configured in _config.yml).
+# `sass_dir`. Jekyll default is `_sass` (but this theme overides default in
+# `_config.yml`).
 #
 # **Note:**
 # Though *sass-converter* is useful for production, it can't generate
@@ -38,8 +41,9 @@
 #  sass _3.4.25_ -I assets/_sass_imports --sourcemap=auto --scss --compass --update --force assets/_sass_imports/theme.scss:_site/assets/style.css # Generate sourcemaps
 #  bundle exec jekyll serve --skip-initial-build --no-watch --trace --config _config.yml,_config.local.yml # Run Jekyll Server, but don't rebuild site
 #
-# Its a best-practice to add customizations as components, and @import thoese here
-# Alternatively, add custom sass below
+# DO NOT EDIT
+# Best-practice is to add customizations as components, (inside `_sass_imports`)
+# and @import those here.  Alternatively, add custom sass/css to `theme.scss`
 ---
 
 @import 'theme';

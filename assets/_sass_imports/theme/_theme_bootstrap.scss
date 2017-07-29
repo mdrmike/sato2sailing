@@ -1,8 +1,5 @@
-// DO NOT EDIT!
-// THIS FILE LOADS BOOTSTRAP WITHOUT VARIABLES
-
-// It's a slight modification of assets/stylesheets/_bootstrap.scss
-// by disabling the @import bootstrap/stylesheets/bootstrap/variables
+// DO NOT EDIT! (Unless you understand what you're doing)
+// It's a slight modification of original _bootstrap.scss to change import paths
 
 // Doing this allows all themeing to remain separated from vanilla bootstrap files
 // which allows for easy updates to bootstrap in the future.
