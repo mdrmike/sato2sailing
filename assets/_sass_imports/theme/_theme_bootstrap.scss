@@ -7,8 +7,6 @@
 // Doing this allows all themeing to remain separated from vanilla bootstrap files
 // which allows for easy updates to bootstrap in the future.
 
-
-
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -16,7 +14,7 @@
  */
 
 // Core variables and mixins
-//@import 'bootstrap/stylesheets/bootstrap/variables'; // <-- DISABLE TO ALLOW CUSTOM COPY TO BE USED IN THEME
+@import 'bootstrap/stylesheets/bootstrap/variables';
 @import 'bootstrap/stylesheets/bootstrap/mixins';
 
 // Reset and dependencies
