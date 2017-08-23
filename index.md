@@ -7,7 +7,7 @@ layout: home
 
 # Bootstrap Sass Jekyll Template for Github pages
 
-This is a Jekyll template for :octocat: Github pages based on the Bootstrap Framework ([Official Sass version](https://github.com/twbs/bootstrap-sass)).  It also utilizes practices from the Jekyll default theme `minima`.
+Jekyll Bootstrap template for :octocat: Github pages ([Official Sass version](https://github.com/twbs/bootstrap-sass)). No plugins needed!  It also utilizes many best practices from `minima` theme, checkout the [demo](https://mdrmike.github.io/jekyll-theme-gh-bootstrap/).
 
 **Note:** :book: There are a few known configuration :bug: issues due to Jekyll sass-converter and bootstrap sass requirements.  The results work fine :rocket:, at least for most Bootstrap features, but it's worth :school: understanding [Configuration & Usage](https://github.com/twbs/bootstrap-sass/blob/v3.3.7/README.md) in the TWBS README.
 
