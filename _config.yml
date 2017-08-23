@@ -39,7 +39,7 @@ github_username:  jekyll
 # Github-pages list of gems https://pages.github.com/versions/
 gems:
   - jekyll-feed             # SEO generate an Atom (RSS-like) feed of your Jekyll posts — https://github.com/jekyll/jekyll-feed
-#  - jekyll-redirect-from    # SEO 301 redirects — https://github.com/jekyll/jekyll-redirect-from
+  - jekyll-redirect-from    # SEO 301 redirects — https://github.com/jekyll/jekyll-redirect-from
 #  - jekyll-seo-tag          # SEO add metadata tags for search & social networks — https://github.com/jekyll/jekyll-seo-tag
 #  - jekyll-sitemap          # SEO Generate a sitemaps.org compliant sitemap — https://github.com/jekyll/jekyll-sitemap
 #  - jekyll-paginate         # Jekyll Built-in Pagination Generator for Jekyll
