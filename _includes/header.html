@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
     {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
+    {% assign page_paths = site.data.header_pages | default: site.header_pages | default: default_paths %}
     {% if page_paths %}
       <nav class="navbar navbar-inverse">
         <div class="container">
