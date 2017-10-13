@@ -1,0 +1,17 @@
+# Example how to use author handle: foobar
+# uncomment the following and change to your liking
+#foobar:
+#  github: gh_userhandle
+#  facebook: fb_userhandle
+#  instagram: ig_userhandle
+#  twitter: twt_userhandle
+#  picture: /relative/path/avatar.picture.png.svg.gif.jpg
+
+# Exmaple how to use authro full name with spaces instead of a handle
+# uncomment the following and change to your liking
+
+#? "Example Author Name"
+#:
+#  instagram: ig_userhandle
+#  twitter: twt_userhandle
+#  picture: /relative/path/avatar.picture.png.svg.gif.jpg

@@ -1,0 +1,26 @@
+## This file is used by jekyll-seo-tag
+##    Advanced usage: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
+##    By default, the site doesn't use this file, it is setup to use config.yml
+##
+## EXAMPLE DOCUMENT FRONTMATTER
+## --
+## author: "Full Author Name"
+## authors: ["author_name", "Full Author Name", "foo", "handle", "etc"]
+## # Pro-tip: If authors is present in the document's front matter as an array
+## #   (and author is not), the plugin will use the first author listed,
+## #   as Twitter supports only one author.
+## --
+
+
+# author_name:
+#   picture: /assets/images/some_photo.jpg
+#   twitter: twitterhandle
+#
+# ? "Full Author Name"
+# :
+#   picture: /assets/images/some_photo.jpg
+#   twitter: twitterhandle
+#
+# foo:
+#   picture: /assets/images/some_photo.jpg
+#   twitter: twitterhandle

@@ -38,7 +38,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 plugins:
   - jekyll-feed             # SEO generate an Atom (RSS-like) feed of your Jekyll posts — https://github.com/jekyll/jekyll-feed
   - jekyll-redirect-from    # SEO 301 redirects — https://github.com/jekyll/jekyll-redirect-from
-#  - jekyll-seo-tag          # SEO add metadata tags for search & social networks — https://github.com/jekyll/jekyll-seo-tag
+  - jekyll-seo-tag          # SEO add metadata tags for search & social networks — https://github.com/jekyll/jekyll-seo-tag
 #  - jekyll-sitemap          # SEO Generate a sitemaps.org compliant sitemap — https://github.com/jekyll/jekyll-sitemap
 #  - jekyll-paginate         # Jekyll Built-in Pagination Generator for Jekyll
 #  - jekyll-readme-index     # Jekyll Render a project's README as the site's index — https://github.com/benbalter/jekyll-readme-index/
@@ -85,3 +85,46 @@ repository: mdrmike/jekyll-theme-gh-bootstrap                                   
 sass:
     sass_dir: assets/_sass_imports
     style: compressed #nested expanded compact compressed
+
+# JEKYLL-REDIRECT-FROM
+# If you're using Jekyll in safe mode to mimic GitHub Pages, make sure to add
+# jekyll-redirect-from to your whitelist:
+#whitelist:
+#  - jekyll-redirect-from
+
+
+# JEKYLL-SEO-TAG
+# ███████ ███████  ██████
+# ██      ██      ██    ██
+# ███████ █████   ██    ██
+#      ██ ██      ██    ██
+# ███████ ███████  ██████
+# Usage: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# Advanced usage: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
+
+logo: /assets/images/logo.png
+name: config_yml__name  # default author for posts. (defaults to site.title if null)
+
+# default author for posts. (defaults to site.title if null)
+#author:
+#  twitter: config_yml__author_twitter
+
+#twitter:
+#  username: config_yml__twitter_username
+
+facebook:
+  app_id: config_yml__facebook_app_id
+  publisher: config_yml__facebook_publisher
+  admins: config_yml__facebook_admins
+
+social:
+  links: [ "https://twitter.com/config_yml__social", "https://www.facebook.com/config_yml__social", "https://www.linkedin.com/in/config_yml__social", "https://plus.google.com/+config_yml__social", "https://keybase.io/config_yml__social", "https://github.com/config_yml__social"]
+  name: config_yml__social_name
+
+webmaster_verifications:
+  google: config_yml__webmaster_google
+  bing: config_yml__webmaster_bing
+  alexa: config_yml__webmaster_alexa
+  yandex: config_yml__webmaster_yandex
+
+lang: en_US
