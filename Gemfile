@@ -1,10 +1,13 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
-# Gemfile is used by `bundler` package manger to ensure dependencies are met
+# This Gemfile is used by the `bundler` package manger to manage the version of
+# Jekyll and any plugins used and to ensure dependencies are met.
+# First, be sure you have the latest verion of bundler: `gem update bundler`
 
-# This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# If you want to use a different version of Jekyll or a plugin (aka gem),
+# add/edit it below, save the file, and run `bundle install`.
+# Also, after running `bundle install`, use bundler to run the jekyll server
+# like this:
 #
 #     bundle exec jekyll serve
 #
@@ -13,17 +16,26 @@ ruby RUBY_VERSION
 # gem 'jekyll', '3.2.1'
 
 
-# Add gems to jekyll_plugins group
-# Use github-pages gem to ensure local development mirrors Github pages.
+# Add plugins (AKA gems) to jekyll_plugins group
+# Use github-pages gem to ensure local development is the same as Github pages.
+# Note github-pages, is a meta package that includes many gems available.
+# More info:
 #       Github-pages: https://github.com/github/pages-gem
 #       List of gems included: https://pages.github.com/versions/
 #
-# To use any of these gems, be sure to add to `_config.yml`
-#       For example, `jekyll-sitemap` is enabled by default.
+# To use these plugins, be sure to enable them by editing `_config.yml`
+# then adding them to the `plugins` section.
+# For example, edit `_config.yml` to include:
+#
+# plugins:
+#   - jemoji
+#   - jekyll-titles-from-headings
+#
+# Also note, some are enabled by default, such as, `jekyll-sitemap`.
 gem 'github-pages', group: :jekyll_plugins
 
 
-# Add gems to development group
+# Add plugins to development group
 # A few suggested gems for local development or when not using github pages
 #     To use, uncomment, then run `bundle install [--with=GROUP[ GROUP...]]`
 #     --with=<list> is A  space-separated  list of groups referencing gems to
