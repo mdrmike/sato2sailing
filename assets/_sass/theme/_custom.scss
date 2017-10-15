@@ -1,4 +1,20 @@
+// Ensure all images are responsive
 img {
   height: auto;
   max-width: 100%;
+}
+
+// defaults for brand/logo
+.navbar-brand {
+  height: 60px;
+  padding: 5px 15px;
+
+  .logo {
+    display: block;
+    max-height: 50px;
+
+    .big {
+      max-width: 200px;
+    }
+  }
 }

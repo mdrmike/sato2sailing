@@ -1,0 +1,7 @@
+<a class="navbar-brand" href="{{ "/" | relative_url }}">
+{% if site.logo %}
+<img class="logo" aria-hidden="true" src="{{ site.logo | relative_url }}">
+{% else %}
+<i class="fa fa-home" aria-hidden="true"></i>
+{% endif %}
+{% if site.title-nav %}{{ site.title | escape }}{% endif %}</a>
