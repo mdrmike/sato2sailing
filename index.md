@@ -42,7 +42,7 @@ bundle exec jekyll serve
 -   `Gemfile` is used by `bundler` package manger to setup local environment.
 -   `_config.yml` is used by to setup jekyll and plugins (or override default) `site.` variables, and define defaults.  The syntax is standard YAML.
 -   `_data` folder can be used for menus, social plugins, and other "data" elements.
--   To customize the style, look in `assets`.  `style.scss` has info about how Jekyll uses sass.  Changes should be done in `assets/_sass_imports/theme.scss` or `theme/_custom.scss` and `theme/_theme_variables.scss`
+-   To customize the style, look in `assets`.  `style.scss` has info about how Jekyll uses sass.  Changes should be done in `assets/_sass/theme.scss` or `theme/_custom.scss` and `theme/_theme_variables.scss`
 -   Jekyll is made up of two defaults content types.  `pages` are for static content. `posts` are for periodic content, like a blog.  `collections` can be defined to add new content types, and can make use of `_data`.  All can take advantage of `tags` & `categories`.
 -   Customize static pages such as `index.md`, `about.md` then add/delete files in `_posts`
 

@@ -83,7 +83,7 @@ repository: mdrmike/jekyll-theme-gh-bootstrap                                   
 # Jekyll Sass Converter: https://github.com/jekyll/jekyll-sass-converter/
 # Docs: https://jekyllrb.com/docs/assets/#sassscss
 sass:
-    sass_dir: assets/_sass_imports
+    sass_dir: assets/_sass
     style: compressed #nested expanded compact compressed
 
 # JEKYLL-REDIRECT-FROM
