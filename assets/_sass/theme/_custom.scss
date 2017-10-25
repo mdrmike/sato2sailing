@@ -6,15 +6,33 @@ img {
 
 // defaults for brand/logo
 .navbar-brand {
-  height: 60px;
+  height: 100px;
   padding: 5px 15px;
 
   .logo {
     display: block;
-    max-height: 50px;
+    max-height: 10vh;
 
     .big {
-      max-width: 200px;
+      max-width: 12vh;
     }
   }
 }
+
+.site-header nav {
+  color: $headings-color;
+  text-align: center;
+  background-color: $brand-secondary;
+  background-image: linear-gradient(120deg, $brand-secondary, $brand-primary);
+  height: 15vh;
+  border-radius: 0;
+}
+
+h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+   color: $brand-secondary;
+ }

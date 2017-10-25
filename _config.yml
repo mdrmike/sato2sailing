@@ -9,14 +9,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Sato Sailing Club
+description: Sailing for fun and learning
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "/jekyll-theme-gh-bootstrap" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+show_downloads: false
+show_projectpage: false
+
+google_analytics: UA-107316710-1
+permalink: /:categories/:title/
+
+collections:
+- blocks
+
+# defaults:
+#   - scope:
+#       path: "blocks"
+#       type: blocks
+#     values:
+#      published: false
 
 ## SITE NAVIGATION
 # By default, all pages in your site are added to navigation.

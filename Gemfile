@@ -50,6 +50,7 @@ gem 'bootstrap-sass', require: false, group: :development
 # generating sourcemaps using compass 1.0.3 (:bug: with 3.5.x branch)
 # see `assets/style.scss` for details
 gem 'sass', '~> 3.4.25', group: :development
+gem 'compass', '~> 1.0.3', group: :development
 
 # Add gems to travis group
 # About Travis CI: http://jekyllrb.com/docs/continuous-integration/

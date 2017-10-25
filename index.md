@@ -1,51 +1,24 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-#redirect_from: 
-# - /some-url/
-# - /index.php
-# - /default/
 ---
 
-# Bootstrap Sass Jekyll Template for Github pages
+## Welcome to Sato Sailing Club
 
-Jekyll Bootstrap template for :octocat: Github pages ([Official Sass version](https://github.com/twbs/bootstrap-sass)). No plugins needed!  It also utilizes many best practices from `minima` theme, checkout the [demo](https://mdrmike.github.io/jekyll-theme-gh-bootstrap/).
-
-**Note:** :book: There are a few known configuration :bug: issues due to Jekyll sass-converter and bootstrap sass requirements.  The results work fine :rocket:, at least for most Bootstrap features, but it's worth :school: understanding [Configuration & Usage](https://github.com/twbs/bootstrap-sass/blob/v3.3.7/README.md) in the TWBS README.
-
-## Setup
-
-1.  Download or clone a copy of [this repository]({{ site.github.repository_url }}) into a local folder
-1.  Open your local copy of the project folder
-1.  Setup Bundler & Jekyll
-1.  Use bundler to configure your system for the project
-1.  Open your favorite text editor
-1.  Run the Jekyll server
-1.  Browse to [http://localhost:4000](http://localhost:4000)
+Start by accessing the club :file_folder: <a href="https://drive.google.com/drive/folders/0B7xS-e7S036gT0QzNGpURHl4LTA" rel="nofollow" target="_blank">Shared folder</a>. This folder provides full read, edit, and create access to all the shared documents about the club. They are updated often, by all parents & sailors.  We share info about the club, coordinate carpooling to practice and regattas, coordinate fund-raising activities, and more!
 
 
-#### Example 
 
-```sh
-git clone {{ site.github.clone_url }}
-cd {{ site.github.project_title }}
-gem install jekyll bundler
-bundle install
-atom .
-bundle exec jekyll serve
-```
+### Sailing Organizations
 
-## How to Customize
+-  [ABYC: Alamitos Bay Yacht Club](https://abyc.org/high-school-sailing/high-school) — Local facility that hosts High School Sailing Program, including boats & coaching.
+-  [PCISA ](https://pcisa.hssailing.org/schedule/socal/2017/2018/socal) — Regional district of the [Interscholastic Sailing Association (ISSA)](https://hssailing.org/) governs secondary school sailing in the United States
+-  [SCYRRA](http://www.scyyra.org) — Dedicated to the improvement of sailing skills among youth racing sailors in Southern California.  Not a part of High School sailing, but provides access to more regattas & avenues to learn.
+- [US Sailing](http://www.ussailing.org/racing/youth-sailing/) — US Sailing’s Youth Department connects you to the programs, events, and resources that support youth sailors and stakeholders.
+- [ISAF: Team Racing](http://www.sailing.org/new-to-sailing/team-racing.php) — About Team racing; By World Sailing (ISAF), who is responsible for the promotion of sailing internationally, Olympic and Paralympic Games, Racing Rules & regulations, and more.
 
--   `Gemfile` is used by `bundler` package manger to setup local environment.
--   `_config.yml` is used by to setup jekyll and plugins (or override default) `site.` variables, and define defaults.  The syntax is standard YAML.
--   `_data` folder can be used for menus, social plugins, and other "data" elements.
--   To customize the style, look in `assets`.  `style.scss` has info about how Jekyll uses sass.  Changes should be done in `assets/_sass/theme.scss` or `theme/_custom.scss` and `theme/_theme_variables.scss`
--   Jekyll is made up of two defaults content types.  `pages` are for static content. `posts` are for periodic content, like a blog.  `collections` can be defined to add new content types, and can make use of `_data`.  All can take advantage of `tags` & `categories`.
--   Customize static pages such as `index.md`, `about.md` then add/delete files in `_posts`
 
-## Bugs and Issues
-
-Find a bug or have a suggestion? [Open a new issue]({{ site.github.issues_url }}) on GitHub.
+### Weather & Navigation
+- :sunny: [NOAA LA/OC Marine Weather](http://marine.weather.gov/MapClick.php?x=251&y=181&site=lox&zmx=&zmy=&map_x=251&map_y=181#.WdsP4N-YWV4) // :small_red_triangle: [LA/OC Buoy Data](http://www.ndbc.noaa.gov/radial_search.php?lat1=33.5645N&lon1=118.7508W&uom=E&dist=50)
+- :ocean: [NOAA SD Marine Weather](http://marine.weather.gov/MapClick.php?x=321&y=232&site=lox&zmx=&zmy=&map_x=321&map_y=232#.WdsQ8N-YWV4) // :small_red_triangle: [SD Buoy Data](http://www.ndbc.noaa.gov/radial_search.php?lat1=32.8501N&lon1=117.5881W&uom=E&dist=50)
+- :earth_americas: [Nautical Charts](https://oceanservice.noaa.gov/facts/find-charts.html)
+- :partly_sunny: [Enhanced Weather Display](http://preview.weather.gov/edd/)  // :iphone: [Mobile](https://go.usa.gov/xnxUe)
