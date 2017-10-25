@@ -12,8 +12,8 @@
 title: Sato Sailing Club
 description: Sailing for fun and learning
 email: your-email@domain.com
-#baseurl: "/satosailing" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/satosailing" # the subpath of your site, e.g. /blog
+url: "mdrmike.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_downloads: false
 show_projectpage: false
