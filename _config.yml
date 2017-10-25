@@ -91,7 +91,7 @@ exclude:
 
 # Github Metadata (github-pages)
 # Docs https://github.com/jekyll/github-metadata
-repository: mdrmike/jekyll-theme-gh-bootstrap                                   # username/repo-name
+repository: mdrmike/satosailing                                   # username/repo-name
 
 # Jekyll Sass Converter: https://github.com/jekyll/jekyll-sass-converter/
 # Docs: https://jekyllrb.com/docs/assets/#sassscss
