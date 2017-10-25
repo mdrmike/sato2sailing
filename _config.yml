@@ -12,7 +12,7 @@
 title: Sato Sailing Club
 description: Sailing for fun and learning
 email: your-email@domain.com
-baseurl: "/jekyll-theme-gh-bootstrap" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_downloads: false
