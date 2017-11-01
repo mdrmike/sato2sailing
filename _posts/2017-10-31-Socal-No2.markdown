@@ -1,0 +1,35 @@
+---
+layout: default
+title:  "SoCal Series 2/5 Info"
+date:   2017-10-31 22:30:00 -0700
+last_modified_at: 2017-10-31 22:30:00 -0700
+categories: [ info ]
+author: Mike Stewart
+#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
+#social:
+#  name: satosailingclub # If the user or organization name differs from the site's name
+#  date_modified: 2017-09-29 01:07:52 -0700
+#  links:
+#    - https://twitter.com/frontmatter_styleguide_social
+#    - https://www.facebook.com/frontmatter_styleguide_social
+#    - https://www.linkedin.com/in/frontmatter_styleguide_social
+#    - https://plus.google.com/+frontmatter_styleguide_social
+#    - https://keybase.io/frontmatter_styleguide_social
+#    - https://github.com/frontmatter_styleguide_social
+---
+
+
+
+## SoCal #2 at BHYC in Newport
+
+We are registered!  Check out the full [PCISA SoCal #2 Entry List!
+](https://hssailing.org/machform/widget.php?key=67876xeb2ffe3c5d)  This Saturday Nov 4, is a one day regatta at [BCYC, in Newport Beach](http://bcyc.org/).  We currently have two boats registered and might add a third if we have enough sailors attending and coach Mark Ryan at ABYC feels we can be competitive.  
+
+If you're attending, be sure to subscribe to our calendar (on our homepage, click the icon at the bottom right), which also includes a map link to venue for each event. Details about the regatta are also found on the PCISA website, and in the [Notice of Race (NOR)](https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf).
+
+
+### Please Confirm Attendance
+
+We need to confirm who's going by end of practice on Wednesday Nov 1.  Note the PCISA Entry List only lists a skipper and one crew member.  Both boats also include a third alternate skipper or crew member.  Not sure if you're signed up?  You can always [check the Regatta Participation spreadsheet](https://docs.google.com/spreadsheets/d/1Fi-safPTqkzyxh5QoJC42W5U_s2rLNkNWDNUzc6ybcE/edit#gid=633712323), which is in our shared folder.  It lists all responses for upcoming regattas.
+
+If you're not listed, don't edit the spreadsheet, use this form to :triangular_flag_on_post: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform" rel="nofollow" target="_blank">Sign-up for an Upcoming Regatta</a>.  This form includes a question that lets us know if you're unable to attend which helps us coordinate.  Please check the calendar and then use the form to share your plans about all upcoming regattas.  _As long as we haven't yet registered, you can make adjustments (just save the email)._
