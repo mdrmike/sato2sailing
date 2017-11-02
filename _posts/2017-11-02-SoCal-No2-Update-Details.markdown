@@ -39,7 +39,7 @@ author: Mike Stewart
 -  [Nāgaraga Dragon](http://wikien4.appspot.com/wiki/Japanese_dragon#Indo-Japanese_dragons) (Troy Davidson, Elizabeth Rossbach)
 -  [Alternate Crew](https://pcisa.hssailing.org/schools/school-details/15649) (Owen Smith, Obi Okeke)
 
-**Team names:** Derived from [Japanese Dragon Mythology](http://wikien4.appspot.com/wiki/Japanese_dragon#Chinese-Japanese_dragons).
+**Team names:** Derived from [Japanese Dragon Mythology](http://wikien4.appspot.com/wiki/Japanese_dragon#Chinese-Japanese_dragons) (Sato mascot is a Dragon).
   
 
 ## Regatta Preparation & Equipment
