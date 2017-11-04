@@ -2,7 +2,7 @@
 layout: default
 title:  "SoCal No2 Update and Details"
 date:   2017-11-02 08:39:00 -0700
-last_modified_at: 2017-11-02 08:39:00 -0700
+last_modified_at: 2017-11-04 11:44:00 -0700
 categories: [ info ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -18,7 +18,9 @@ author: Mike Stewart
 #    - https://github.com/frontmatter_styleguide_social
 ---
 
+## Update
 
+[Check scores](http://scores.hssailing.org/f17/2017-18-pcisasocal-silver/). After each race, results will be added here.
 
 ## SoCal #2 Registration
 
