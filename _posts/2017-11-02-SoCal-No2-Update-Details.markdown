@@ -2,8 +2,8 @@
 layout: default
 title:  "SoCal No2 Update and Details"
 date:   2017-11-02 08:39:00 -0700
-last_modified_at: 2017-11-04 11:44:00 -0700
-categories: [ info ]
+last_modified_at: 2017-11-05 12:26:40 -0800
+categories: [ regatta ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
 #social:
@@ -18,9 +18,11 @@ author: Mike Stewart
 #    - https://github.com/frontmatter_styleguide_social
 ---
 
-## Update
+## Results
 
-[Check scores](http://scores.hssailing.org/f17/2017-18-pcisasocal-silver/). After each race, results will be added here.
+We had our first outing as an entire team, and for such a young team, Sato did really well!  Our consistent practices are paying off! 
+
+:checkered_flag: [See our score results](http://scores.hssailing.org/f17/2017-18-pcisasocal-silver/)
 
 ## SoCal #2 Registration
 
