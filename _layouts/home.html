@@ -4,30 +4,13 @@ layout: default
 
   <div class="row">
     <aside class="col-md-5 col-md-push-7">
-      <header><h3 class="page-heading">News</h3></header>
-      <ul class="post-list text-muted list-unstyled">
-        {% for post in site.posts %}
-          <li>
-            {% assign date_format = site.minima.date_format | default: "%m/%-d/%y" %}
-            <h4>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}</a>
-                <span class="post-meta"> [{{ post.date | date: date_format }}] </span>
-              </h4>
-          </li>
-        {% endfor %}
-      </ul>
       {% for block in site.blocks %}
-      <header><h3>{{ block.title }}</h3></header>
-      {{ block.content }}
-    {% endfor %}
+      {% if block.location == 'sidebar' %}
+      {% include blocks.html %}
+      {% endif %}
+      {% endfor %}
     </aside>
     <article class="col-md-7 col-md-pull-5">
       {{ content }}
     </article><!--/.col -->
-  </div><!--/.row -->
-  <div class="row jumbotron">
-    <aside class="col-md-12">
-      {% include calendar.html %}
-    </aside>
   </div><!--/.row -->

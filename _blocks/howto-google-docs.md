@@ -1,5 +1,6 @@
 ---
 title: "Google Apps"
+location: footer
 ---
 
 **Note:** If you're accessing our shared folder from your phone or tablet, everything works using a web browser on any device (and no accounts are required).  However, there is also an option to install the apps _Google Docs_ and _Google Sheets_ which may make it even easier to edit. They are unessesary, but it gives you more options.

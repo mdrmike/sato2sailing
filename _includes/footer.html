@@ -5,7 +5,7 @@
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="row">
-      <div class="col-sm-6 col-md-4">
+      <div class="col-sm-12 col-md-8">
         <ul class="contact-list">
           <li>
             {% if site.author %}
@@ -18,22 +18,11 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
-      </div>
-
-      <div class="col-sm-6 col-md-4">
-        <ul class="text-muted list-unstyled">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        {% for block in site.blocks %}
+        {% if block.location == 'footer' %}
+        {% include blocks.html %}
+        {% endif %}
+        {% endfor %}
       </div>
 
       <div class="col-sm-12 col-md-4">
