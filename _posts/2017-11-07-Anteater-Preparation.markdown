@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title:  "Anteater Regatta Preparation"
 date:   2017-11-07 07:37:52 -0700
 last_modified_at: 2017-11-07 07:37:52 -0700
