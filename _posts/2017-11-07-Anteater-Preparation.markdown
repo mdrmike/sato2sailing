@@ -33,7 +33,7 @@ Saturday and Sunday is Anteater Regatta at NHYC (same venue as SoCal #1, and rac
 -   We have five (5) tickets for sailors for the hosted BBQ lunch on Saturday. (We can buy more onsite)
 -   We have three (3) tickets for Sunday (Ugh! Apparently mixed up which day we can buy more lunches :frowning:).
 
-### sailors
+### Sailors
 
 - Team A: Nikhil Stewart & Diego Lockyer
 - Team B: Dextin Sparrevohn & Elissa Martinez
