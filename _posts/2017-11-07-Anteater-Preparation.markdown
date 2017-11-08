@@ -1,5 +1,5 @@
 ---
-layout: sidebar
+layout: default
 title:  "Anteater Regatta Preparation"
 date:   2017-11-07 07:37:52 -0700
 last_modified_at: 2017-11-07 07:37:52 -0700
@@ -45,7 +45,7 @@ Saturday and Sunday is [Anteater Regatta at NHYC](https://www.google.com/maps/pl
 -   Bring your lawn chairs and get comfy on our docks! Tables on the beach are available if you feel compelled to do homework, or feel free to bring your own.
 
 
-### Sailors
+### Participation
 
 - **Team A:**  Nikhil Stewart, Diego Lockyer
 - **Team B:**  Dextin Sparrevohn, Elissa Martinez
