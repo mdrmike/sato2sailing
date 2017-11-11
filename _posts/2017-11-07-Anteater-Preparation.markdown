@@ -50,3 +50,7 @@ Saturday and Sunday is [Anteater Regatta at NHYC](https://www.google.com/maps/pl
 - **Team A:**  Nikhil Stewart, Diego Lockyer
 - **Team B:**  Dextin Sparrevohn, Elissa Martinez
 - **Alternates:**  Troy Davidson, Owen Smith 
+
+### Results
+
+[Scores](http://scores.hssailing.org/f17/anteater-silver/)
