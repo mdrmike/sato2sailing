@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Anteater Regatta Preparation"
-date:   2017-11-07 07:37:52 -0700
-last_modified_at: 2017-11-07 07:37:52 -0700
+date:   2017-11-07 07:41:15 -0700
+last_modified_at: 2017-11-13 08:53:20 -0700
 categories: [ regatta, PCISA ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -44,13 +44,8 @@ Saturday and Sunday is [Anteater Regatta at NHYC](https://www.google.com/maps/pl
 -   Pop-up tents will be permitted in marked areas of the boatyard only. Space is limited. Please no tents larger than 10'X10'
 -   Bring your lawn chairs and get comfy on our docks! Tables on the beach are available if you feel compelled to do homework, or feel free to bring your own.
 
-
 ### Participation
 
 - **Team A:**  Nikhil Stewart, Diego Lockyer
-- **Team B:**  Dextin Sparrevohn, Elissa Martinez
-- **Alternates:**  Troy Davidson, Owen Smith 
-
-### Results
-
-[Scores](http://scores.hssailing.org/f17/anteater-silver/)
+- **Team B (Sat):**  Dextin Sparrevohn, Elissa Martinez
+- **Team B (Sun):**  Troy Davidson, Owen Smith 
