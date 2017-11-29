@@ -11,7 +11,7 @@ location: sidebar
     <h4>
       <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}</a>
-        <span class="post-meta"> [{{ post.date | date: date_format }}] </span>
+        {% if post.last_modified_at > post.date %} <span class="label label-info">updated</span>{% endif %}
       </h4>
   </li>
 {% endfor %}

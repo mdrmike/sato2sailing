@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Anteater Regatta Results"
 date:   2017-11-23 07:50:25 -0800
 last_modified_at: 2017-11-23 07:50:25 -0800
@@ -17,8 +17,6 @@ author: Mike Stewart
 #    - https://keybase.io/frontmatter_styleguide_social
 #    - https://github.com/frontmatter_styleguide_social
 ---
-
-### Anteater Regatta
 
 Sato Sailing's first PCISA Regatta was great!  We had fun even though wind was non-existent on Sunday!  Overall we placed really well in some races but not as well in others, and generally learned a lot about how the regatta is more structured than the Socal series.
 
