@@ -1,11 +1,9 @@
 ---
 layout: sidebar
-title: Calendar
+title: "Sato Sailing Events Calendar"
 permalink: /calendar/
 published: true
 ---
-
-# Sato Sailing Events Calendar
 
 Add our calendar to your Google Calendar by clicking the icon at the bottom right.
  

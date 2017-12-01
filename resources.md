@@ -1,12 +1,11 @@
 ---
 layout: sidebar
-title: Resources
+title: "Resources, Inspiration, and Learning"
 permalink: /resources/
 published: true
 #redirect_from: /some-url/
 ---
 
-## Resources, Inspiration, and Learning
 
 -   [CFJ Class](http://www.cfjclass.org/) —  Information for sailors, event organizers, and anyone interested in learning more about the CFJ Class
 -   [Sailing Anarchy](http://sailinganarchy.com/) — Everything Sailing News
@@ -17,6 +16,6 @@ published: true
 -   [Sail Juice](http://sailjuice.live.subhub.com/) — Sailing racing lessons & tips!
 
 
-###  Videos for Learning
+###  Videos
 
 -   []()
