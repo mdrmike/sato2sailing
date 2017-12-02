@@ -27,6 +27,10 @@ This the place where you'll find information about the gear you'll need for sail
 
 Suggested apparel for winter/spring and anytime water is particularly cold, such as NorCal.  In general search for "foul weather gear (or apparel)".
 
+-   [Apparel Guide]([Apparel Guide](https://www.westcoastsailing.net/default/blog/scholastic-sailing-apparel-guide/)) by West Coast Sailing
+-   [Selecting Foul Weather Gear](https://www.westmarine.com/WestAdvisor/Selecting-Foul-Weather-Gear) by West Marine
+-   [Caring for Gear](https://www.westmarine.com/WestAdvisor/DIY-Caring-For-Your-Foul-Weather-Gear) by West Marine
+
 #### Local
 
 -   [West Marine](https://www.westmarine.com/) located is here in Long Beach  [Cyber Deals Through Dec 3](https://www.westmarine.com/?mrkgcl=481&mrkgadid=245084753&rkg_id=h-bd58da4d659af1b1c55f1d725381c061_t-1512083604&cm_mmc=PS-_-Google-_-Brand-_-marine%2520west%2520store&adpos=1t1&creative=235610244709&device=c&matchtype=b&network=g&gclid=CjwKCAiA9f7QBRBpEiwApLGUilfbRyh04ga2UnwtR-2zxEheQ2ZkxfL77THFqqKPCq0W9UubjJNtbBoCe9QQAvD_BwE)
