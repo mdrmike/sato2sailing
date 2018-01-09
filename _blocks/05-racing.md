@@ -1,6 +1,7 @@
 ---
 title: "Regatta Links"
 location: sidebar
+published: false
 ---
 
 <header><h3 class="page-heading">{{ blocks.title }}</h3></header>
