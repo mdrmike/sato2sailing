@@ -3,11 +3,14 @@ layout: sidebar
 title: "Gear & Apparel"
 permalink: /apparel/
 published: true
+last_modified_at: 2018-01-21 10:15:00 -0800
 #redirect_from: /some-url/
 ---
 
 
-This the place where you'll find information about the gear you'll need for sailing, and resources for getting better.
+This the place where you'll find information about the gear you'll need for sailing, plus resources for getting better.
+
+Special sailing must have is a splash gaurd (waterproof, but not warm).  To stay warm buy mid-layers like fleece. Finally, to stay warm in case of capsize, your base layer clothes (including underwear) should be a skin tight clothes made of a **water wicking material** like, _bamboo, merino wool, nylon, polyester or other synthetic blend_.   
 
 ## Required Sailing Gear
 
