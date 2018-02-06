@@ -10,7 +10,7 @@ last_modified_at: 2018-01-21 10:15:00 -0800
 
 This the place where you'll find information about the gear you'll need for sailing, plus resources for getting better.
 
-Special sailing must have is a splash gaurd (waterproof, but not warm).  To stay warm buy mid-layers like fleece. Finally, to stay warm in case of capsize, your base layer clothes (including underwear) should be a skin tight clothes made of a **water wicking material** like, _bamboo, merino wool, nylon, polyester or other synthetic blend_.   
+For winter months, its important to have a waterproof splash jacket—durable, lightweight  and waterproof, but not warm. To stay warm buy mid-layers like fleece & wool. Finally, to stay warm in case of capsize, your base layer clothes (including underwear) should be skin tight clothes made of a **water wicking material** like, _bamboo, synthetic blend, or merino wool_.
 
 ## Required Sailing Gear
 
@@ -24,7 +24,7 @@ Special sailing must have is a splash gaurd (waterproof, but not warm).  To stay
   USCG (US Coast Guard) Approved. Be careful not to buy a *buoyancy aid*, or *inflatable life vests* as neither are allowed (per ISSA rules).
   
 -   **Shoes**  
-  Something that covers their toes and can get wet. Old converse or vans are great, sailing or surf booties are more ideal for racing.
+  Something that covers their toes and can get wet. Old converse or vans are great, sailing or surf booties are more ideal for racing and cold weather.
   
 -   **Sunglasses**  
   with UV protection.  A strap/clip is also helpful to ensure they're not lost during a capsize or blown away.
@@ -38,13 +38,13 @@ Special sailing must have is a splash gaurd (waterproof, but not warm).  To stay
 
 ### Sailing Apparel
 
-During the winter months, you should plan to invest in some warmer gear. Fleece, beanies, and anything waterproof are a good place to start. Wetsuits are ideal for sailing and warm neoprene or waterproof gloves are a must. 
+During the winter months, you should plan to invest in some warmer gear. Fleece, beanies, and waterproof outer layers are a good place to start. Wetsuits are ideal for sailing and warm neoprene or waterproof gloves are a must.
 
 **Gear Suggestions include:** Foul weather bibs, smocks, salopettes, neoprene tops/bottoms/wetsuits, sailing booties.  Gill and Zhik are popular for apparel, but that's not an endorsement.  Always choose function over form/brand. Sailing apparel is particularly needed in winter/spring and anytime water is particularly cold, such as NorCal.
 
 #### What to Wear Sailing
 
-Layer! Base layer (wick moisture), mid layer (warmth), and outer layer (waterproof). A base layer should wick moisture away from skin to help stay warm after a capsize or cool on a hot day; look for clothing designed for this with materials such as bamboo, merino wool, and synthetic fibers. Mid layers should also help wick away moisture, but are chosen based on insulation for cold days. Top outer layers are for keeping you dry from water spray/splashing.  
+Layer! Base layer (wick moisture), mid layer (warmth), and outer layer (waterproof). A base layer should be specially made to wick moisture away from skin to help stay warm after a capsize or cool on a hot day; look for clothing designed for this with materials such as bamboo, merino wool, and synthetic fibers. Mid layers should also help wick away moisture, but are chosen based on insulation for cold days. Top outer layers are for keeping you dry from water spray/splashing.  
 
 
 ##### Additional insights and advice:
