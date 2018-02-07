@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sidebar
 title: Program Information
 permalink: /about/
 published: true
