@@ -2,7 +2,7 @@
 layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
-last_modified_at: 2018-02-11 11:30:00 -0800
+last_modified_at: 2018-02-20 12:35:00 -0800
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -25,7 +25,9 @@ News is some of the team will fly up, some driving. Communicate and coordinate n
 
 **Lodging:**  We'll mostly be on our own, but it'd be nice to coordinate a team dinner on Friday or Saturday, and hopefully include other ABYC teams (Wilson/Poly/HB). Many of us have family, but if you're not sure where you want to stay, Nikhil & Diego likely staying in the East Bay near Oakland/Berkeley.  Others will be in SF area.   
 
-## Update: Schedule & Info
+---
+
+## Update #1: Schedule & Info
 
 **Treasure Island Sailing Center (TISC)**  
 [698 California Ave Building 112, San Francisco, CA](https://www.google.com/maps/dir/33.8086316,-118.124807/Treasure+Island+Sailing+Center,+698+California+Ave+%23+112,+San+Francisco,+CA+94130/@35.7974095,-122.5093203,7z/)  
@@ -73,6 +75,35 @@ Coaches and spectators can view the racing from the shore west of the TISC gate.
 - Follow the exit road around to the west side of Yerba Buena Island. 
 - At the stop sign, merge onto the road that takes you down to the gates of Treasure Island. 
 - Continue through the gate and take your first right onto California Ave.
+
+---
+
+## Update #2 
+
+Feb 20 Update Follows
+
+### Overview
+
+-  Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about. 
+- Folder for Regatta Coordination
+- LB Poly & LB Wilson regatta coordination
+
+### Cal Sailing Team will be offering tours of the UC Berkeley
+
+The Cal Sailing Team is excited to support TISC in hosting PCISA #4. Unlike years past, this year the Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about. In the following Google form, you can select what tour you want to go on as well as whether you are interested in the practice. Note that priority for the practice will be given to those who also sign up for the 1:30pm tour and that those doing the 5:00pm tour cannot practice. Additionally, for those attending our practice, please have this waiver signed before coming if you want to sail. 
+
+_Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
+
+#### Join the Tour / Practice on Friday
+
+-  **Sign-up:** [Tour/Practice Form](https://goo.gl/forms/IlBzaWrw572sJI4F3)
+-  **Practice Waiver:** [Regatta Folder](https://drive.google.com/drive/u/0/folders/1sLefrs2C0Dr9aQfFDhZ-3-T6FZA-nOUf)
+
+
+### News & Coordination 
+
+- [LB Poly & LB Wilson Sailing coordination](https://docs.google.com/document/d/1UTYqVQaF3iQyMHbGbtZLW8UAZVJ4gJ-rA3Mh9rQPayc/edit)
+-  **Add More Docs:** [Regatta Coordination](https://drive.google.com/drive/u/0/folders/1sLefrs2C0Dr9aQfFDhZ-3-T6FZA-nOUf)
 
 
 ----
