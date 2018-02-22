@@ -24,10 +24,10 @@ location: sidebar
   {% capture post_date %}<small>{{ post.date | date: date_format }}</small>{% endcapture %}
 
   {% if post_in_seconds > recent_posts %}
-  {% capture label_new %}<span class="label label-primary">new</span>{% endcapture %}
+  {% capture label_new %}<span class="label label-success">new</span>{% endcapture %}
     {% if post.last_modified_at > post.date %}
       {% assign label_new = '' %}{% comment %}Clear NEW if modified{% endcomment %}
-      {% capture label_updated %}<span class="label label-info">Updated <span class="badge">{{ post_updated }}</span></span>{% endcapture %}
+      {% capture label_updated %}<span class="label label-warning">Updated <span class="badge">{{ post_updated }}</span></span>{% endcapture %}
     {% endif %}
   {% endif %}
   <li>
