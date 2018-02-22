@@ -27,12 +27,6 @@ More details forthcoming, but please sign-up today if you're attending. We need 
 
 ### Check Updates
 
-Please check news updates on the website (make note of the update date)
+Please check news updates on the website. For each item in the news posts that has changed, there is an **updated** flag (with a date).  Flags older than six weeks are removed automatically.  
 
-----
-
-### DISCLAIMER OF LIABILITY
-
-Competitors participate in the regatta entirely at their own risk. See rule 4, Decision to Race. The organizing authority will not accept any liability for material damage or personal injury or death sustained in conjunction with or prior to, during or after the regatta.
-
-----
+**Note:** _Date of update_, any news item could change multiple times.

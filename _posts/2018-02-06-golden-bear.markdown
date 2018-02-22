@@ -2,7 +2,7 @@
 layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
-last_modified_at: 2018-02-20 12:35:00 -0800
+last_modified_at: 2018-02-21 12:52:00 -0800
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -106,10 +106,6 @@ _Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
 -  **Add More Docs:** [Regatta Coordination](https://drive.google.com/drive/u/0/folders/1sLefrs2C0Dr9aQfFDhZ-3-T6FZA-nOUf)
 
 
-----
+## Update #3
 
-### DISCLAIMER OF LIABILITY
-
-Competitors participate in the regatta entirely at their own risk. See rule 4, Decision to Race. The organizing authority will not accept any liability for material damage or personal injury or death sustained in conjunction with or prior to, during or after the regatta.
-
-----
+- [Info regarding Berkeley Tour](https://docs.google.com/document/d/1KJaYGoPqf2HibtRtsysBcMcW23mSZihIWgYOOIdqtvU/edit)
