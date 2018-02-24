@@ -2,7 +2,7 @@
 layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
-last_modified_at: 2018-02-21 12:52:00 -0800
+last_modified_at: 2018-02-23 23:13:00 -0800
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -18,6 +18,16 @@ author: Mike Stewart
 #    - https://github.com/frontmatter_styleguide_social
 ---
 
+<div class="alert alert-info">
+<h4>Note this post has been updated four times. Read each <em>Update #</em></h4>
+
+<p>Info has been posted as it's comes.  It's important to review each update, although it may be too late to act on a few update items.</p>  
+
+<p>For this regatta, Golden Bear, I've tried to organize many of the useful links on the home page block <strong>Treasure Island Regatta.</strong>  For example there's a link to the map of <em>Treasure Island, Parking info, regatta scores for silver, rotations,</em> etc.</p>  
+
+<p>Finally, note the website now has comments to posts. It's aimed at sailors and parents, but anyone is welcome to use it for feedback, or to ask about anything unclear.</p>
+</div>
+
 Are you ready to sail in the cold waters of San Francisco Bay?  It's winter and there's a potential it'll even be raining. [Golden Bear](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is in three weeks.  [Get sailing apparel](/apparel/) now, and be prepared to layer, stay dry, and stay warm! (Bring a change of clothes in case of capsize or rain).
 
 The [PCISA Golden Bear Regatta](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is hosted by [Treasure Island Sailing Center](https://www.tisailing.org/) [( :earth_americas: Map of TISC )](https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8160056,-122.3658273,15z/) [( :iphone: Directions )](https://www.google.com/maps/dir/33.8086316,-118.124807/Treasure+Island+Sailing+Center,+698+California+Ave+%23+112,+San+Francisco,+CA+94130/@35.7974095,-122.5093203,7z/).
@@ -26,6 +36,8 @@ News is some of the team will fly up, some driving. Communicate and coordinate n
 **Lodging:**  We'll mostly be on our own, but it'd be nice to coordinate a team dinner on Friday or Saturday, and hopefully include other ABYC teams (Wilson/Poly/HB). Many of us have family, but if you're not sure where you want to stay, Nikhil & Diego likely staying in the East Bay near Oakland/Berkeley.  Others will be in SF area.   
 
 ---
+
+
 
 ## Update #1: Schedule & Info
 
@@ -109,3 +121,39 @@ _Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
 ## Update #3
 
 - [Info regarding Berkeley Tour](https://docs.google.com/document/d/1KJaYGoPqf2HibtRtsysBcMcW23mSZihIWgYOOIdqtvU/edit)
+
+## Update #4
+
+- [Parking Info](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDgxNDU1NTY5OTk5NjA5MDI5MTMBMDQwMTEwOTU2OTI0NjU0NDMwMjQBZ3lIb2dOYTVCUUFKATAuMQEBdjI)
+- Original post of [Notice to Golden Bear Competitors](https://groups.google.com/forum/#!msg/pcisa/CU1_Oxpmf4Q/gyHogNa5BQAJ).  _Text is below._
+
+
+#### Notice to Golden Bear Competitors
+
+**PARKING-**  Please review the attached parking map.  Do Not park in areas labeled in RED. The Treasure Island Sailing Center has limited parking in the immediate area of the event.  Trailer parking will be along the North fence of the sailing center.  Cars can only be parked in the GREEN areas shown on map. There are local businesses in the immediate area that need to provide parking to their customers. 
+
+**WEATHER-** temps will be chilly this weekend.  We will likely not see above 60 degrees.  The water up in Nor Cal is still very cold. Please make sure to dress warmly and bring appropriate sailing gear.
+
+**BOAT LAUNCHING-**  Do not launch your boats until after the competitors meeting.  Gold fleet will launch first on Saturday!
+
+**TECH SCORE/RP FORMS-** Don’t forget to fill in your teams Records of Participation.  Record of Participation forms shall be submitted online via the TechScore program by the close of protest filing deadline on the last day of each event
+
+**SECURE YOUR VALUABLES-** the area around Treasure Island is open to the public.  We strongly recommend that you do not leave valuables in your vehicles or around un-accompanied team tents.  The TI Sailing Center and PCISA are not responsible for any lost or stolen items.
+
+**TEAM TENTS-** Please do not be greedy when it comes to finding a space for your team tent.  Space is limited and there are 60+ teams that need room for their team to gather.
+
+**STAY OFF THE ROCKS-** It is mandatory that all competitors and spectators stay off of the rocks along the south side of the shoreline.  There is no climbing or sitting on the rocks.
+
+**WINE TASTING FUNDRAISER-**   On Sunday February 25th from 11am - 1pm at the VIE Wine Tasting Room on Treasure Island (only a few feet from the main Golden Bear Regatta viewing) PCISA is hosting a gathering and fundraiser.  For $25 per person you get to sample 5 Wines and enjoy Luncheon Hors d'oeuvres and if desired Bocce Ball in a private setting just for our group while still able to watch the racing.
+
+We would appreciate it if you would purchase tickets online in advance at:
+
+https://hssailing.org/machform/view.php?id=72561
+
+ 
+
+**T-SHIRTS-**  Regatta Shirts will be sold on site for $20 each, Cash Only.
+
+**FOOD-** This event is NOT providing food for competitors.  BUT, there are some restaurants and a Deli on the island where you can purchase food.
+
+**TRASH-** There will be a large dumpster located next to the west gate of the sailing center.  Please make sure to clean up after your team each day and dispose of your trash in this dumpster.  We will have the blue water filtration system at the event so bring a reusable water bottle.
