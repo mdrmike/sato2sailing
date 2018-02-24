@@ -7,12 +7,12 @@ published: true
 links:
 - text: Map
   emoji: earth_americas
-  url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8160056,-122.3658273,15z/
+  url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767
   target: _blank
 
 - text: Parking
   emoji: car
-  url: https://docs.google.com/viewer?a=v&pid=forums&srcid=MDgxNDU1NTY5OTk5NjA5MDI5MTMBMDQwMTEwOTU2OTI0NjU0NDMwMjQBZ3lIb2dOYTVCUUFKATAuMQEBdjI&authuser=0
+  url: https://drive.google.com/open?id=19gho1hcHYA-wQJS8FGrJI2nzwQlFU4Kv
   target: _blank
 
 - text: Golden Bear Info

@@ -2,7 +2,7 @@
 layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
-last_modified_at: 2018-02-23 23:13:00 -0800
+last_modified_at: 2018-02-24 7:34:00 -0800
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -30,7 +30,7 @@ author: Mike Stewart
 
 Are you ready to sail in the cold waters of San Francisco Bay?  It's winter and there's a potential it'll even be raining. [Golden Bear](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is in three weeks.  [Get sailing apparel](/apparel/) now, and be prepared to layer, stay dry, and stay warm! (Bring a change of clothes in case of capsize or rain).
 
-The [PCISA Golden Bear Regatta](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is hosted by [Treasure Island Sailing Center](https://www.tisailing.org/) [( :earth_americas: Map of TISC )](https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8160056,-122.3658273,15z/) [( :iphone: Directions )](https://www.google.com/maps/dir/33.8086316,-118.124807/Treasure+Island+Sailing+Center,+698+California+Ave+%23+112,+San+Francisco,+CA+94130/@35.7974095,-122.5093203,7z/).
+The [PCISA Golden Bear Regatta](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is hosted by [Treasure Island Sailing Center](https://www.tisailing.org/) [( :earth_americas: Map of TISC )](https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767) [( :iphone: Directions )](https://www.google.com/maps/dir/33.8086316,-118.124807/Treasure+Island+Sailing+Center,+698+California+Ave+%23+112,+San+Francisco,+CA+94130/@35.7974095,-122.5093203,7z/).
 News is some of the team will fly up, some driving. Communicate and coordinate now!
 
 **Lodging:**  We'll mostly be on our own, but it'd be nice to coordinate a team dinner on Friday or Saturday, and hopefully include other ABYC teams (Wilson/Poly/HB). Many of us have family, but if you're not sure where you want to stay, Nikhil & Diego likely staying in the East Bay near Oakland/Berkeley.  Others will be in SF area.   
