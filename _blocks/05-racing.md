@@ -1,35 +1,69 @@
 ---
-title: "Regatta Links"
+title: "Treasure Island Regatta"
 location: sidebar
-published: false
+published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
-- text: Golden Bear NOR
+- text: Map
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8160056,-122.3658273,15z/
+  target: _blank
+
+- text: Parking
+  emoji: car
+  url: https://docs.google.com/viewer?a=v&pid=forums&srcid=MDgxNDU1NTY5OTk5NjA5MDI5MTMBMDQwMTEwOTU2OTI0NjU0NDMwMjQBZ3lIb2dOYTVCUUFKATAuMQEBdjI&authuser=0
+  target: _blank
+
+- text: Golden Bear Info
+  emoji: bear
+  url: /news/regatta/pcisa/golden-bear/
+  #target: _blank
+
+- text: 
+  emoji: 
+  url: 
+  
+- text: Silver Scores
+  emoji: checkered_flag
+  url: https://scores.hssailing.org/s18/pcisa-golden-bear-silver/
+  target: _blank
+
+- text: Silver Full Scores
+  #published: false
+  emoji: ledger
+  url: https://scores.hssailing.org/s18/pcisa-golden-bear-silver/full-scores/
+  target: _blank
+
+- text: Rotations (Sail Numbers)
+  emoji: recycle
+  url: https://scores.hssailing.org/s18/pcisa-golden-bear-silver/rotations/
+  target: _blank
+
+- text: Sailors Instructions (course)
+  emoji: memo
+  url: https://scores.hssailing.org/s18/pcisa-golden-bear-silver/notices/sailing-instructions.pdf
+  target: _blank
+
+- text: 
+  emoji: 
+  url: 
+  #target: _blank
+    
+- text: Notice of Race (NOR)
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf
   target: _blank
     
-- text: 2018 Spring Scores
-  emoji: large_blue_circle
+- text: PCISA ALL Scoring
+  emoji: triangular_flag_on_post
   url: https://scores.hssailing.org/s18/
   target: _blank
 
 - text: All HSS Scores
+  published: false 
   emoji: large_orange_diamond
   url: https://scores.hssailing.org/seasons/
-  target: _blank
-  
-- text: booya
-  published: false
-  emoji: information_desk_person
-  url: 
-  target: _blank
-      
-- text: foo
-  published: false
-  emoji: triangular_flag_on_post
-  url: 
   target: _blank
   
 ---
@@ -39,7 +73,7 @@ links:
 {% for link in page.links %}
   {% if link.published != false %}
   <li>
-    <h4>:{{ link.emoji }}: <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
+    <h4>{% if link.emoji %}:{{ link.emoji }}:{% else %}&nbsp;{% endif %} <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
   </li>
   {% endif %}
 {% endfor %}
