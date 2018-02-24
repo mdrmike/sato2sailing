@@ -17,7 +17,8 @@ location: sidebar
 {% assign date_format = site.minima.date_format | default: "%m/%d" %}
 
 <ul class="post-list text-muted list-unstyled">
-{% for post in site.posts limit: maxposts %}
+{% assign sorted_posts = site.posts | sort: "last_modified_at" | reverse %}
+{% for post in sorted_posts limit: maxposts %}
   {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
   {% assign recent_posts = "now" | date: "%s" | minus: timeframe %}
   {% assign post_updated = post.last_modified_at | date: date_format %}
