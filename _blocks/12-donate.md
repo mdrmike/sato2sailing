@@ -1,6 +1,6 @@
 ---
 title: "Sponsor or Donate"
-location: sidebar
+location: footer
 published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
