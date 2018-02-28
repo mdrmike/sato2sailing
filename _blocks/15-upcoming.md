@@ -26,9 +26,9 @@ links:
   emoji: 
   url: 
 
-- text: SoCal5 (last regatta?)
+- text: SoCal5 (last regatta!?)
   emoji: five
-  url: #/news/regatta/
+  url: /news/regatta/pcisa/Socal5-SDYC/
   #target: _blank
 
 - text: Notice of Race (NOR)
