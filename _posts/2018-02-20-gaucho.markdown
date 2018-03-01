@@ -1,25 +1,15 @@
 ---
-layout: post
+layout: sidebar
 title:  "UCSB: Gaucho Regatta—Sign-up NOW!"
 date:   2018-02-20 12:40:00 -0800
 last_modified_at: 2018-02-20 12:40:00 -0800
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
+
 ---
 
 
-Please sign-up now for [PCISA UCSB Regatta](https://ucsbsailing.squarespace.com/2018-gaucho-regatta).  It looks like fun!  (Check out t-shirt designs, if you want one!)
+Please [:triangular_flag_on_post: sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) now for [PCISA UCSB Regatta](https://ucsbsailing.squarespace.com/2018-gaucho-regatta).  It looks like fun!  (Check out t-shirt designs, if you want one!)
 
 More details forthcoming, but please sign-up today if you're attending. We need at least four sailors, if we're going to enter the regatta.
 
