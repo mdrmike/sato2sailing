@@ -1,0 +1,12 @@
+{% if site.data.widget_donate.published != false %}
+<h3>{{ site.data.widget_donate.title | escape }}</h3>
+{% for link in site.data.widget_donate.links %}
+  {% if link.published != false %}
+  <div class="alert alert-{{ link.style }}">
+    <h4>{{ link.text }}</h4>
+    <p>{{ link.body | markdownify }}</p>
+    <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}" class="btn btn-warning" role="button">:{{ link.emoji }}: {{ link.text }}</a>
+  </div>
+  {% endif %}
+{% endfor %}
+{% endif %}

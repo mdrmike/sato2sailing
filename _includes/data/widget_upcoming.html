@@ -1,0 +1,12 @@
+{% if site.data.widget_upcoming.published != false %}
+<h3>{{ site.data.widget_upcoming.title }}</h3>
+<ul class="post-list text-muted list-unstyled">
+{% for link in site.data.widget_upcoming.links %}
+  {% if link.published != false %}
+  <li>
+    <h4>{% if link.emoji %}:{{ link.emoji }}:{% else %}&nbsp;{% endif %} <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endif %}

@@ -1,0 +1,17 @@
+title: "Recent News"
+location: sidebar
+timeframe: 2419200
+maxposts: 6
+date_format: "%m/%d %I:%M%P" # timestamp: https://shopify.github.io/liquid/filters/date/
+published: true
+
+# post_in_seconds
+#   = jekyll post time (unix format = seconds since 1970)
+# recent_posts
+#   = timeframe in seconds to determine if post should be flagged as updated
+#
+#       86400 =  1 day
+#      604800 =  1 wk
+#     2419200 =  4 wk
+#     2678400 = 31 days
+#     3628800 =  6 wk

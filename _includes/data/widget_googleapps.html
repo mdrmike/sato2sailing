@@ -1,0 +1,16 @@
+{% if site.data.widget_googleapps.published != false %}
+<h3>{{ site.data.widget_googleapps.title | escape }}</h3>
+<div class="alert alert-{{ site.data.widget_googleapps.style }}">
+<p>{{ site.data.widget_googleapps.body }}</p>
+<div>
+<ul class="list-group">
+{% for link in site.data.widget_googleapps.links %}
+<li class="list-group-item list-group-item-{{ link.style_docs }}"><strong>{{ link.text }}</strong>
+  <a class="btn btn-{{ link.style_docs }}" role="button" href="{{ link.url_docs }}" rel="nofollow" target="_blank">{{ link.text_docs}}</a>
+  <a class="btn btn-{{ link.style_sheets }}" role="button" href="{{ link.url_sheets }}" rel="nofollow" target="_blank">{{ link.text_sheets}}</a>
+</li>
+{% endfor %}
+</ul>
+</div>
+</div>
+{% endif %}

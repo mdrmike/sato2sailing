@@ -1,0 +1,22 @@
+title: "Google Mobile Apps"
+location: footer
+style: info
+body: >
+    <h4>Using Shared Folder</h4> If you're accessing our shared folder from your phone or tablet, everything works using a web browser on any device (and no accounts are required).  However, there is also an option to install the apps <em>Google Docs</em> and <em>Google Sheets</em> which may make it even easier to edit. They are unessesary, but it gives you more options.
+
+links:
+- text: iOS Apps
+  text_docs: Google Docs
+  text_sheets: Google Sheets
+  url_docs: "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=docs_hc&mt=8"
+  url_sheets: "https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8"
+  style_docs: info
+  style_sheets: info
+   
+- text: Android Apps
+  text_docs: Google Docs
+  text_sheets: Google Sheets
+  url_docs: "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs"
+  url_sheets: "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets"  
+  style_docs: success
+  style_sheets: success
