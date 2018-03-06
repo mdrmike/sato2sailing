@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Anteater Regatta Preparation"
 date:   2017-11-07 07:41:15 -0700
 last_modified_at: 2017-11-13 08:53:20 -0700

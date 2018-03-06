@@ -3,6 +3,7 @@ layout: post
 title:  "Are you coming to SoCal #3 (Mission Bay)?"
 date:   2017-11-23 08:28:00 -0800
 last_modified_at: 2017-11-29 09:35:00 -0800
+modified_count: 2
 categories: [ regatta, socal ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]

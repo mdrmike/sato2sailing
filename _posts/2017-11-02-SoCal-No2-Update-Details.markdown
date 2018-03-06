@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "SoCal No2 Update and Details"
 date:   2017-11-02 08:39:00 -0700
 last_modified_at: 2017-11-05 12:26:40 -0800

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "News & Upcoming Events"
 date:   2017-10-07 15:00:00 -0700
 last_modified_at: 2017-10-07 15:00:00 -0700

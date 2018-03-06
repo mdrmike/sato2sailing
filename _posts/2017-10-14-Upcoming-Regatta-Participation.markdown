@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "How to Participate in Upcoming Regattas"
 date:   2017-10-07 15:00:00 -0700
 last_modified_at: 2017-10-14 16:10:00 -0700

@@ -27,10 +27,7 @@ layout: default
 
     </article><!--/.col -->
     <aside class="col-md-5">
-      {% for block in site.blocks %}
-      {% if block.location == 'sidebar' %}
-      {% include blocks.html %}
-      {% endif %}
-      {% endfor %}
+      {% include sidebar.html %}
     </aside>
+
   </div><!--/.row -->

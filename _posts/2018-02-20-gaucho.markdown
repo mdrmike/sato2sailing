@@ -1,8 +1,9 @@
 ---
-layout: sidebar
-title:  "UCSB: Gaucho Regatta—Sign-up NOW!"
+layout: post
+title:  "UCSB: Gaucho Regatta!"
 date:   2018-02-20 12:40:00 -0800
 last_modified_at: 2018-02-20 12:40:00 -0800
+modified_count:
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 

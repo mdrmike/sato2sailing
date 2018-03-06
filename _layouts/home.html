@@ -4,13 +4,13 @@ layout: default
 
   <div class="row">
     <aside class="col-md-5 col-md-push-7">
-      {% for block in site.blocks %}
-      {% if block.location == 'sidebar' %}
-      {% include blocks.html %}
-      {% endif %}
-      {% endfor %}
+      {% include sidebar.html %}
     </aside>
     <article class="col-md-7 col-md-pull-5">
       {{ content }}
+      {% include willyweather.html %}
     </article><!--/.col -->
+    <div id="app">
+      {{ message }}
+    </div>
   </div><!--/.row -->

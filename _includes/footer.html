@@ -3,26 +3,10 @@
   <div class="container">
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="row">
+        <div class="row">
       <div class="col-sm-12 col-md-8">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-        {% for block in site.blocks %}
-        {% if block.location == 'footer' %}
-        {% include blocks.html %}
-        {% endif %}
-        {% endfor %}
+        {% include data/widget_donate.html %}
+        {% include data/widget_googleapps.html %}
       </div>
 
       <div class="col-sm-12 col-md-4">

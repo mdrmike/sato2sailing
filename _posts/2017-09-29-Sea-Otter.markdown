@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Sea Otter Regatta"
 date:   2017-09-29 01:07:52 -0700
 last_modified_at: 2017-10-07 14:59:33 -0700

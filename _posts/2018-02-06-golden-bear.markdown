@@ -3,6 +3,7 @@ layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
 last_modified_at: 2018-02-24 7:34:00 -0800
+modified_count: 4
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
