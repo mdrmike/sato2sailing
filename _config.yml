@@ -9,6 +9,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Read more about defaults: https://github.com/envygeeks/jekyll-assets/blob/master/README.md
 title: Sato Sailing Club
 description: Sailing for fun and learning
 #email:
@@ -21,8 +22,7 @@ show_projectpage: false
 google_analytics: UA-107316710-1
 permalink: /:categories/:title/
 
-collections:
-- blocks
+#collections:
 
 # defaults:
 #   - scope:
