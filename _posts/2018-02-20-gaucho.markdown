@@ -3,7 +3,7 @@ layout: post
 title:  "UCSB: Gaucho Regatta!"
 date:   2018-02-20 12:40:00 -0800
 last_modified_at: 2018-02-20 12:40:00 -0800
-modified_count:
+modified_count: 
 categories: [ news, regatta, pcisa ]
 author: Mike Stewart
 
@@ -21,3 +21,5 @@ More details forthcoming, but please sign-up today if you're attending. We need 
 Please check news updates on the website. For each item in the news posts that has changed, there is an **updated** flag (with a date).  Flags older than six weeks are removed automatically.  
 
 **Note:** _Date of update_, any news item could change multiple times.
+
+{% include windfinder-UCSB.html %}
