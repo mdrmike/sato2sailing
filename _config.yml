@@ -79,7 +79,7 @@ plugins:
 #  - jekyll-bootstrap-sass   # Docs: http://www.rubydoc.info/gems/jekyll-bootstrap-sass/0.1.0
 #  - bootstrap-sass          # Docs: http://www.rubydoc.info/gems/bootstrap-sass
 #
-# Jekyll-pages requires the following Gems by default.
+# Jekyll Github-pages requires the following Gems by default.
 # Therefore, read the docs if you want to change default configurations.
 #      - jekyll-coffeescript              # https://github.com/jekyll/jekyll-coffeescript
 #      - jekyll-default-layout            # https://github.com/benbalter/jekyll-default-layout
