@@ -26,6 +26,7 @@
         {{ post.title | escape }}</a> {{ label_new }}{{ label_updated }}
       </h4>
   </li>
+  {% assign label_new = '' %}
   {% assign post_date = '' %}
   {% assign label_updated = '' %}
 {% endfor %}
