@@ -10,14 +10,16 @@
 {% for post in sorted_posts limit: maxposts %}
   {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
   {% assign recent_posts = "now" | date: "%s" | minus: timeframe %}
-  {% assign post_updated = post.last_modified_at | date: date_format %}
-  {% capture post_date %}<small>{{ post.date | date: date_format }}</small>{% endcapture %}
+  {% assign post_date = post.date | date: date_format %}
+  {% assign post_updated = post.last_modified_at | date: date_format | default: post_date %}
+  {% assign post_count = post.modified_count | default: 1 %}
+  {% capture post_date %}<small>{{ post_updated }}</small>{% endcapture %}
 
   {% if post_in_seconds > recent_posts %}
   {% capture label_new %}<span class="label label-success">new</span>{% endcapture %}
     {% if post.last_modified_at > post.date %}
       {% assign label_new = '' %}{% comment %}Clear NEW if modified{% endcomment %}
-      {% capture label_updated %}<span class="label label-warning">Updated <span class="badge">{{ post_updated }}</span></span>{% endcapture %}
+      {% capture label_updated %}<span class="label label-warning">Update <span class="badge">{{ post_count }}</span></span>{% endcapture %}
     {% endif %}
   {% endif %}
   <li>
