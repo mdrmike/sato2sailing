@@ -24,12 +24,24 @@ permalink: /:categories/:title/
 
 #collections:
 
-# defaults:
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: post
+      author: Michael Stewart
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: post
 #   - scope:
 #       path: "blocks"
 #       type: blocks
 #     values:
 #      published: false
+
 
 ## SITE NAVIGATION
 # By default, all pages in your site are added to navigation.

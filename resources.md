@@ -1,9 +1,6 @@
 ---
-layout: sidebar
 title: "Resources, Inspiration, and Learning"
 permalink: /resources/
-published: true
-#redirect_from: /some-url/
 ---
 
 

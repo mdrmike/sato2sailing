@@ -1,22 +1,9 @@
 ---
-layout: post
 title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
 last_modified_at: 2018-02-24 7:34:00 -0800
 modified_count: 4
 categories: [ news, regatta, pcisa ]
-author: Mike Stewart
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
 ---
 
 <div class="alert alert-info">

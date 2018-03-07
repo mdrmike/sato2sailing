@@ -1,21 +1,8 @@
 ---
-layout: post
 title:  "Anteater Regatta Preparation"
 date:   2017-11-07 07:41:15 -0700
 last_modified_at: 2017-11-13 08:53:20 -0700
 categories: [ regatta, PCISA ]
-author: Mike Stewart
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
 ---
 
 

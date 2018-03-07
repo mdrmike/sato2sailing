@@ -1,21 +1,8 @@
 ---
-layout: post
 title:  "Looking Forward"
 date:   2018-01-02 07:30:00 -0800
 last_modified_at: 2018-01-21 10:45:00 -0800
 categories: [ news, fundraising ]
-author: Mike Stewart
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
 ---
 
 Our fall semester ends this month, and we're about to start spring semester. Here's a short list of things to be working on as we move forward.

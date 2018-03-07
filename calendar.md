@@ -1,5 +1,4 @@
 ---
-layout: sidebar
 title: "Sato Sailing Events Calendar"
 permalink: /calendar/
 published: true

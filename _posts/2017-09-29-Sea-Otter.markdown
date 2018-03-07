@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Sea Otter Regatta"
 date:   2017-09-29 01:07:52 -0700
 last_modified_at: 2017-10-07 14:59:33 -0700
 categories: [ regatta, PCISA ]
-author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
 #social:
 #  name: satosailingclub # If the user or organization name differs from the site's name

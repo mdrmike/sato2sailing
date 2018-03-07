@@ -1,9 +1,7 @@
 ---
-layout: sidebar
 title: Program Information
 permalink: /about/
 published: true
-#redirect_from: /some-url/
 ---
 
 All sailing skill levels are encouraged to join! The idea is to have fun and learn lifelong sailing skills in a fun and relaxed environment while also encouraging self improvement. 

@@ -1,21 +1,8 @@
 ---
-layout: post
 title:  "SoCal No2 Update and Details"
 date:   2017-11-02 08:39:00 -0700
 last_modified_at: 2017-11-05 12:26:40 -0800
 categories: [ regatta ]
-author: Mike Stewart
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
 ---
 
 ## Results

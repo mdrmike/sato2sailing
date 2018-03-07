@@ -1,10 +1,8 @@
 ---
-layout: sidebar
 title: "Gear & Apparel"
 permalink: /apparel/
 published: true
 last_modified_at: 2018-01-21 10:15:00 -0800
-#redirect_from: /some-url/
 ---
 
 
