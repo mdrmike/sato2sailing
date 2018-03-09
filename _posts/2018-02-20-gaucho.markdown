@@ -1,11 +1,34 @@
 ---
 title:  "UCSB: Gaucho Regatta!"
 date:   2018-02-20 12:40:00 -0800
-last_modified_at: 2018-02-20 12:40:00 -0800
-modified_count: 
+last_modified_at: 2018-03-08 17:13:00 -0800
+modified_count: 2
 categories: [ news, regatta, pcisa ]
 ---
 
+<h3>Latest Update</h3> 
+<div class="alert alert-info">
+<h3>Lodging & Activities info</h3>
+<p>
+Please update info about where you're staying and what you're doing (or would like to do together) in our shared 
+<a href="https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing" rel="nofollow" target="_blank">:small_orange_diamond: UCSB Gaucho planning</a> 
+folder (also in navigation).
+</p>
+
+<h3>PCISA Fundraiser: Saturday</h3>
+
+<p>
+Please <a href="https://hssailing.org/machform/view.php?id=78445" target="_blank" rel="nofolow">join us (register)</a> for PCISA fund-raising on Saturday.
+</p>
+
+<p>
+Note the website now has comments to posts. It's aimed at sailors and parents, but anyone is welcome to use it for feedback, or to ask about anything unclear.
+</p>
+
+<h5>
+For any previous updates, review each heading below titled: <strong>Update #</strong>
+</h5>
+</div>
 
 Please [:triangular_flag_on_post: sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) now for [PCISA UCSB Regatta](https://ucsbsailing.squarespace.com/2018-gaucho-regatta).  It looks like fun!  (Check out t-shirt designs, if you want one!)
 
@@ -13,10 +36,5 @@ More details forthcoming, but please sign-up today if you're attending. We need 
 
 [:triangular_flag_on_post: Regatta Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform)
 
-### Check Updates
-
-Please check news updates on the website. For each item in the news posts that has changed, there is an **updated** flag (with a date).  Flags older than six weeks are removed automatically.  
-
-**Note:** _Date of update_, any news item could change multiple times.
 
 {% include windfinder-UCSB.html %}
