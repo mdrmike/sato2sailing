@@ -5,23 +5,25 @@ published: true
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
 - text: Gaucho Regatta Info
+  published: false
   emoji: cow
   url: /news/regatta/pcisa/gaucho/
   #target: _blank
 
 - text: Notice of Race (NOR)
+  published: false
   emoji: information_source
   url: https://pcisa.hssailing.org/documents/2018-Gaucho-NOR.pdf
   target: _blank
 
 - text: UCSB Gaucho Planning
-  published: true
+  published: false
   emoji: small_orange_diamond
   url: https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing
   target: _blank
 
 - text: #spacer
-  published: true
+  published: false
   emoji:
   url:
 
