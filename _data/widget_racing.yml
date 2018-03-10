@@ -22,10 +22,10 @@ links:
   url: https://scores.hssailing.org/s18/2018-gaucho-gold/notices/sailing-instructions.pdf
   target: _blank
 
-- text: Silver Full Scores
+- text: Wind + Weather
   published: true
-  emoji: ledger
-  url: https://scores.hssailing.org/s18/2018-gaucho-silver/full-scores/
+  emoji: umbrella
+  url: https://wind.willyweather.com/ca/santa-barbara-county/santa-barbara-harbor.html
   target: _blank
 
 - text: PCISA Current Standings
@@ -47,16 +47,15 @@ links:
   url:
       #target: _blank
 
+- text: Gaucho Regatta Info
+  emoji: cow
+  url: /news/regatta/pcisa/gaucho/
+  #target: _blank
+
 - text: Map
   published: true
   emoji: earth_americas
   url: https://www.google.com/maps/place/UCSB+Sailing/@34.4105642,-119.6924292,16z/data=!4m5!3m4!1s0x80e913f4ad7ede75:0xe2f29143f061ed9b!8m2!3d34.4076908!4d-119.6911814
-  target: _blank
-
-- text: Wind + Weather
-  published: true
-  emoji: umbrella
-  url: https://wind.willyweather.com/ca/santa-barbara-county/santa-barbara-harbor.html
   target: _blank
 
 - text: Parking
@@ -64,11 +63,6 @@ links:
   emoji: car
   url: https://scores.hssailing.org/s18/2018-gaucho-silver/notices/parking-map.jpg
   target: _blank
-
-- text: Gaucho Regatta Info
-  emoji: cow
-  url: /news/regatta/pcisa/gaucho/
-  #target: _blank
 
 - text: Notice of Race (NOR)
   emoji: information_source
@@ -79,4 +73,10 @@ links:
   published: true
   emoji: small_orange_diamond
   url: https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing
+  target: _blank
+
+- text: Silver Full Scores
+  published: true
+  emoji: ledger
+  url: https://scores.hssailing.org/s18/2018-gaucho-silver/full-scores/
   target: _blank
