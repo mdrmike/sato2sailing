@@ -1,15 +1,16 @@
 ---
 layout: home
+excerpt_separator: <!--more-->
 ---
 
-## Sato Sailing Team
+## Sailing for fun, excellence, and life
 
-There might be nothing in the world that packs as many life lessons as the activity of sailing. Sailing teaches engineering, fluid dynamics, history, preparation, patience, oceanography, ecology, and respect of the forces of nature… all in one fell swoop. In addition, competitive sailing teaches teamwork, precise communication, strategy, and tactics! Because of this and more, we believe everyone should learn to sail. One of the greatest things about sailing is you can do it your entire life. Join us!
+There might be nothing in the world that packs as many life lessons as the activity of sailing. Sailing teaches engineering, fluid dynamics, history, preparation, patience, oceanography, ecology… all in one fell swoop. In addition, competitive sailing teaches teamwork, strategy, tactics, and precise communication! Because of this and more, we believe everyone should learn to sail. One of the greatest things about sailing is you can do it your entire life. Join us!
 
 A common misconception about sailing is its really expensive. Sailing is actually less expensive or comparable to most organized sports.
 
-Sailing in addition to learning and fun is about culture; and is unique to communities near the ocean (and some lakes). Long Beach in particular has a rich sailing history, including the [Midwinter Regatta](http://scyamidwinterregatta.org/regatta-history/), which started in 1928 is the longest running annual regatta in Southern California. 
-
+In addition to learning and fun, sailing is about culture. It is unique to communities near the ocean (and some lakes). Long Beach in particular has a rich sailing history, including the [Midwinter Regatta](http://scyamidwinterregatta.org/regatta-history/), which started in 1928 is the longest running annual regatta in Southern California. 
+<!--more-->
 
 ### Get Started
 
