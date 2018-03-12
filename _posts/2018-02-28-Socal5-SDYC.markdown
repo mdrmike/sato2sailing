@@ -1,10 +1,52 @@
 ---
 title:  "SDYC: SoCal5"
 date:   2018-02-28 14:37:00 -0800
-last_modified_at: 2018-03-01 7:47:00 -0800
+last_modified_at: 2018-03-12 10:05:00 -0700
+modified_count: 1
 categories: [ news, regatta, pcisa ]
 ---
 
-Please [:triangular_flag_on_post: sign-up now](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) for SDYC SoCal5 [SDYC (map)](https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7341384,-117.2356746,14z/data=!4m5!3m4!1s0x80deab9883524577:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806).  This is the last official regatta of the year, except the Silver PCC's Regatta Apr 21-22 to [Encinal Yacht Club near Oakland (map)](https://www.google.com/maps/place/Encinal+Yacht+Club/@37.782401,-122.3329618,12z/data=!4m5!3m4!1s0x808f872a85d4429d:0x5aede73cb58cfb9e!8m2!3d37.782401!4d-122.262924?hl=en).
+<h3>Latest Update</h3> 
+<div class="alert alert-info">
+<ul><li>
+Travel Info</li><li>
+Regatta Schedule</li><li>
+Weather Widget</li></ul>
 
-More details forthcoming, but please [:triangular_flag_on_post: sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) today **even if you're not attending.**  It helps with planning and budget.
+<h3>Lodging & Activities info</h3>
+<p>
+Please update info about where you're staying and what you're doing (or would like to do together) in our shared 
+<a href="https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb" rel="nofollow" target="_blank">:small_orange_diamond: SoCal5 planning</a> 
+folder (also in navigation).
+</p>
+
+<h5>
+For any previous updates, review each heading below titled: <strong>Update #</strong>
+</h5>
+</div>
+
+## Regatta Info
+
+This is it! The last official HSS regatta of the year. This regatta is hosted by [San Diego Yacht Club (SDYC)](https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7188262,-117.2295806,15z/data=!4m5!3m4!1s0x0:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806) near dowtown and north of Coronado Island.  Please [:triangular_flag_on_post: sign-up now](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) for SDYC SoCal5.  
+
+More details forthcoming, but please (_please_, **please**) [:triangular_flag_on_post: sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform) today (right now, even... just click) **even if you're not attending.**  It helps with planning and budget.
+
+## Update #1
+
+Depending on our need to tow boats to the regatta (or if we charter from the club), a few of us will be traveling down either Friday after school or Saturday (really, really, early) so we'll arive in time for 9:00a check-in. Please see the SoCal5 Planning folder (navigation bar). 
+
+#### Schedule
+
+|       | Saturday                        |       | Sunday        |
+| -----:| ------------------------------- | -----:| ------------- |
+|  9:00a &nbsp;| Registration & Boat check-in  | 9:30a\* &nbsp;| Check-in and Team meeting with ABYC coach |
+| 10:00a &nbsp;| Competitors Meeting           | 10:00a &nbsp;| Competitors Meeting
+| 11:00a &nbsp;| First Race Warning            | 11:00a &nbsp;| First Race Warning            
+|  6:00p\* &nbsp;| (Deadline for last race)      |  4:00p &nbsp;| Deadline for last race |
+|  6:30p\* &nbsp;| Debrief with ABYC coach       |  5:00p &nbsp;| Awards                  
+
+<span class="label label-info"><em>* - Time subject to change per race committee (announcements in competitor meeting) or ABYC Coach. Check for updates.</em></span>
+
+### Wind+Weather 
+
+<div style="width: 300px;"><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=84083" width="300" height="228" frameborder="0" scrolling="no"></iframe><a style="display: block;z-index: 1;height: 20px;text-indent: -9999em;margin: -20px 0 0 0;position: relative" href="https://www.willyweather.com/ca/san-diego-county/coronado-island.html" rel="nofollow">coronado island weather</a></div>

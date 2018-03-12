@@ -1,31 +1,32 @@
-title: "Gaucho Regatta (UCSB)"
+title: "SoCal5 Regatta"
 location: sidebar
-published: true
+published: false
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
+- text: Wind + Weather
+  published: true
+  emoji: umbrella
+  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  url: https://wind.willyweather.com/ca/san-diego-county/coronado-island.html
+  target: _blank
+
 - text: Silver Scores
   published: true
   emoji: checkered_flag
-  url: https://scores.hssailing.org/s18/2018-gaucho-silver/
+  url: https://scores.hssailing.org/s18/2017-18-pcisa-socal-silver/
   target: _blank
 
 - text: Rotations (Sail Numbers)
-  published: true
+  published: false
   emoji: recycle
   url: https://scores.hssailing.org/s18/2018-gaucho-silver/rotations/
   target: _blank
 
 - text: Sailors Instructions (course)
-  published: true
+  published: false
   emoji: memo
   url: https://scores.hssailing.org/s18/2018-gaucho-gold/notices/sailing-instructions.pdf
-  target: _blank
-
-- text: Wind + Weather
-  published: true
-  emoji: umbrella
-  url: https://wind.willyweather.com/ca/santa-barbara-county/santa-barbara-harbor.html
   target: _blank
 
 - text: PCISA Current Standings
@@ -47,36 +48,32 @@ links:
   url:
       #target: _blank
 
-- text: Gaucho Regatta Info
-  emoji: cow
-  url: /news/regatta/pcisa/gaucho/
+- text: SoCal Regatta Info
+  emoji: five
+  url: /news/regatta/pcisa/Socal5-SDYC/
+  published: true
   #target: _blank
 
 - text: Map
   published: true
   emoji: earth_americas
-  url: https://www.google.com/maps/place/UCSB+Sailing/@34.4105642,-119.6924292,16z/data=!4m5!3m4!1s0x80e913f4ad7ede75:0xe2f29143f061ed9b!8m2!3d34.4076908!4d-119.6911814
+  url: https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7188262,-117.2295806,15z/data=!4m5!3m4!1s0x0:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806
   target: _blank
 
 - text: Parking
-  published: true
+  published: false
   emoji: car
-  url: https://scores.hssailing.org/s18/2018-gaucho-silver/notices/parking-map.jpg
+  url:
   target: _blank
 
 - text: Notice of Race (NOR)
+  published: false
   emoji: information_source
-  url: https://pcisa.hssailing.org/documents/2018-Gaucho-NOR.pdf
+  url:
   target: _blank
 
-- text: UCSB Gaucho Planning
+- text: SoCal5 Planning
   published: true
   emoji: small_orange_diamond
-  url: https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing
-  target: _blank
-
-- text: Silver Full Scores
-  published: true
-  emoji: ledger
-  url: https://scores.hssailing.org/s18/2018-gaucho-silver/full-scores/
+  url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
   target: _blank
