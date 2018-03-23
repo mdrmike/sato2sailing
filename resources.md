@@ -15,4 +15,23 @@ permalink: /resources/
 
 ###  Videos
 
--   []()
+-   [FJ Roll Tack](http://www.youtube.com/watch?v=gbp0cC1aI8Q&feature=youtu.be)
+-   [FJ "No Hands 360"](http://www.youtube.com/watch?v=vqrCUAOrOvM)
+-   [FJ Windward Mark Bear-Away](http://www.youtube.com/watch?v=F1yI6BrDXwE)
+-   [FJ Wing-to-Wing Roll Gybe](http://www.youtube.com/watch?v=cu0KDAgVz_E)
+-   [FJ Acceleration](http://www.youtube.com/watch?v=__EeOgwePqI)
+-   [FJ Upwind Boat Speed](http://www.youtube.com/watch?v=otz5PKoMlRg)
+-   [FJ Light Air Acceleration](http://www.youtube.com/watch?v=JOiulVBzoKE)
+
+
+
+### Cool Stuff
+
+-   [SailX Live Virtual Racing](http://www.sailx.com/)
+-   [NASA Foil Simulator](http://www.grc.nasa.gov/WWW/k-12/airplane/foil2.html)
+-   [US Sailing REACH Initiative](http://reach.ussailing.org/)
+-   [Animated Knot Tying Help](http://www.animatedknots.com/indexboating.php?LogoImage=LogoGrog.jpg&Website=www.animatedknots.com)
+-   [Latitude 38 Sailing Magazine]()
+-   Clever Pig (Resources for Mounting a Sailing Campaign)
+-   [Pressure Drop Sailing Forum](http://www.pressure-drop.us)
+-   [Create Sailing Animations (Download Program)](http://boats.sourceforge.net/pages/Download)
