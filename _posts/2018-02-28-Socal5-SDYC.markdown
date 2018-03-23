@@ -3,7 +3,7 @@ title:  "SDYC: SoCal5"
 date:   2018-02-28 14:37:00 -0800
 last_modified_at: 2018-03-23 10:05:00 -0700
 modified_count: 2
-categories: [ news, regatta, pcisa ]
+categories: [ news, regatta, socal ]
 ---
 
 <h3>Latest Update</h3> 
