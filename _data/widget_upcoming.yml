@@ -4,6 +4,41 @@ published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
+- text: Apr 21-22 Silver PCCs Planning
+  published: true
+  emoji: small_orange_diamond
+  url: https://drive.google.com/drive/folders/1ilTZuIghykwwxTjPjZ6YrIKonRc4iecu
+  target: _blank
+
+- text: Silver PCCs Event Home
+  published: true
+  emoji: trophy
+  url: https://pcisa.hssailing.org/event/home/p-silver-pccs/312 #/news/regatta/pcisa/silver/
+  #target: _blank
+
+- text: PCCs Notice of Race (NOR)
+  published: true
+  emoji: information_source
+  url: https://pcisa.hssailing.org/documents/2018-Silver-PCC-NOR.pdf
+  target: _blank
+
+- text: PCCs Host Club
+  published: true
+  emoji: anchor
+  url: http://encinal.org/
+  target: _blank
+
+- text: Map to Encinal YC
+  published: true
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Encinal+Yacht+Club/@37.782401,-122.2651127,17z/data=!3m1!4b1!4m5!3m4!1s0x808f872a85d4429d:0x5aede73cb58cfb9e!8m2!3d37.782401!4d-122.262924
+  target: _blank
+
+- text: #spacer
+  published: false
+  emoji:
+  url:
+
 - text: Gaucho Regatta Info
   published: false
   emoji: cow
@@ -28,17 +63,19 @@ links:
   url:
 
 - text: "SDYC: SoCal5 Info"
+  published: false
   emoji: five
   url: /news/regatta/socal/Socal5-SDYC/
   #target: _blank
 
 - text: Notice of Race (NOR)
+  published: false
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf
   target: _blank
 
 - text: SDYC Planning Folder
-  published: true
+  published: false
   emoji: small_orange_diamond
   url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
   target: _blank
