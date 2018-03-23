@@ -3,14 +3,11 @@ title: "Resources, Inspiration, and Learning"
 permalink: /resources/
 ---
 
+### CFJ Tuning
 
--   [CFJ Class](http://www.cfjclass.org/) —  Information for sailors, event organizers, and anyone interested in learning more about the CFJ Class
--   [Sailing Anarchy](http://sailinganarchy.com/) — Everything Sailing News
--   [Sailing Speed & Smarts](http://www.speedandsmarts.com/TipsTests/TestYourSmarts) — Sailing Racing Tips
--   [ScuttleButt Sailing Calendar](http://www.sailingscuttlebutt.com/event-and-regatta-calendar/)
--   [US Sailing Center Resources](http://www.ussailing.org/category/sailors-resource-center/)
--   [World Sailing Youth News](http://www.sailing.org/news/youth-worlds.php) — Cool sailing videos of current events
--   [Sail Juice](http://sailjuice.live.subhub.com/) — Sailing racing lessons & tips!
+-   [Club FJ Tuning Guide](http://www.encinal.org/pageResource/juniors/2010/sailingResourceDocs/Club_FJ_TuningGuide)
+-   [North Sails Flying Junior Tuning Guide](http://www.encinal.org/pageResource/juniors/2010/sailingResourceDocs/NorthSails_FJTuningGuide.pdf)
+
 
 
 ###  Videos
@@ -35,3 +32,14 @@ permalink: /resources/
 -   Clever Pig (Resources for Mounting a Sailing Campaign)
 -   [Pressure Drop Sailing Forum](http://www.pressure-drop.us)
 -   [Create Sailing Animations (Download Program)](http://boats.sourceforge.net/pages/Download)
+
+
+### Misc
+
+-   [CFJ Class](http://www.cfjclass.org/) —  Information for sailors, event organizers, and anyone interested in learning more about the CFJ Class
+-   [Sailing Anarchy](http://sailinganarchy.com/) — Everything Sailing News
+-   [Sailing Speed & Smarts](http://www.speedandsmarts.com/TipsTests/TestYourSmarts) — Sailing Racing Tips
+-   [ScuttleButt Sailing Calendar](http://www.sailingscuttlebutt.com/event-and-regatta-calendar/)
+-   [US Sailing Center Resources](http://www.ussailing.org/category/sailors-resource-center/)
+-   [World Sailing Youth News](http://www.sailing.org/news/youth-worlds.php) — Cool sailing videos of current events
+-   [Sail Juice](http://sailjuice.live.subhub.com/) — Sailing racing lessons & tips!
