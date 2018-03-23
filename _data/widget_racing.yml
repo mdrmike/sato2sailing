@@ -1,6 +1,6 @@
 title: "SoCal5 Regatta"
 location: sidebar
-published: false
+published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
@@ -14,7 +14,7 @@ links:
 - text: Silver Scores
   published: true
   emoji: checkered_flag
-  url: https://scores.hssailing.org/s18/2017-18-pcisa-socal-silver/
+  url: https://scores.hssailing.org/s18/
   target: _blank
 
 - text: Rotations (Sail Numbers)
@@ -67,9 +67,9 @@ links:
   target: _blank
 
 - text: Notice of Race (NOR)
-  published: false
+  published: true
   emoji: information_source
-  url:
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf
   target: _blank
 
 - text: SoCal5 Planning
