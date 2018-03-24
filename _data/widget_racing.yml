@@ -14,7 +14,7 @@ links:
 - text: Silver Scores
   published: true
   emoji: checkered_flag
-  url: https://scores.hssailing.org/s18/
+  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/
   target: _blank
 
 - text: Rotations (Sail Numbers)
@@ -76,4 +76,58 @@ links:
   published: true
   emoji: small_orange_diamond
   url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
+  target: _blank
+
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+
+- text: SoCal1 Sailor Rank
+  published: true
+  emoji: one
+  url: https://scores.hssailing.org/f17/2017-18-pcisa-socal-silver/sailors/
+  #target: _blank
+
+- text: SoCal2 Sailor Rank
+  published: true
+  emoji: two
+  url: https://scores.hssailing.org/f17/2017-18-pcisasocal-silver/sailors/
+  #target: _blank
+
+- text: SoCal3 Sailor Rank
+  published: true
+  emoji: three
+  url: https://scores.hssailing.org/f17/201718-pcisa-socal-silver/sailors/
+  #target: _blank
+
+- text: SoCal4 Sailor Rank
+  published: true
+  emoji: four
+  url: https://scores.hssailing.org/s18/2017-18-pcisa-socal-silver/sailors/
+  #target: _blank
+
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+
+- text: SoCal5 Sailor Rank
+  published: true
+  emoji: five
+  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/sailors/
+  target: _blank
+
+- text: SoCal5 Race Results
+  published: true
+  emoji: abcd
+  url: https://scores.hssailing.org/s18/2017-18-pcisa-socal-silver/full-scores/
+  target: _blank
+
+- text: SoCal5 Rotations (Sail#)
+  published: true
+  emoji: hash
+  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/rotations/
   target: _blank
