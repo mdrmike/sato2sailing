@@ -50,3 +50,10 @@ Coaches will determine who will sail each division at each event. Practice atten
 -   [Interscholastic Code of Conduct](https://abyc.org/images/junior/Code_of_Conduct_for_Interscholastic_Students.pdf)
 -   [ISSA Proceedural Rules](http://hssailing.org/documents/procedural_rules17-20-a0917.pdf)
 -   Sato Sailing Website:  [www.SatoSailing.club](http://SatoSailing.club)
+
+
+## HOWTO: Sign-up a high school sailing team
+
+1. Register with [ISSA / PCISA](https://registration.hssailing.org/)
+1. Wait at least 24hrs, then [establish a HSS Techscore account](https://ts.hssailing.org/). Techscore establishes HS team name, and individual boat/team names used during regattas.  It is useful for coaches during a regatta if the team name starts with city of the High School.  This has the effect that local schools are grouped, and share similar regatta rotations, and makes it easier to track.
+1.  Register for each a regatta per Notice of Race Instructions (NOR)... read the NOR!
