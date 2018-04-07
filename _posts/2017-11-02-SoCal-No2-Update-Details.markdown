@@ -10,6 +10,7 @@ categories: [ regatta ]
 We had our first outing as an entire team, and for such a young team, Sato did really well!  Our consistent practices are paying off! 
 
 :checkered_flag: [See our score results](http://scores.hssailing.org/f17/2017-18-pcisasocal-silver/)
+<!--more-->
 
 ## SoCal #2 Registration
 

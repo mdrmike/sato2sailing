@@ -17,6 +17,7 @@ categories: [ news, regatta, pcisa ]
 For updates, review each heading below titled: <strong>Update #</strong>
 </h5 -->
 </div>
+<!--more-->
 
 ## Regatta Info
 

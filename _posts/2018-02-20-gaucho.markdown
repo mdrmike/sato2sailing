@@ -29,6 +29,7 @@ Note the website now has comments to posts. It's aimed at sailors and parents, b
 For any previous updates, review each heading below titled: <strong>Update #</strong>
 </h5>
 </div>
+<!--more-->
 
 ## Regatta Details
 

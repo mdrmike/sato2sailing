@@ -11,7 +11,7 @@ categories: [ regatta, PCISA ]
 `Friday Holiday + Time Change = Early Friday Practice`
 
 First, since there is no school on Friday, everyone will need to figure out how to get to practice.  Since time changed this week, we're robbed of an hour on the water every day.  If you can make an early practice, come down by 2p.  We'll rig some boats and get on the water ASAP.  Let's identify some areas where we have weakness and help each other improve. 
-
+<!--more-->
 
 ## Anteater
 

@@ -15,6 +15,7 @@ categories: [ news, regatta, pcisa ]
 
 <p>Finally, note the website now has comments to posts. It's aimed at sailors and parents, but anyone is welcome to use it for feedback, or to ask about anything unclear.</p>
 </div>
+<!--more-->
 
 Are you ready to sail in the cold waters of San Francisco Bay?  It's winter and there's a potential it'll even be raining. [Golden Bear](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf) is in three weeks.  [Get sailing apparel](/apparel/) now, and be prepared to layer, stay dry, and stay warm! (Bring a change of clothes in case of capsize or rain).
 

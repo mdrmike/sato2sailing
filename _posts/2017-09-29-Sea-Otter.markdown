@@ -19,7 +19,7 @@ categories: [ regatta, PCISA ]
 ## Update
 
 Bad news for Sato Sailing.  Not quite three weeks after formation and still learning PCISA organization, we goofed. Sato did not register for the event prior to the entry deadline.  While preparing for our second regatta, the assumption was that deadlines were all the same; a week prior to the event.  *It turns out that assuming is unreliable. Who knew?*  :smirk:
-
+<!--more-->
 
 ### Explanation
 

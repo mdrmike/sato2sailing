@@ -1,13 +1,46 @@
 ---
 layout: default
 ---
+{% comment %}<!--
+  Split homepage content using excerpt_seperator
+  so that we can inject content
+-->{% endcomment %}
+{% assign contentArray = content | markdownify | split: site.excerpt_separator %}
+{% assign intro = contentArray.first %}
+{% assign outro = contentArray.last %}
+
+{% comment %}<!--
+Get latest update for frontpage excerpt
+-->{% endcomment %}
+{% assign sorted_posts = site.posts | sort: "last_modified_at" | reverse %}
+{% for feature in sorted_posts offset:0 limit:1 %}
+  {% assign latest_excerpt = feature.excerpt %}
+  {% assign feature_title = feature.title %}
+  {% assign feature_url = feature.url | relative_url %}
+{% endfor %}
 
   <div class="row">
     <aside class="col-md-5 col-md-push-7">
       {% include sidebar.html %}
     </aside>
+    <aside class="col-md-7 col-md-pull-5" style="">
+      <h2><small style="text-transform: uppercase;">Latest Update</small></h2>
+      <div class="well">
+        <h2><a href="{{ feature_url }}">{{ feature_title }}</a></h2>
+        {{ latest_excerpt }}
+        <h6><a href="{{ feature_url }}" class="btn btn-info btn-sm" role="button">Read more</a></h6>
+      </div>
+    </aside>
     <article class="col-md-7 col-md-pull-5">
-      {{ content }}
-      {% include willyweather.html %}
+
+      {{ intro }}
+      {% comment %}<!--
+      Possibility of injecting content between intro and outro
+      -->{% endcomment %}
+      {{ outro }}
+
+      <aside class="well" style="">
+        {% include willyweather.html %}
+      </aside>
     </article><!--/.col -->
   </div><!--/.row -->

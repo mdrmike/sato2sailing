@@ -6,7 +6,7 @@ categories: [ regatta, PCISA ]
 ---
 
 Sato Sailing's first PCISA Regatta was great!  We had fun even though wind was non-existent on Sunday!  Overall we placed really well in some races but not as well in others, and generally learned a lot about how the regatta is more structured than the Socal series.
-
+<!--more-->
 
 ### Participation
 

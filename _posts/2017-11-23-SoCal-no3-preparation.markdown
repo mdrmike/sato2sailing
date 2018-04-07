@@ -8,8 +8,8 @@ categories: [ regatta, socal ]
 
 The next regatta on our calendar is in Mission Bay (San Diego).  This is an "away" requiring a couple hours of travel.  Some of us thought it'd be fun to try to stay in the same hotel (or at least close to each other), for the regatta, and perhaps have a team dinner or another fun outing the Saturday before. Let's figure out who's going!  If you haven't already, please [sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform).
 
-Not sure if you’re signed up? You can always [check the Regatta Participation spreadsheet](https://docs.google.com/spreadsheets/d/1Fi-safPTqkzyxh5QoJC42W5U_s2rLNkNWDNUzc6ybcE/), which is in our shared folder. It lists all responses from the sign-up form. 
-
+Not sure if you’re signed up? You can always [check the Regatta Participation spreadsheet](https://docs.google.com/spreadsheets/d/1Fi-safPTqkzyxh5QoJC42W5U_s2rLNkNWDNUzc6ybcE/), which is in our shared folder. It lists all responses from the sign-up form.
+<!--more-->
 
 ### UPDATE 11/29: Info About SoCal #3
 

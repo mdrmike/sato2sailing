@@ -6,6 +6,7 @@ categories: [ news, fundraising ]
 ---
 
 Our fall semester ends this month, and we're about to start spring semester. Here's a short list of things to be working on as we move forward.
+<!--more-->
 
 -   [$600 Spring Tuition is due (click)](https://abyc.org/high-school-sailing/high-school/spring-highschool-sailing-registration). ABYC hosts the High School Sailing program.  The tuition fee is per semester and covers costs of all shared equipment; boats, sails, rigging, and trailers (for away regattas). The tuition also covers the cost for a professional coach for practices as well as most regattas, plus use of ABYC facilities to review video and have strategy "chalk talks."  All coaches are US Sailing Level 1 (minimum), AED, CPR, and First Aid certified.
 

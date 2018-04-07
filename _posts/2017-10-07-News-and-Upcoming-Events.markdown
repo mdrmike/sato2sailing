@@ -7,6 +7,7 @@ categories: [ info ]
 
 
 Wow, already four weeks into Sato Sail club!  It's been a firehose of information.  How do we stay up-to-date?  How do we learn more, and support the club?  
+<!--more-->
 
 ### Latest Information
 
