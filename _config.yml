@@ -18,6 +18,8 @@ url: "http://satosailing.club" # the base hostname & protocol for your site, e.g
 
 show_downloads: false
 show_projectpage: false
+excerpt_separator: "<!--more-->"
+excerpt_words: 100
 
 google_analytics: UA-107316710-1
 permalink: /:categories/:title/

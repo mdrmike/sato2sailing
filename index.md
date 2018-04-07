@@ -1,6 +1,5 @@
 ---
 layout: home
-excerpt_separator: <!--more-->
 ---
 
 ## Sailing for fun, excellence, and life
