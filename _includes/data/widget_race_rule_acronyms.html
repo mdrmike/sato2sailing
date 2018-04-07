@@ -1,0 +1,16 @@
+{% if site.data.widget_race_rule_acronyms.published != false %}
+<h3>{{ site.data.widget_race_rule_acronyms.title | escape }}</h3>
+{% if site.data.widget_race_rule_acronyms.type == links %}
+  {% for link in site.data.widget_race_rule_acronyms.links %}
+    {% if link.published != false %}
+    <div class="alert alert-{{ link.style }}">
+      <h4>{{ link.text }}</h4>
+      <p>{{ link.body | markdownify }}</p>
+      <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}" class="btn btn-warning" role="button">:{{ link.emoji }}: {{ link.text }}</a>
+    </div>
+    {% endif %}
+  {% endfor %}
+{% else site.data.widget_race_rule_acronyms.type == html %}
+  {{ site.data.widget_race_rule_acronyms.body }}
+{% endif %}
+{% endif %}

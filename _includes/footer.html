@@ -6,6 +6,9 @@
         <div class="row">
       <div class="col-sm-12 col-md-8">
         {% include data/widget_donate.html %}
+        {% if site.data.widget_racing.published != false %}
+          {% include data/widget_race_rule_acronyms.html %}
+        {% endif %}
         {% include data/widget_googleapps.html %}
       </div>
 
