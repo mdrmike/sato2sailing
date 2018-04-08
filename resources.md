@@ -12,13 +12,20 @@ permalink: /resources/
 
 ###  Videos
 
--   [FJ Roll Tack](http://www.youtube.com/watch?v=gbp0cC1aI8Q&feature=youtu.be)
--   [FJ "No Hands 360"](http://www.youtube.com/watch?v=vqrCUAOrOvM)
--   [FJ Windward Mark Bear-Away](http://www.youtube.com/watch?v=F1yI6BrDXwE)
--   [FJ Wing-to-Wing Roll Gybe](http://www.youtube.com/watch?v=cu0KDAgVz_E)
+-   [PLAYLIST: Rules + How To](https://www.youtube.com/playlist?list=PLTJ_oqBpIPTs4Rf04_iMMnsKRZe-VfMcV)
+-   [PLAYLIST: Stratgies & Tactics](https://www.youtube.com/playlist?list=PLTJ_oqBpIPTtxzqudasNvEUf12N80erhG)
+
 -   [FJ Acceleration](http://www.youtube.com/watch?v=__EeOgwePqI)
--   [FJ Upwind Boat Speed](http://www.youtube.com/watch?v=otz5PKoMlRg)
 -   [FJ Light Air Acceleration](http://www.youtube.com/watch?v=JOiulVBzoKE)
+-   [HOWTO: FJ Roll Tack](https://youtu.be/Otc7l8j44cE?t=1m10s)
+-   [FJ Roll Tacks SDYC](https://youtu.be/hBivxKxbB3A)
+-   [Strategic Light Air Roll Tacks STANFORD](https://youtu.be/HgVotRDHzHE)
+-   [FJ Wing-to-Wing Roll Gybe](http://www.youtube.com/watch?v=cu0KDAgVz_E)
+-   [FJ Upwind Boat Speed](http://www.youtube.com/watch?v=otz5PKoMlRg)
+-   [FJ Windward Mark Bear-Away](http://www.youtube.com/watch?v=F1yI6BrDXwE)
+
+-   [Sailing Tactics](https://youtu.be/pnMyl4ZBo5Y)
+-   [WOC-TAC: Gybe or Bear away after Windward Mark](https://youtu.be/pnMyl4ZBo5Y)
 
 
 
