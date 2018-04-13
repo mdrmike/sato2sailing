@@ -3,7 +3,8 @@ width: 300
 height: 228
 showlink: true
 
-link: http://www.longbeach.gov/Health/Inspections-and-Reporting/Inspections/Recreational-Water-Samples/
+#link: http://www.longbeach.gov/Health/Inspections-and-Reporting/Inspections/Recreational-Water-Samples/
+link: http://brc.healthebay.org/default.aspx?id=132&c=10&lat=33.745150000000000&lng=-118.119183333000000
 description: Long Beach Water Quality
 # - id: 83634
 #   title: Peninsula
