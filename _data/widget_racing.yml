@@ -1,6 +1,6 @@
-title: "SoCal5 Regatta"
+title: "PCCs Regatta"
 location: sidebar
-published: false
+published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
@@ -8,25 +8,31 @@ links:
   published: true
   emoji: umbrella
   #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
-  url: https://wind.willyweather.com/ca/san-diego-county/coronado-island.html
+  url: https://wind.willyweather.com/ca/alameda-county/alameda.html
   target: _blank
 
 - text: Silver Scores
   published: true
   emoji: checkered_flag
-  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/
+  url: https://scores.hssailing.org/s18/pcisa-silver-pcc/
   target: _blank
 
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+
 - text: Rotations (Sail Numbers)
-  published: false
+  published: true
   emoji: recycle
-  url: https://scores.hssailing.org/s18/2018-gaucho-silver/rotations/
+  url: https://scores.hssailing.org/s18/pcisa-silver-pcc/rotations/
   target: _blank
 
 - text: Sailors Instructions (course)
-  published: false
+  published: true
   emoji: memo
-  url: https://scores.hssailing.org/s18/2018-gaucho-gold/notices/sailing-instructions.pdf
+  url: https://scores.hssailing.org/s18/pcisa-silver-pcc/notices/sailing-instructions.pdf
   target: _blank
 
 - text: PCISA Current Standings
@@ -57,7 +63,7 @@ links:
 - text: Map
   published: true
   emoji: earth_americas
-  url: https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7188262,-117.2295806,15z/data=!4m5!3m4!1s0x0:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806
+  url: https://www.google.com/maps/place/Encinal+Yacht+Club/@37.7824052,-122.2651127,17z/data=!3m1!4b1!4m5!3m4!1s0x808f872a85d4429d:0x5aede73cb58cfb9e!8m2!3d37.782401!4d-122.262924
   target: _blank
 
 - text: Parking
@@ -69,11 +75,11 @@ links:
 - text: Notice of Race (NOR)
   published: true
   emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf
+  url: https://pcisa.hssailing.org/documents/2018-Silver-PCC-NOR.pdf
   target: _blank
 
 - text: SoCal5 Planning
-  published: true
+  published: false
   emoji: small_orange_diamond
   url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
   target: _blank
@@ -85,49 +91,49 @@ links:
   #target: _blank
 
 - text: SoCal1 Sailor Rank
-  published: true
+  published: false
   emoji: one
   url: https://scores.hssailing.org/f17/2017-18-pcisa-socal-silver/sailors/
   #target: _blank
 
 - text: SoCal2 Sailor Rank
-  published: true
+  published: false
   emoji: two
   url: https://scores.hssailing.org/f17/2017-18-pcisasocal-silver/sailors/
   #target: _blank
 
 - text: SoCal3 Sailor Rank
-  published: true
+  published: false
   emoji: three
   url: https://scores.hssailing.org/f17/201718-pcisa-socal-silver/sailors/
   #target: _blank
 
 - text: SoCal4 Sailor Rank
-  published: true
+  published: false
   emoji: four
   url: https://scores.hssailing.org/s18/2017-18-pcisa-socal-silver/sailors/
   #target: _blank
 
 - text: #spacer
-  published: true
+  published: false
   emoji:
   url:
   #target: _blank
 
 - text: SoCal5 Sailor Rank
-  published: true
+  published: false
   emoji: five
   url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/sailors/
   target: _blank
 
 - text: SoCal5 Race Results
-  published: true
+  published: false
   emoji: abcd
   url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/full-scores/
   target: _blank
 
 - text: SoCal5 Rotations (Sail#)
-  published: true
+  published: false
   emoji: hash
   url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/rotations/
   target: _blank
