@@ -1,23 +1,33 @@
 ---
-title:  "About Sato Sailing"
+title:  "Welcome to Sato Sailing"
 date:   2018-08-23 15:30:00 -0700
 last_modified_at: 2018-08-23 15:30:00 -0700
 modified_count: 0
 categories: [ news ]
 ---
 
-<h3>Welcome to Our Sailing Club</h3>
+<h3>Pre-Season Meeting</h3>
+
+-    __When:__   (TBD... but likely) 8/29 @ 6p
+-    __Where:__  Patio of [ABYC](https://goo.gl/maps/Vj3byDBjQrk)
+-    __Who:__    Parents of current and interested Sato Sailing parents.
+-    __Why:__    To answer questions. Review season practice and events. Set some goals for the Sato team for the season!
+-    __Contact:__  Mike Stewart (Sato Team Parent) 562-547-2956 | Craig Ramsey (Director of Sailing Programs) 562-343-8030
+
+
 <div class="alert alert-info">
-<h4>More info coming soon...</h4>
+<h4>Why Sail?</h4>
 <!--img src="/assets/images/2018-PCCs-eyc-race-info.jpeg" alt="regatta racing map"-->
+
+
 <h5>
-Please look around. Most of the information is from our past season.
+If you're new to the site, note this area is where news is posted. If you're interested in the sailing club, please review our homepage (below). We hope after reading you come learn the club is focused on fun, learning and applying life skills, its open to everyone <em>regardless of experience,</em> and the the costs are probably much less than you might think!
 </h5>
 
 </div>
 <!--more-->
 
- But we hope you come away with the understanding the club is fun, its open to everyone regardless of experience, and the costs are probably much less than you might think!
+
 
  The biggest expenses are the cost for program that pays for boats, professional coaching, and of course the amount you pay for sailing gear can vary.
 
