@@ -3,27 +3,32 @@ location: sidebar
 published: true
 
 clinks:
-- emoji: car
-  text: Carpooling to Practice
-  url: "https://docs.google.com/spreadsheets/d/1eAKhzrFJqeELLPXLTx84JusSXgjkApFhgV6kSe_g7yA/edit#gid=0"
+- text: Carpooling to Practice
+  emoji: car
+  url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI/"
+- text: Shared folder
+  emoji: file_folder
+  url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2"
 - emoji: triangular_flag_on_post
   url: "https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform"
   text: Regatta Sign-up
-- emoji: file_folder
-  url: "https://drive.google.com/drive/folders/0B7xS-e7S036gT0QzNGpURHl4LTA"
-  text: Shared folder
+  published: false
 - emoji: small_orange_diamond
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzUXkxQnRhcFU4N1k"
   text: Regatta Coordination
+  published: false
 - emoji: moneybag
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
   text: Club Fund-raising
+  published: false
 - emoji: sailboat
   url: "https://docs.google.com/document/d/1r6rolxUriRyGGoCFj3L0xZI5NrpF6LRfX-YenjhCK1U/edit"
   text: Sato Dragons Sailing Club
+  published: false
 - emoji: art
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
   text: Artwork
+  published: false
 - emoji: tv
   url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
   text: Sailing Videos

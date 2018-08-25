@@ -8,10 +8,10 @@ categories: [ news ]
 
 <h3>Pre-Season Meeting</h3>
 
--    __When:__   (TBD... but likely) 8/29 @ 6p
--    __Where:__  Patio of [ABYC](https://goo.gl/maps/Vj3byDBjQrk)
--    __Who:__    Parents of current and interested Sato Sailing parents.
--    __Why:__    To answer questions. Review season practice and events. Set some goals for the Sato team for the season!
+-    __When:__   Wed 8/29 @6:00pm (This may change, check back)
+-    __Where:__  [ABYC](https://goo.gl/maps/Vj3byDBjQrk) (on the Patio in the back)
+-    __Who:__    Parents of new and current Sato Sailing team.
+-    __Why:__    Meet with Craig Ramsey, Director of Sailing Programs at ABYC. HS Sailing Q&A session. Review season practice and events. Set goals for the Sato team for the season!
 -    __Contact:__  Mike Stewart (Sato Team Parent) 562-547-2956 | Craig Ramsey (Director of Sailing Programs) 562-343-8030
 
 
@@ -21,9 +21,11 @@ categories: [ news ]
 
 
 <h5>
-If you're new to the site, note this area is where news is posted. If you're interested in the sailing club, please review our homepage (below). We hope after reading you come learn the club is focused on fun, learning and applying life skills, its open to everyone <em>regardless of experience,</em> and the the costs are probably much less than you might think!
+If you're interested in the sailing club, please review our homepage (below). We hope after reading you come learn the club is focused on fun, learning and applying life skills, its open to everyone <em>regardless of experience,</em> and the the costs are probably much less than you might think!
 </h5>
-
+<h5>
+<strong>Note:</strong> If you're new to the site, note this "block area" is where news is posted.
+</h5>
 </div>
 <!--more-->
 
