@@ -8,15 +8,19 @@ There might be nothing in the world that packs as many life lessons as the activ
 
 A common misconception about sailing is its really expensive. Sailing is actually less expensive or comparable to most organized sports.
 
-In addition to learning and fun, sailing is about culture. It is unique to communities near the ocean (and some lakes). Long Beach in particular has a rich sailing history, including the [Midwinter Regatta](http://scyamidwinterregatta.org/regatta-history/), which started in 1928 is the longest running annual regatta in Southern California. 
+In addition to learning and fun, sailing is about culture. It is unique to communities near the ocean (and some lakes). Long Beach in particular has a rich sailing history, including the [Midwinter Regatta](http://scyamidwinterregatta.org/regatta-history/), which started in 1928 is the longest running annual regatta in Southern California.
 <!--more-->
 
 ### Get Started
 
-If you've joined our team (or ready to do so), start by accessing the club :file_folder: <a href="https://drive.google.com/drive/folders/0B7xS-e7S036gT0QzNGpURHl4LTA" rel="nofollow" target="_blank">Shared folder</a>. This folder provides full read, edit, and create access to all the shared documents about the club. They are updated often, by all parents & sailors.  We share info about the club, coordinate carpooling to practice and regattas, coordinate fund-raising activities, and more!
+If you're interested in joining our club, start on the [About Sato Sailing page](/about/)!
+
+This is where you'll learn all about the program, find registration info, and further instructions. The latest information is always found in the club :file_folder: <a href="https://drive.google.com/drive/folders/0B7xS-e7S036gT0QzNGpURHl4LTA" rel="nofollow" target="_blank">Shared folder</a>. This folder provides full read, edit, and create access to all the shared documents about the club. They are updated often, by all parents & sailors.  We share info about the club, coordinate carpooling to practice and regattas, coordinate fund-raising activities, and more!
 
 
 ### Sailing Organizations
+
+Info about the organizations we're involved, help us with our program, or just good to know about in the world of sailing.
 
 -  [ABYC: Alamitos Bay Yacht Club](https://abyc.org/high-school-sailing/high-school) — Local facility that hosts High School Sailing Program, including boats & coaching.
 -  [PCISA ](https://pcisa.hssailing.org/schedule/socal/2017/2018/socal) — Regional district of the [Interscholastic Sailing Association (ISSA)](https://hssailing.org/) governs secondary school sailing in the United States

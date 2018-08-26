@@ -8,11 +8,11 @@ categories: [ news ]
 
 <h3>Pre-Season Meeting</h3>
 
--    __When:__   Wed 8/29 @6:00pm (This may change, check back)
--    __Where:__  [ABYC](https://goo.gl/maps/Vj3byDBjQrk) (on the Patio in the back)
--    __Who:__    Parents of new and current Sato Sailing team.
--    __Why:__    Meet with Craig Ramsey, Director of Sailing Programs at ABYC. HS Sailing Q&A session. Review season practice and events. Set goals for the Sato team for the season!
--    __Contact:__  Mike Stewart (Sato Team Parent) 562-547-2956 | Craig Ramsey (Director of Sailing Programs) 562-343-8030
+-    :clock6: __When:__   Wed 8/29 @6:00pm
+-    :earth_americas: __Where:__  [Alamitos Bay Yacht Club (ABYC) :arrow_heading_up:](https://goo.gl/maps/Vj3byDBjQrk) _(meet on the Patio in the back)_
+-    :couple: __Who:__    Parents of new and current Sato Sailing team.
+-    :sailboat: __Why:__    Meet with Craig Ramsey, Director of Sailing Programs at ABYC. HS Sailing Q&A session. Review season practice and events. Set goals for the Sato team for the season!
+-    :iphone: __Contact:__  Mike Stewart (Sato Team Parent) 562-547-2956 \\ Craig Ramsey (Director of Sailing Programs) 562-343-8030
 
 
 <div class="alert alert-info">
