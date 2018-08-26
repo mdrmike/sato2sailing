@@ -22,7 +22,7 @@ Sato sailors also get to practice and build camradery with other local teams, su
 
 #### When & Where
 
-**Practice:** Thu & Fri 3:30 – 6:30
+**Practice:** Thu* & Fri 3:30 – 6:30 (*TBD - Working with ABYC to change THU practice to another day)
 **Regattas** Are organization races. They optional, but highly encouraged.
 -   Five SoCal events (typically on Saturday)
 -   Intersectional events – used as qualifier for Nationals (Weekend events)
@@ -35,19 +35,20 @@ Regattas are racing events.  As a team we participate in [SoCal](https://pcisa.h
 
 Coaches will determine who will sail each division at each event. Practice attendance will be taken into consideration as well as commitment and engagement during practices. Coaches will be at both SoCal and PCISA regattas, it is not the responsibility of the coach to watch the sailors for the weekend.
 
-### Join Sato Sailing Club
+## Join Sato Sailing Club
 
 **Tuition is $700 per semester** (Fall & Spring), and is the single biggest expense. The fee covers the cost and maintenance of boats, sails, and towing trailers for away regattas. It also covers the cost for a professional coach for practices, and regattas, plus use of ABYC facilities to review video and have strategy "chalk talks."
 
 1.  [ABYC: Registration](https://abyc.org/high-school-sailing/spring-highschool-sailing-registration)
 1.  ABYC: Important! Sign & Return: [Medical Form & Club Code of Conduct](https://d1p4n2439uoafh.cloudfront.net/images/junior/Medical_and_Code_of_Conduct.pdf)
-1.  ABYC: [High School Sailing Program Information Packet 2018/2019](https://d1p4n2439uoafh.cloudfront.net/images/junior/High_School_Packet_2017-2018.pdf)
-1.  ABYC Website - [All High School Sailing Documents](https://abyc.org/high-school-sailing/documents-links)
+1.  SATO: Add your info to [Club Roster](https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA)
+1.  SATO: Add your info to [Carpooling](https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI)
 
+#### Information Links
 
-
-#### Additional Information
-
+-   [ABYC High School Sailing Program Information Packet 2018/2019](https://d1p4n2439uoafh.cloudfront.net/images/junior/High_School_Packet_2017-2018.pdf)
+-   ABYC Website - [All High School Sailing Documents](https://abyc.org/high-school-sailing/documents-links)
+-   Review our shared folder... feel free to edit & update! (link in sidebar)
 -   [Interscholastic Code of Conduct](https://abyc.org/images/junior/Code_of_Conduct_for_Interscholastic_Students.pdf)
 -   [ISSA Proceedural Rules](http://hssailing.org/documents/procedural_rules17-20-a0917.pdf)
 -   Sato Sailing Website:  [www.SatoSailing.club](http://SatoSailing.club)
@@ -55,7 +56,7 @@ Coaches will determine who will sail each division at each event. Practice atten
 
 ## HOWTO: Sign-up a high school sailing team
 
-This info is a history of lessons learned during the creation and organizing of the team.  We thought it'd be useful to help keep the team alive in future years.
+This info is our history of lessons learned during the creation and organizing of the team.  We thought it'd be helpful for the future and new parents (or other high schools) in future years.
 
 1. Register with [ISSA / PCISA](https://registration.hssailing.org/)
 1. Wait at least 24hrs, then [establish a HSS Techscore account](https://ts.hssailing.org/). Techscore establishes HS team name, and individual boat/team names used during regattas.  It is useful for coaches during a regatta if the team name starts with city of the High School.  This has the effect that local schools are grouped, and share similar regatta rotations, and makes it easier to track.
