@@ -1,100 +1,26 @@
-title: "Useful Links"
+title: "Join"
 location: sidebar
 published: true
 
 clinks:
 - text: ABYC Registration
-  emoji: money_with_wings
+  emoji: dollar
   url: https://abyc.org/high-school-sailing/spring-highschool-sailing-registration
+  target: _blank
   published: true
 
 - text: Medical Form & Rules
-  emoji: pill
+  emoji: pencil
   url: https://d1p4n2439uoafh.cloudfront.net/images/junior/Medical_and_Code_of_Conduct.pdf
+  target: _blank
   published: true
 
 - text: Club Roster
   emoji: blue_book
   url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
+  target: _blank
 
 - text: Carpooling to Practice
   emoji: car
   url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
-
-- text: Club Fund-raising
-  emoji: moneybag
-  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
-  published: true
-
-- emoji: sailboat
-  url: "https://docs.google.com/document/d/1r6rolxUriRyGGoCFj3L0xZI5NrpF6LRfX-YenjhCK1U"
-  text: Sato Dragons Sailing Club
-  published: false
-
-- emoji: art
-  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
-  text: Artwork
-  published: true
-
-- text: Practice Sailing Videos
-  emoji: tv
-  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
-  published: true
-
-- emoji: triangular_flag_on_post
-  url: "https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform"
-  text: Regatta Sign-up
-  published: false
-
-- emoji: small_orange_diamond
-  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzUXkxQnRhcFU4N1k"
-  text: Regatta Coordination
-  published: false
-
-
-
-
-# github emoji list https://gist.github.com/rxaviers/7360908
-links:
-- text: Gaucho Regatta Info
-  emoji: cow
-  url: /news/regatta/pcisa/gaucho/
-  #target: _blank
-
-- text: Notice of Race (NOR)
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf
   target: _blank
-
-- text: UCSB Gaucho Planning
-  published: true
-  emoji: small_orange_diamond
-  url: https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing
-  target: _blank
-
-- text: #spacer
-  published: true
-  emoji:
-  url:
-
-- text: SoCal5 (last regatta!?)
-  emoji: five
-  url: /news/regatta/socal/Socal5-SDYC/
-  #target: _blank
-
-- text: Notice of Race (NOR)
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf
-  target: _blank
-
-- text: SDYC Planning Folder
-  published: true
-  emoji: small_orange_diamond
-  url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
-  target: _blank
-
-- text: #spacer
-  published: false
-  emoji:
-  url:
-  #target: _blank
