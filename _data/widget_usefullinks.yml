@@ -1,0 +1,92 @@
+title: "Useful Links"
+location: sidebar
+published: true
+
+clinks:
+- emoji: art
+  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
+  text: Club Artwork
+  published: true
+
+- text: Learn/Practice Sailing Videos
+  emoji: tv
+  url: "/resources/"
+  published: true
+#  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
+
+- emoji: triangular_flag_on_post
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform"
+  text: Regatta Sign-up
+  published: false
+
+- emoji: small_orange_diamond
+  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzUXkxQnRhcFU4N1k"
+  text: Regatta Coordination
+  published: false
+
+- text: Club Fund-raising
+  emoji: moneybag
+  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
+  target: _blank
+  published: false
+
+- text: Go Fund Me
+  emoji: moneybag
+  body: >
+    Sato doesn't have sports teams. To make matters worse, even if Sato did pay for sports, sailing is not a [CIF sport](http://www.cifstate.org/navbar-sports) and still wouldn't have school funding, even though it's an Olympic sport and many Colleges have sailing teams.
+  url: https://www.gofundme.com/sato-academy-sailing-team
+  target: _blank
+  published: false
+
+- emoji: sailboat
+  url: "https://docs.google.com/document/d/1r6rolxUriRyGGoCFj3L0xZI5NrpF6LRfX-YenjhCK1U"
+  text: Sato Dragons Sailing Club
+  published: false
+
+
+
+
+# github emoji list https://gist.github.com/rxaviers/7360908
+links:
+- text: Gaucho Regatta Info
+  emoji: cow
+  url: /news/regatta/pcisa/gaucho/
+  #target: _blank
+
+- text: Notice of Race (NOR)
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-GOLDEN-BEAR-NOR.pdf
+  target: _blank
+
+- text: UCSB Gaucho Planning
+  published: true
+  emoji: small_orange_diamond
+  url: https://drive.google.com/drive/folders/1HwRK0Rt1rOftq093EAiLmv_Ld_Fpj71V?usp=sharing
+  target: _blank
+
+- text: #spacer
+  published: true
+  emoji:
+  url:
+
+- text: SoCal5 (last regatta!?)
+  emoji: five
+  url: /news/regatta/socal/Socal5-SDYC/
+  #target: _blank
+
+- text: Notice of Race (NOR)
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2017-2018-PCISA-SoCal-NOR_1.pdf
+  target: _blank
+
+- text: SDYC Planning Folder
+  published: true
+  emoji: small_orange_diamond
+  url: https://drive.google.com/open?id=1pTIjay3FI0YzDlB8KH_IPlLoHzvGCEDb
+  target: _blank
+
+- text: #spacer
+  published: false
+  emoji:
+  url:
+  #target: _blank
