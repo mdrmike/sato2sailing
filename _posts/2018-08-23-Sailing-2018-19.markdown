@@ -1,8 +1,8 @@
 ---
 title:  "Welcome to Sato Sailing"
 date:   2018-08-23 15:30:00 -0700
-last_modified_at: 2018-08-23 15:30:00 -0700
-modified_count: 0
+last_modified_at: 2018-08-30 13:30:00 -0700
+modified_count: 1
 categories: [ news ]
 ---
 
@@ -33,4 +33,17 @@ If you're interested in the sailing club, please review our homepage (below). We
 
  The biggest expenses are the cost for program that pays for boats, professional coaching, and of course the amount you pay for sailing gear can vary.
 
- ... more info coming soon!
+### Update: Meeting Notes
+
+We met with Craig from ABYC.
+
+-   Craig discussed [Program Overview](https://d1p4n2439uoafh.cloudfront.net/images/junior/High_School_Packet_2017-2018.pdf)
+-   Practice schedule, and he was working with other HS to solidify:
+    -   Tuesday/Friday: LB McBride HS / Los Al / HBHS / Marina / St. Anthony
+    -   **Wedneday/Friday:** Wilson / **Sato** / Poly
+-   Coach Nick will be coaching every day
+-   On Fridays, Allie will be dropping in to work with our HS Teams and Nick!
+-   Note: there are options/foundations available to help with financial assistance. Two examples that came up were [Long Beach Sailing Foundation](http://www.lbsailingfoundation.org/), and [Alamitos Bay Sailing Foundation](https://www.alamitosbaysailingfoundation.org/). There are likely others, and more resources.  If you need help, please reach out to one of us.  New sailors is a good thing!
+-   ABYC needs all paperwork & registration turned in on the FIRST day of practice (that your sailor attends). No participation allowed until [paperwork signed](/about/) and turned in.
+
+**Payment,** make out a check:  **ABYC**. Members please choose "ABYC member charge". The drop-dead-payment date is September 18th, however payment on the first day of practice is preferred. See the note about financial help. Also, there is a possibility for payment plans.

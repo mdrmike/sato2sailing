@@ -46,7 +46,7 @@ Sato sailors also get to practice and build camradery with other local teams, su
 
 #### When & Where
 
-**Practice:** Thu* & Fri 3:30 – 6:30 (*TBD - Working with ABYC to change THU practice to another day)
+**Practice:** Wed* & Fri 3:30 – 6:30 (*TBD - Working with ABYC... Wed's are likely, but still tentative)
 **Regattas** Are organization races. They optional, but highly encouraged.
 -   Five SoCal events (typically on Saturday)
 -   Intersectional events – used as qualifier for Nationals (Weekend events)
