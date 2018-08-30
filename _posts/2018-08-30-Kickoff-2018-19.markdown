@@ -1,0 +1,21 @@
+---
+title:  "Sato 2018-19 Kickoff and Club Drive"
+date:   2018-08-30 13:36:00 -0700
+last_modified_at: 2018-08-30 13:36:00 -0700
+modified_count: 0
+categories: [ news ]
+---
+
+<h3>Practice Starts First week of September</h3>
+
+-   Get [Signed-up](/about/) (3-steps)
+-   Practice will be Wed+Fri, and starts Sep 5&7
+-   SoCal & PCISA Upcoming [regatta schedule](https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s)
+
+<div class="alert alert-info">
+<h4>New Sailors & Freshman</h4>
+<!--img src="/assets/images/2018-PCCs-eyc-race-info.jpeg" alt="regatta racing map"-->
+Come visit our club table at the club drive on Friday.
+<h5></h5>
+</div>
+<!--more-->
