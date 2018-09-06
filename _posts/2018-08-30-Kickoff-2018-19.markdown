@@ -1,12 +1,18 @@
 ---
-title:  "Sato 2018-19 Kickoff and Club Drive"
+title:  "2018-19 Sato Sailing Kickoff"
 date:   2018-08-30 13:36:00 -0700
-last_modified_at: 2018-08-30 13:36:00 -0700
-modified_count: 0
+last_modified_at: 2018-09-06 13:06:00 -0700
+modified_count: 1
+photo1: practiceboard2
+photo2: 2018firstpractice
 categories: [ news ]
 ---
+{% assign photo1 = site.data.widget_photos[page.photo1] %}
+{% assign photo2 = site.data.widget_photos[page.photo2] %}
 
 <h3>Practice Starts First week of September</h3>
+
+![{{ photo1.text }}]({{ photo1.url }})
 
 -   Get [Signed-up](/about/) (3-steps)
 -   Practice will be Wed+Fri, and starts Sep 5&7
@@ -14,8 +20,25 @@ categories: [ news ]
 
 <div class="alert alert-info">
 <h4>New Sailors & Freshman</h4>
-<!--img src="/assets/images/2018-PCCs-eyc-race-info.jpeg" alt="regatta racing map"-->
-Come visit our club table at the club drive on Friday.
-<h5></h5>
+We had a table at the club drive on Friday 8/31. If you're interested in joining...
+<!--more--> be sure to check out our <a type="button" class="btn btn-info btn-sm" href="/about/">club info page</a> which has everything you need to join.
 </div>
-<!--more-->
+
+
+## First Practice
+
+We had our first day of practice of 2018-19 season on Wednesday, Sep 5 afterschool 3-6:30p (some practices go later). The wind was fairly heavy, but made for good fun practice! **Friday is swim test.**
+
+As always we recommend:
+
+-   Bring an after-school snack
+-   Bring a towel
+-   Wear [appropriate gear](/apparel/)
+-   and a change of sailing clothes can also be nice to have, especially when the weather is colder!
+
+![{{ photo2.text }}]({{ photo2.url }})
+
+
+## First SoCal Regatta is Sep 15
+
+NHYC Hosts the first PCISA SoCal series regatta. Info posted soon.  In the meantime, checkout the [PCISA SoCal schedule](https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal).

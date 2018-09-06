@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Sato Sailing"
+title:  "2018-19 Welcome Meeting"
 date:   2018-08-23 15:30:00 -0700
 last_modified_at: 2018-08-30 13:30:00 -0700
 modified_count: 1
