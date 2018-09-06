@@ -1,8 +1,15 @@
 title: "Useful Links"
 location: sidebar
 published: true
+#emoji_cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
+
 
 clinks:
+- emoji: file_folder
+  url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2?usp=sharing"
+  text: Shared Folder
+  published: true
+
 - emoji: art
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
   text: Club Artwork

@@ -1,7 +1,7 @@
 title: "Recent News"
 location: sidebar
 timeframe: 2419200
-maxposts: 6
+maxposts: 16
 date_format: "%m/%d %I:%M%P" # timestamp: https://shopify.github.io/liquid/filters/date/
 published: true
 
