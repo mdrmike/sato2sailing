@@ -1,10 +1,14 @@
 ---
 title: Program Information
 permalink: /about/
+photo1: treasureisland1
 published: true
 ---
+{% assign photo1 = site.data.widget_photos[page.photo1] %}
 
 All sailing skill levels are encouraged to join! The idea is to have fun and learn lifelong sailing skills in a fun and relaxed environment while also encouraging self improvement.
+
+![{{ photo1.text }}]({{ photo1.url }})
 
 
 ## How to Join Sato Sailing Club
