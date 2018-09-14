@@ -1,0 +1,36 @@
+{% if site.data.widget_archive.published != false %}
+<h3>{{ site.data.widget_archive.title | escape }}</h3>
+
+{% assign timeframe = site.data.widget_archive.timeframe %}
+{% assign maxposts = site.data.widget_archive.maxposts %}
+{% assign date_format = site.minima.date_format | default: site.data.widget_archive.date_format %}
+
+<ul class="post-list text-muted list-unstyled">
+{% assign sorted_posts = site.posts | sort: "last_modified_at" | reverse %}
+{% for post in sorted_posts limit: maxposts %}
+  {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
+  {% assign recent_posts = "now" | date: "%s" | minus: timeframe %}
+  {% assign post_date = post.date | date: date_format %}
+  {% assign post_updated = post.last_modified_at | date: date_format | default: post_date %}
+  {% assign post_count = post.modified_count | default: 1 %}
+  {% capture post_date %}<small>{{ post_updated }}</small>{% endcapture %}
+
+  {% if post_in_seconds > recent_posts %}
+  {% capture label_new %}<span class="label label-success">new</span>{% endcapture %}
+    {% if post.last_modified_at > post.date %}
+      {% assign label_new = '' %}{% comment %}Clear NEW if modified{% endcomment %}
+      {% capture label_updated %}<span class="label label-warning">Update <span class="badge">{{ post_count }}</span></span>{% endcapture %}
+    {% endif %}
+  {% endif %}
+  <li>
+    <h4>{{ post_date }}
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}</a> {{ label_new }}{{ label_updated }}
+      </h4>
+  </li>
+  {% assign label_new = '' %}
+  {% assign post_date = '' %}
+  {% assign label_updated = '' %}
+{% endfor %}
+</ul>
+{% endif %}
