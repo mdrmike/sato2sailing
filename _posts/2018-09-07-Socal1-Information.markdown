@@ -2,7 +2,7 @@
 title:  "SoCal1: NHYC"
 date:   2018-09-06 23:00:00 -0700
 last_modified_at: 2018-09-14 14:20:00 -0700
-modified_count: 0
+modified_count: 1
 photo1: capsized
 photo2: nhycdock
 categories: [ 2018-19, SoCal1 ]
