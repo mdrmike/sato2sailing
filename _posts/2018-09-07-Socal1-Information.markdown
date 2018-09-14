@@ -1,24 +1,38 @@
 ---
-title:  "2018-19 SoCal1: NHYC"
+title:  "SoCal1: NHYC"
 date:   2018-09-06 23:00:00 -0700
-last_modified_at: 2018-09-06 23:00:00 -0700
+last_modified_at: 2018-09-14 14:20:00 -0700
 modified_count: 0
-photo1: nhycdock
-#photo2: 2018firstpractice
+photo1: capsized
+photo2: nhycdock
 categories: [ 2018-19, SoCal1 ]
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}
 
-<h3>Upcoming Practice and Our First Regatta</h3>
 
+### 110% Ready for Our First Regatta of 2018
 ![{{ photo1.text }}]({{ photo1.url }})
+
+<div class="alert alert-info">
+<h3>Update#1</h3>
+<p>Details about SoCal1 Regatta will be posted this evening. All sailors have been registered to participate. Check back soon.</p>
+<p><strong>IMPORTANT:</strong> Sailors need to coordinate with Coach Nick today regarding any responsibilities, what to bring, and what time to be where. If parents aren't attending, they need to coordinate a chaperon/carpool, etc.</p>
+</div>
+
+
+<!--more-->
+
+
+### Upcoming Practice and Our First Regatta
+
+![{{ photo2.text }}]({{ photo2.url }})
 
 
 <div class="alert alert-info">
 <p><strong>Sailors</strong>Are you ready for practice? Including Friday, we have three practices then a fun regatta Saturday in Newport! (Are you prepared?)</p>
 
-<p><strong>Parents:</strong> If you can make it, ABYC hosts a happy hour every Friday starting at 5p. Sato Team Parent Mike Stewart will <!--more-->be there this week ~5p, to meet and answer questions.  Street parking is free when available. Parking in the city lot outside ABYC is free after 6p, and cheap before then. If you get locked out of ABYC, there is a call button for reception; they'll let you in. Also, you can call one of the parents on the Team Roster. </p>
+<p><strong>Parents:</strong> If you can make it, ABYC hosts a happy hour every Friday starting at 5p. Sato Team Parent Mike Stewart will be there this week ~5p, to meet and answer questions.  Street parking is free when available. Parking in the city lot outside ABYC is free after 6p, and cheap before then. If you get locked out of ABYC, there is a call button for reception; they'll let you in. Also, you can call one of the parents on the Team Roster. </p>
 
 <p>Upstairs at ABYC there's great view, a full bar, including non-alcoholic beverages, light snacks, etc. This is an opportunity to socialize and meet with other parents from Sato and other High School Parents (Wilson, Los Alamitos, McBride). It's also a chance to discuss the upcoming season and coordinate potential travel plans. There's potential of overnight trips to college towns that host regattas such as Monterey, UCSD, UCSB, Cal Berkeley. UCI and USC also host regattas locally).</p>
 </div>
