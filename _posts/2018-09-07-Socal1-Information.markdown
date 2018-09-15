@@ -1,10 +1,12 @@
 ---
 title:  "SoCal1: NHYC"
 date:   2018-09-06 23:00:00 -0700
-last_modified_at: 2018-09-14 23:20:00 -0700
+last_modified_at: 2018-09-14 23:35:00 -0700
 modified_count: 2
 photo1: capsized
 photo2: nhycdock
+map:  "https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753"
+entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
 categories: [ 2018-19, SoCal1 ]
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
@@ -16,17 +18,17 @@ categories: [ 2018-19, SoCal1 ]
 
 <div class="alert alert-info">
 <h3>Update#2</h3>
-<p>More details about SoCal1 regatta will be posted in the morning before the first race. At end of practice coach Nick already covered most important thing: 9:00am call time at NHYC. But here's a quick list of things to know:
+<p>At practice, coach Nick covered the most important thing everyone needs to know: Meet at 9:00am at NHYC. I plan to post more links/details about SoCal1 regatta tomorrow before (or during) the first race or two.  In the meantime, here's what you need now:
 </p><p></p>
 
 <ol><li>
 Meet for call time is at 9:00am</li><li>
-Regatta is at Newport Harbor Yacht Club (NHYC)</li><li>
-All sailors have been registered to participate.</li><li>
+Regatta is at <a href="{{ page.map }}" target="_blank">Newport Harbor Yacht Club (NHYC)</a></li><li>
+All sailors have been <a href="{{page.entrylist}}" target="_blank">registered to participate.</a></li><li>
 <strong>If parents aren't attending, they need to coordinate a chaperon/carpool, etc.</strong></li><li>
-Still have a last minute question? Text someone on the club roster.</li><li>
-Note, for each regatta there are links specific to the regatta, <a class="btn btn-default btn-sm" role="button"  href="https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753" target="_blank">such as map</a>. Always check the sidebar links, they change for each event.</li><li>
-Don't forget: <ul><li>Weather appropriate apparel plus: Life jacket, gloves, </li><li>Weather protection: sun screen, hat, glasses, </li><li>Change of clothes, towel, </li><li>Sustenance: snacks, water, etc.</li></ul>
+Still have a last minute question? Text/call someone on the club roster.</li><li>
+<strong>Note:</strong> for each regatta there are links specific to the regatta, <a class="btn btn-default btn-sm" role="button"  href="{{page.map}}" target="_blank">such as map</a>. Always check the sidebar links, they change for each event.</li><li>
+Be prepared: <ul><li>Weather appropriate <a href="/apparel/">apparel</a> plus: Life jacket, gloves, watch, </li><li>Weather protection: sun screen, hat, glasses, </li><li>Change of clothes, towel, </li><li>Sustenance: snacks, water, etc.</li></ul>
 </li></ol>
 </div>
 
