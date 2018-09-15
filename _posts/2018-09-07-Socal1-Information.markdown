@@ -1,8 +1,8 @@
 ---
 title:  "SoCal1: NHYC"
 date:   2018-09-06 23:00:00 -0700
-last_modified_at: 2018-09-14 14:20:00 -0700
-modified_count: 1
+last_modified_at: 2018-09-14 23:20:00 -0700
+modified_count: 2
 photo1: capsized
 photo2: nhycdock
 categories: [ 2018-19, SoCal1 ]
@@ -15,11 +15,20 @@ categories: [ 2018-19, SoCal1 ]
 ![{{ photo1.text }}]({{ photo1.url }})
 
 <div class="alert alert-info">
-<h3>Update#1</h3>
-<p>Details about SoCal1 Regatta will be posted this evening. All sailors have been registered to participate. Check back soon.</p>
-<p><strong>IMPORTANT:</strong> Sailors need to coordinate with Coach Nick today regarding any responsibilities, what to bring, and what time to be where. If parents aren't attending, they need to coordinate a chaperon/carpool, etc.</p>
-</div>
+<h3>Update#2</h3>
+<p>More details about SoCal1 regatta will be posted in the morning before the first race. At end of practice coach Nick already covered most important thing: 9:00am call time at NHYC. But here's a quick list of things to know:
+</p><p></p>
 
+<ol><li>
+Meet for call time is at 9:00am</li><li>
+Regatta is at Newport Harbor Yacht Club (NHYC)</li><li>
+All sailors have been registered to participate.</li><li>
+<strong>If parents aren't attending, they need to coordinate a chaperon/carpool, etc.</strong></li><li>
+Still have a last minute question? Text someone on the club roster.</li><li>
+Note, for each regatta there are links specific to the regatta, <a class="btn btn-default btn-sm" role="button"  href="https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753" target="_blank">such as map</a>. Always check the sidebar links, they change for each event.</li><li>
+Don't forget: <ul><li>Weather appropriate apparel plus: Life jacket, gloves, </li><li>Weather protection: sun screen, hat, glasses, </li><li>Change of clothes, towel, </li><li>Sustenance: snacks, water, etc.</li></ul>
+</li></ol>
+</div>
 
 <!--more-->
 
