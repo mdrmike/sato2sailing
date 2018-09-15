@@ -1,25 +1,26 @@
-title: "Upcoming Regattas"
+title: "Upcoming Regatta"
 location: sidebar
 published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
-- text: "NHYC: SoCal1 Info"
+- text: "Big5: Sea Otter (Monterey Oct 13-14)"
   published: true
-  emoji: one
-  url: "/2018-19/socal1/Socal1-Information/"
-  #target: _blank
-
-- text: "SoCal1: Notice of Race (NOR)"
-  published: true
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  emoji: dolphin
+  url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
   target: _blank
 
-- text: Map to NHYC
+- text: "Sea Otter: Notice of Race (NOR)"
+  published: true
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
+  target: _blank
+
+- text: Map to MPYC
   published: true
   emoji: earth_americas
-  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
   target: _blank
 
 
