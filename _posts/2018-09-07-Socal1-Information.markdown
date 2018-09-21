@@ -7,7 +7,7 @@ photo1: capsized
 photo2: nhycdock
 map:  "https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753"
 entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
-categories: [ 2018-19, SoCal1 ]
+categories: [ 2018-19, SoCal ]
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}
