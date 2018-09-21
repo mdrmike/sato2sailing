@@ -5,10 +5,30 @@ published: true
 
 
 clinks:
-- emoji: file_folder
-  url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2?usp=sharing"
-  text: Shared Folder
+- text: Carpooling to Practice
+  emoji: car
+  url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
+  target: _blank
+
+- text: Club Roster
+  emoji: blue_book
+  url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
+  target: _blank
+
+- text: Shared Folder
+  emoji: file_folder
+  url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2"
   published: true
+
+- text: Regatta Coordination
+  emoji: small_orange_diamond
+  url: "https://drive.google.com/drive/folders/10KzSuppw7rxr0VAsg3jT9MW__Juhk7T5"
+  published: false
+
+- text: Regatta Sign-up
+  emoji: triangular_flag_on_post
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
+  published: false
 
 - emoji: art
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
@@ -21,21 +41,11 @@ clinks:
   published: true
 #  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
 
-- emoji: triangular_flag_on_post
-  url: "https://docs.google.com/forms/d/e/1FAIpQLSdHoOhTO7lkORibwT8FhTadlphJCcX4fGAcO9u2BuH8pL3XeA/viewform"
-  text: Regatta Sign-up
-  published: false
-
-- emoji: small_orange_diamond
-  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzUXkxQnRhcFU4N1k"
-  text: Regatta Coordination
-  published: false
-
 - text: Club Fund-raising
   emoji: moneybag
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
   target: _blank
-  published: false
+  published: true
 
 - text: Go Fund Me
   emoji: moneybag
