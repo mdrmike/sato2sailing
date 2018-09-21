@@ -41,11 +41,18 @@ clinks:
   published: true
 #  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
 
+- text: "Learn: How to minimize risk"
+  emoji: books
+  url: "http://www.speedandsmarts.com/TipsTests/Tip/23"
+  published: true
+  target: _blank
+#  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
+
 - text: Club Fund-raising
   emoji: moneybag
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
   target: _blank
-  published: true
+  published: false
 
 - text: Go Fund Me
   emoji: moneybag

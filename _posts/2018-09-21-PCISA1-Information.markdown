@@ -20,8 +20,8 @@ categories: [ 2018-19, PCISA ]
 **{{ photo1.text }}**
 
 <div class="alert alert-info">
-<h3>Sailors: Register for Every Regatta</h3>
-<p>Please use the <a href="{{ page.signup }}" class="btn btn-default btn-sm" role="button" target="_blank">{{ page.signup-emoji }} Regatta Sign-up</a> to register for <strong>every regatta</strong> including SoCal1, even if you don't attend. It helps with tracking and future planning.</p>
+<h3>Register for Every Regatta</h3>
+<p>Sailors, even if you don't plan to attend, please use the <a href="{{ page.signup }}" class="btn btn-default btn-sm" role="button" target="_blank">{{ page.signup-emoji }} Regatta Sign-up</a> link to register for <strong>every regatta</strong> (including SoCal1 last week). It helps with tracking and future planning.</p>
 </div>
 
 <em>PCISA1: CSUMB Sea Otter</em>, registration deadline is 5pm Friday Sep 28. We need at least four kids to register ASAP! PCISA regatta's require registration by at least the Friday two weeks prior to the event.
