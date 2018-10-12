@@ -1,4 +1,5 @@
-<h3>{{ site.data.willyweather.title }}</h3>
+{% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+{% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
 
 <div style="width: {{ site.data.willyweather.width }}px;">
   <iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id={{ site.data.willyweather.id }}" width="{{ site.data.willyweather.width }}" height="{{ site.data.willyweather.height }}" frameborder="0" scrolling="no"></iframe>
