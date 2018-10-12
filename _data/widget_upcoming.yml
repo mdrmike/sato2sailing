@@ -20,20 +20,20 @@ links:
   emoji: shell
   url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
   target: _blank
-  #published: false
+  published: false
 
 - text: "PCISA1: Notice of Race (NOR)"
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
   target: _blank
-  #published: false
+  published: false
 
 - text: "PCISA1: Map to MPYC"
   emoji: earth_americas
   url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
   #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
   target: _blank
-  #published: false
+  published: false
 
 
 - text: Apr 21-22 Silver PCCs Planning

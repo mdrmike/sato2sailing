@@ -1,6 +1,6 @@
 current_regatta: "SeaOtter" # Change this for each regatta to match data key below
 location: sidebar
-published: false
+published: true
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 
@@ -41,25 +41,57 @@ common:
 
 
 SeaOtter:
-- title: "Big5: Sea Otter"
-  published: false
-  text: foo
-  emoji: memo
+- title: "PCISA1: Sea Otter"
+  #published: false
 - text: Sailors Instructions (course)
   published: false
   emoji: memo
-  url: https://scores.hssailing.org/s18/pcisa-silver-pcc/notices/sailing-instructions.pdf
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
   target: _blank
-- text: Monterey Oct 13-14
+- text: "Rotations (Sail Numbers)"
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
+  target: _blank
   #published: false
-  emoji: mouse2
+
+- text: #spacer
+  emoji:
+  url:
+  published: false
+  #target: _blank
+
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  target: _blank
+  #published: false
+
+- text: #spacer
+  emoji:
+  url:
+  #published: false
+  #target: _blank
+
+- text: "PCISA1: Map to MPYC"
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+  #published: false
+- text: "Event: Monterey Oct 13-14 (website)"
+  #published: false
+  emoji: shell
   url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
   target: _blank
-- text: Rotations (Sail Numbers)
-  published: false
-  emoji: arrows_clockwise
-  url: https://scores.hssailing.org/s18/pcisa-silver-pcc/rotations/
+- text: "Event: Logistics & Reminders"
+  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
   target: _blank
+  emoji: memo
+- text: "PCISA1: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
+  target: _blank
+  #published: false
 
 
 - text: #spacer
@@ -68,14 +100,14 @@ SeaOtter:
   url:
   #target: _blank
 
-- text: Map
-  #published: false
+- text: Map to Encinal Yacht Club (EYC)
+  published: false
   emoji: earth_americas
   url: https://www.google.com/maps/place/Encinal+Yacht+Club/@37.7824052,-122.2651127,17z/data=!3m1!4b1!4m5!3m4!1s0x808f872a85d4429d:0x5aede73cb58cfb9e!8m2!3d37.782401!4d-122.262924
   target: _blank
 
 - text: Parking
-  #published: false
+  published: false
   emoji: car
   url:
   target: _blank

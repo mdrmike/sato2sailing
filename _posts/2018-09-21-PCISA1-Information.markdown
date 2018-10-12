@@ -1,8 +1,8 @@
 ---
 title:  "PCISA1: CSUMB Sea Otter"
 date:   2018-09-20 11:00:00 -0700
-last_modified_at: 2018-10-11 11:13:00 -0700
-modified_count: 1
+last_modified_at: 2018-10-12 11:00:00 -0700
+modified_count: 2
 photo1: 2018SoCal1
 photo2: 2018abycfirepit
 signup-emoji: ":triangular_flag_on_post:"
@@ -10,6 +10,15 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 map:  "https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824"
 entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
 categories: [ 2018-19, PCISA ]
+
+windfinder:
+  unit_wave: "ft"
+  unit_rain: "in"
+  unit_temperature: "f"
+  unit_wind: "mph" #kts
+  days: 3
+  show_day: 1
+
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}
@@ -79,9 +88,28 @@ meet new people, see old friends and enjoy one of the world’s most storied des
 enjoy, respect and remember! THANKS!
 
 
-### More updates coming later today
+### Update#2: Wind & Weather
 
-(Weather info, regatta links, etc)
+
+#### Windfinder: Monterey Peninsula Wharf 2
+
+[Monterey Peninsula Municipal Warf](https://www.windfinder.com/forecast/monterey_municipal_wharf_2)
+
+<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/monterey_municipal_wharf_2?unit_wave={{page.windfinder.unit_wave}}&unit_rain={{page.windfinder.unit_rain}}&unit_temperature={{page.windfinder.unit_temperature}}&unit_wind={{page.windfinder.unit_wind}}&days={{page.windfinder.days}}&show_day={{page.windfinder.show_day}}"></script>
+
+<noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/monterey_municipal_wharf_2?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for undefined</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
+
+
+#### Weekend Tide Info
+
+[![Tide Info](https://i.imgur.com/N0hQYSN.png)](https://www.windfinder.com/tide/monterey_municipal_wharf_2)
+
+
+#### Willy Weather
+
+<div><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=96242" width="700" height="520" frameborder="0"  scrolling="no"></iframe><a style="display: block;position: relative;height: 20px;margin: -20px 0 0 0;text-indent: -9999em;z-index: 1" href="https://www.willyweather.com/ca/monterey-county/monterey.html" rel="nofollow">https://www.willyweather.com/ca/monterey-county/monterey.html</a></div>
+
+[View on website](https://www.willyweather.com/ca/monterey-county/monterey.html)
 
 ![{{ photo1.text }}]({{ photo1.url }})
 **{{ photo1.text }}**
