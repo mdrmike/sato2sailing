@@ -2,15 +2,10 @@ current_regatta: "SoCal2" # Change this for each regatta to match data key below
 location: sidebar
 published: true
 
+# github emoji list https://www.webpagefx.com/tools/emoji-cheat-sheet/
 # github emoji list https://gist.github.com/rxaviers/7360908
 
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
-AntEater:
-- text: Rotations (Sail Numbers)
-  published: false
-  emoji: arrows_clockwise
-  url: http://scores.hssailing.org/f17/anteater-silver/rotations/
-  target: _blank
 
 common:
 - text: #spacer
@@ -19,7 +14,7 @@ common:
   url:
   #target: _blank
 - text: PCISA 2018-2019 Schedule
-  emoji: two
+  emoji: information_source
   url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
   target: _blank
   #published: false
@@ -39,10 +34,56 @@ common:
   url: https://scores.hssailing.org/seasons/
   target: _blank
 
+Anteater:
+- title: "PCISA2: UCI Anteater"
+- text: Rotations (Sail Numbers)
+  #published: false
+  emoji: arrows_clockwise
+  url: http://scores.hssailing.org/f18/anteater-silver/rotations/
+  target: _blank
+- text: Sailors Instructions (course)
+  #published: false
+  emoji: memo
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
+- text: "Rotations (Sail Numbers)"
+  published: false
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
+  target: _blank
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  target: _blank
+  published: false
+- text: #spacer
+  emoji:
+  url:
+  published: false
+  #target: _blank
+- text: "PCISA2: Map to NHYC"
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+  #published: false
+- text: "Event: AntEater Nov 10-11 (website)"
+  #published: false
+  emoji: ant
+  url: "https://pcisa.hssailing.org/event/home/anteater/172"
+  target: _blank
+- text: "Event: Logistics & Reminders"
+  url: ""
+  target: _blank
+  emoji: memo
+  published: false
+- text: "PCISA2: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/18_Anteater_NOR.pdf"
+  target: _blank
+  #published: false
 
 SeaOtter:
 - title: "PCISA1: Sea Otter"
-  published: false
+  #published: false
 - text: Sailors Instructions (course)
   published: false
   emoji: memo
@@ -224,6 +265,11 @@ SoCal2:
   emoji: trophy
   url: https://scores.hssailing.org/f18/2019-18-pcisa-socal2-gold/
   target: _blank
+- text: SoCal2 Silver Races
+  emoji: 1234
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/full-scores/
+  target: _blank
+  #published: false
 - text: #spacer
   published: true
   emoji:
