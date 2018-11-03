@@ -1,4 +1,4 @@
-current_regatta: "SeaOtter" # Change this for each regatta to match data key below
+current_regatta: "SoCal2" # Change this for each regatta to match data key below
 location: sidebar
 published: true
 
@@ -14,7 +14,7 @@ AntEater:
 
 common:
 - text: #spacer
-  published: false
+  published: true
   emoji:
   url:
   #target: _blank
@@ -42,36 +42,27 @@ common:
 
 SeaOtter:
 - title: "PCISA1: Sea Otter"
-  #published: false
+  published: false
 - text: Sailors Instructions (course)
   published: false
   emoji: memo
   url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
   target: _blank
 - text: "Rotations (Sail Numbers)"
+  published: false
   emoji: arrows_clockwise
   url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
   target: _blank
-  #published: false
-
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  target: _blank
+  published: false
 - text: #spacer
   emoji:
   url:
   published: false
   #target: _blank
-
-- text: "Silver Scores"
-  emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
-  target: _blank
-  #published: false
-
-- text: #spacer
-  emoji:
-  url:
-  #published: false
-  #target: _blank
-
 - text: "PCISA1: Map to MPYC"
   emoji: earth_americas
   url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
@@ -124,12 +115,6 @@ SeaOtter:
   published: false
   emoji:
   url:
-  #target: _blank
-
-- text: SoCal2 Sailor Rank
-  published: false
-  emoji: two
-  url: https://scores.hssailing.org/f17/2017-18-pcisasocal-silver/sailors/
   #target: _blank
 
 - text: SoCal3 Sailor Rank
@@ -222,6 +207,63 @@ SoCal1:
 - text: Map to NHYC
   published: true
   emoji: earth_americas
+  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+  #target: _blank
+
+SoCal2:
+- title: "SoCal 2 Regatta Links"
+  published: true # removes extra line, since this is a title not a link
+- text: Silver Scores
+  published: true
+  emoji: checkered_flag
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/
+  target: _blank
+- text: Gold Scores
+  published: true
+  emoji: trophy
+  url: https://scores.hssailing.org/f18/2019-18-pcisa-socal2-gold/
+  target: _blank
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+- text: Wind + Weather
+  published: true
+  emoji: umbrella
+  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
+  url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  target: _blank
+- text: "SoCal2: Notice of Race (NOR)"
+  published: true
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  target: _blank
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+- text: SoCal2 @ NHYC
+  emoji: two
+  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
+  target: _blank
+  published: true
+- text: SoCal1 Sailor Rank
+  published: true
+  emoji: arrow_up_down
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/sailors/
+  #target: _blank
+- text: Map to BCYC
+  published: true
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Bahia+Corinthian+Yacht+Club/@33.6069645,-117.8852635,15z/data=!4m5!3m4!1s0x0:0x8ff6aa979352eaba!8m2!3d33.6069645!4d-117.8852635
+  target: _blank
+- text: Map to NHYC
+  published: true
+  emoji: round_pushpin
   url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
   target: _blank
   #target: _blank

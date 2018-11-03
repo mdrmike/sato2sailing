@@ -1,27 +1,26 @@
 title: "Upcoming Regatta"
 location: sidebar
-published: true
+published: false
 
 # github emoji list https://gist.github.com/rxaviers/7360908
 links:
+
+#SeaOtter
 - text: Regatta Sign-up
   emoji: triangular_flag_on_post
   url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
   target: _blank
-  #published: false
-
+  published: false
 - text: Regatta Coordination
   emoji: small_orange_diamond
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzUXkxQnRhcFU4N1k"
   target: _blank
-  #published: false
-
+  published: false
 - text: "PCISA1: Sea Otter (Monterey Oct 13-14)"
   emoji: shell
   url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
   target: _blank
   published: false
-
 - text: "PCISA1: Notice of Race (NOR)"
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
