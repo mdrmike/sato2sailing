@@ -18,15 +18,15 @@ common:
   emoji:
   url:
   #target: _blank
+- text: PCISA 2018-2019 Schedule
+  emoji: two
+  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
+  target: _blank
+  #published: false
 - text: Sailor Rank 2018-19
   published: false
   emoji: arrow_up_down
   url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
-  target: _blank
-- text: Sailor Rank 2017-18
-  published: false
-  emoji: chart
-  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/sailors/
   target: _blank
 - text: PCISA Current Standings
   #published: false
@@ -181,7 +181,7 @@ SoCal1:
   published: true
   emoji: arrow_up_down
   url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
-  #target: _blank
+  target: _blank
 - text: Wind + Weather
   published: true
   emoji: umbrella
@@ -236,26 +236,30 @@ SoCal2:
   #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
   url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
   target: _blank
-- text: "SoCal2: Notice of Race (NOR)"
-  published: true
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+- text: Rotations (Sail Numbers)
+  emoji: arrows_clockwise
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/rotations/
   target: _blank
 - text: #spacer
   published: true
   emoji:
   url:
   #target: _blank
-- text: SoCal2 @ NHYC
-  emoji: two
-  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
+- text: "SoCal2: Notice of Race (NOR)"
+  published: true
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
   target: _blank
-  published: true
-- text: SoCal1 Sailor Rank
-  published: true
+- text: SoCal2 Rankings
   emoji: arrow_up_down
   url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/sailors/
-  #target: _blank
+  target: _blank
+  #published: false
+- text: SoCal1 Rankings
+  emoji: arrow_up_down
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
+  target: _blank
+  #published: false
 - text: Map to BCYC
   published: true
   emoji: earth_americas
