@@ -1,4 +1,5 @@
 current_regatta: "SoCal2" # Change this for each regatta to match data key below
+upcoming_regatta: ""
 location: sidebar
 published: true
 
@@ -36,30 +37,23 @@ common:
 
 Anteater:
 - title: "PCISA2: UCI Anteater"
-- text: Rotations (Sail Numbers)
-  #published: false
-  emoji: arrows_clockwise
-  url: http://scores.hssailing.org/f18/anteater-silver/rotations/
-  target: _blank
-- text: Sailors Instructions (course)
-  #published: false
-  emoji: memo
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
-- text: "Rotations (Sail Numbers)"
-  published: false
-  emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
-  target: _blank
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  url: "https://scores.hssailing.org/f18/anteater/"
   target: _blank
-  published: false
+  #published: false
 - text: #spacer
-  emoji:
-  url:
-  published: false
-  #target: _blank
+- text: Rotations (Sail Numbers)
+  emoji: arrows_clockwise
+  url: "http://scores.hssailing.org/f18/anteater-silver/rotations/"
+  url: "https://scores.hssailing.org/f18/anteater/rotations/"
+  target: _blank
+  #published: false
+- text: Sailors Instructions (course)
+  emoji: memo
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
+  #published: false
+- text: #spacer
 - text: "PCISA2: Map to NHYC"
   emoji: earth_americas
   url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753

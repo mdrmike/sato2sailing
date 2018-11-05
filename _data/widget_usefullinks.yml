@@ -10,6 +10,11 @@ clinks:
   url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
   target: _blank
 
+- text: Regatta Sign-up
+  emoji: triangular_flag_on_post
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
+  published: true
+
 - text: Club Roster
   emoji: blue_book
   url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
@@ -25,11 +30,6 @@ clinks:
   url: "https://drive.google.com/drive/folders/10KzSuppw7rxr0VAsg3jT9MW__Juhk7T5"
   published: false
 
-- text: Regatta Sign-up
-  emoji: triangular_flag_on_post
-  url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
-  published: false
-
 - emoji: art
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzVUF1TVdYdkxsaUk"
   text: Club Artwork
@@ -41,9 +41,9 @@ clinks:
   published: true
 #  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
 
-- text: "Learn: How to minimize risk"
+- text: "Speed & Smarts"
   emoji: books
-  url: "http://www.speedandsmarts.com/TipsTests/Tip/23"
+  url: "https://www.speedandsmarts.com/speed-smarts/current-issue"
   published: true
   target: _blank
 #  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"

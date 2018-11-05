@@ -5,7 +5,7 @@ last_modified_at: 2018-11-03 11:00:00 -0700
 modified_count: 0
 
 photo1: 2017anteater
-photo2:
+photo2: 2018seaotter-diego-troy
 
 signup-emoji: ":triangular_flag_on_post:"
 signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
@@ -37,9 +37,7 @@ windfinder:
 {% endif %}
 <div class="alert alert-info">
 <h2>Anteater Info</h2>
-<p>Please plan to arrive to <a href="{{page.venue.map}}" target="_blank">{{page.venue.maptitle}}</a> by 8:00a.
-</p>
-<p>Breakfast Burritos will be available for $5 each on Saturday and Sunday. CASH ONLY
+<p>Please plan to arrive to <a href="{{page.venue.map}}" target="_blank">{{page.venue.maptitle}}</a> by 8:00a. Breakfast Burritos will be available for $5 each on Saturday and Sunday. CASH ONLY
 </p>
 <p>We have 4tix (Diego, Elissa, Nikhil, Troy) for Lunch on Sat (BBQ) and Sun (Deli). Any additional lunches must be <a href="https://hssailing.org/machform/view.php?id=103306" target="_blank" class="btn btn-info btn-sm" role="button">pre-ordered online</a> for <strong>$10 by Sunday, November 4, 5pm.</strong> No lunch tickets will be sold at the door.
 </p>
@@ -50,7 +48,7 @@ windfinder:
 #### Saturday
 
 -  0800                   Meetup  
--  0800-1000              Boat inspection and Team Check-In  
+-  0830-0930              Boat inspection and Team Check-In  
 -  1000                   Competitors’ Meeting  
 -  1015                   Coaches’ Meeting  
 -  1100                   First Warning  
