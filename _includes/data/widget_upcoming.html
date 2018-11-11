@@ -12,5 +12,13 @@
   {% endif %}
 {% endfor %}
 
+{% for link in site.data.widget_racing.upcoming-common %}
+  {% if link.published != false %}
+  <li>
+    <h4>{% if link.emoji %}:{{ link.emoji }}:{% else %}&nbsp;{% endif %} <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
+  </li>
+  {% endif %}
+{% endfor %}
+
 </ul>
 {% endif %}

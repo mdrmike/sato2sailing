@@ -15,6 +15,11 @@ clinks:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
   published: true
 
+- text: PCISA 2018 Schedule
+  emoji: calendar
+  url: "https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s"
+  target: _blank
+
 - text: Club Roster
   emoji: blue_book
   url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
@@ -35,13 +40,13 @@ clinks:
   text: Club Artwork
   published: true
 
-- text: Learn/Practice Sailing Videos
+- text: "Learn: Videos & Resources"
   emoji: tv
   url: "/resources/"
   published: true
 #  url: "https://www.youtube.com/playlist?list=PLBIVF-v5OCLXge9au9hTLFcZXQ4UdEpxw"
 
-- text: "Speed & Smarts"
+- text: "Learn: Speed & Smarts"
   emoji: books
   url: "https://www.speedandsmarts.com/speed-smarts/current-issue"
   published: true

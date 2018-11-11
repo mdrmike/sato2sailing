@@ -3,6 +3,8 @@ title:  "PCISA2: UCI Anteater (NHYC)"
 date:   2018-11-03 11:00:00 -0700
 last_modified_at: 2018-11-03 11:00:00 -0700
 modified_count: 0
+image: "https://lh3.googleusercontent.com/vdD53Fc31kCLt4RUho7WkzJ8RlJOQKfI5h8W0caIwAjqXb8yPQUNqAPMlQADTRkP2SANlelW-oJR54tIdvoNhi5Y8adLAP51reNTbukI8r1DXQ3ekJrQC22zC-rRRfuQwjckL4zVoQZSNFj5IjGhzmBYWn_jKPh52A608V-9zqMcI4PLyGnFd6FpBrgp-BIycgePDQkUM5WDDPyEg0Q-w_mVbIXvufDLE38vaS9Zke9Jvd4yeHIz0im5IlE6HcW-UdM0xPQ9tv5owX2_HAt62fS0RUVU_Oa6-6b_CUDEw_acTdm-L_VOr90m6Pczu2hNkqrCff-BMSAqrJPOXDe8BmY1Tr6cBIjijVSPhgeO47NET5XHI5nOpgO78fMO-9PZh3MH7RMGJNXOToyG8N4YIS8ZGShKXpxsB27ALMeP9KMgBsjxXalYidUipg5eqrlWcxo-pQMnkvMbPZyaHirwPT3i7alq4Hip34hEXBYtB_BCOmYoXejDxacDLdAehC3LqAgtPfsnEVbzLwMs_CRttUI3POiPj5CbKSut4vlhQA99m4WL-n7JXrG5K0zq5alaBpMia_D3UIpQGoVMTqxDYNdelqmigcYVKkg_cQrt07T4UvpSwG7IN-3ImA6gfV9py-dfYKqg9pRTkeND1MfKPmaagHRpZUJRd2z_jcTdevzMyHmHlJwfLa8BQRr0CJA3zF7_ReAOQoxH3j5edD0=w1404-h789-no"
+
 
 photo1: 2017anteater
 photo2: 2018seaotter-diego-troy
@@ -63,12 +65,16 @@ windfinder:
 -  1530                   Final Warning  
 
 
-#### More Info On
+#### UPDATE 11/11 8:40a
 
-*   NHYC Info for Spectating Location  
-*   Weather & Wind info, _and more_
+
+### Weather Info
+
+- [NHYC Wind](https://www.windfinder.com/#15/33.6046/-117.8986)  
+- [NHYC Info](https://www.windfinder.com/forecast/newport_harbor_yacht_club)  
 
 <!--more-->
+![Tidal Info](https://i.imgur.com/KlsSCNi.png)
 
 
 ### Scoring & Rotations
@@ -76,8 +82,8 @@ windfinder:
 Regatta Results and Rotations can be found at:
 
 -   Techscore without an account at: [https://scores.hssailing.org](https://scores.hssailing.org)
--   Sato will be sailing in Silver fleet:  [https://scores.hssailing.org/f18/anteater/](https://scores.hssailing.org/f18/anteater/)
--   Rotations: [https://scores.hssailing.org/f18/anteater/rotations/](https://scores.hssailing.org/f18/anteater/rotations/)
+-   Sato will be sailing in Silver fleet:  [https://scores.hssailing.org/f18/anteater-silver/](https://scores.hssailing.org/f18/anteater-silver/)
+-   Rotations: [https://scores.hssailing.org/f18/anteater-silver/rotations/](https://scores.hssailing.org/f18/anteater-silver/rotations/)
 
 ### Email from Coach Nick
 
@@ -128,9 +134,9 @@ Regatta Results and Rotations can be found at:
 
 #### Willy Weather
 
-<div><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=96242" width="700" height="520" frameborder="0"  scrolling="no"></iframe><a style="display: block;position: relative;height: 20px;margin: -20px 0 0 0;text-indent: -9999em;z-index: 1" href="https://www.willyweather.com/ca/monterey-county/monterey.html" rel="nofollow">https://www.willyweather.com/ca/monterey-county/monterey.html</a></div>
+<div><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=96242" width="700" height="520" frameborder="0"  scrolling="no"></iframe><a style="display: block;position: relative;height: 20px;margin: -20px 0 0 0;text-indent: -9999em;z-index: 1" href="https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html" rel="nofollow">https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.htmll</a></div>
 
-[View on website](https://www.willyweather.com/ca/monterey-county/monterey.html)
+[View on website](https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html)
 
 ![{{ photo1.text }}]({{ photo1.url }})
 **{{ photo1.text }}**

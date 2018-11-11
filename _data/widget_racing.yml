@@ -1,5 +1,5 @@
-current_regatta: "SoCal2" # Change this for each regatta to match data key below
-upcoming_regatta: ""
+current_regatta: "Anteater" # Change this for each regatta to match data key below
+upcoming_regatta: "Socal3"
 location: sidebar
 published: true
 
@@ -8,51 +8,53 @@ published: true
 
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 
-common:
+current-common:
 - text: #spacer
-  published: true
-  emoji:
-  url:
-  #target: _blank
-- text: PCISA 2018-2019 Schedule
-  emoji: information_source
-  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
-  target: _blank
-  #published: false
+  published: false
 - text: Sailor Rank 2018-19
   published: false
   emoji: arrow_up_down
   url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
   target: _blank
 - text: PCISA Current Standings
-  #published: false
+  published: false
   emoji: triangular_flag_on_post
   url: https://scores.hssailing.org/f18/
   target: _blank
 - text: All HSS Scores
-  #published: false
+  published: false
   emoji: large_orange_diamond
   url: https://scores.hssailing.org/seasons/
+  target: _blank
+
+upcoming-common:
+- text: #spacer
+- text: PCISA 2018-2019 Schedule
+  #published: false
+  emoji: calendar
+  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
   target: _blank
 
 Anteater:
 - title: "PCISA2: UCI Anteater"
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/anteater/"
+  url: "https://scores.hssailing.org/f18/anteater-silver/"
   target: _blank
   #published: false
-- text: #spacer
-- text: Rotations (Sail Numbers)
-  emoji: arrows_clockwise
-  url: "http://scores.hssailing.org/f18/anteater-silver/rotations/"
-  url: "https://scores.hssailing.org/f18/anteater/rotations/"
+- text: Wind + Weather
+  published: true
+  emoji: umbrella
+  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
+  #url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  url: https://www.windfinder.com/#15/33.6046/-117.8986
   target: _blank
-  #published: false
-- text: Sailors Instructions (course)
-  emoji: memo
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
-  #published: false
+- text: Wind + Weather2
+  published: true
+  emoji: sunny
+  url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  target: _blank
 - text: #spacer
 - text: "PCISA2: Map to NHYC"
   emoji: earth_americas
@@ -60,10 +62,10 @@ Anteater:
   target: _blank
   #published: false
 - text: "Event: AntEater Nov 10-11 (website)"
-  #published: false
   emoji: ant
   url: "https://pcisa.hssailing.org/event/home/anteater/172"
   target: _blank
+  #published: false
 - text: "Event: Logistics & Reminders"
   url: ""
   target: _blank
@@ -152,13 +154,6 @@ SeaOtter:
   url:
   #target: _blank
 
-- text: SoCal3 Sailor Rank
-  published: false
-  emoji: three
-  url: https://scores.hssailing.org/f17/201718-pcisa-socal-silver/sailors/
-  #target: _blank
-
-
 
 
 
@@ -194,7 +189,7 @@ SoCal5:
 
 
 
-SoCal1:
+Socal1:
 - title: "SoCal 1 Regatta Links"
   published: false # removes extra line, since this is a title not a link
 - text: Silver Scores
@@ -246,7 +241,7 @@ SoCal1:
   target: _blank
   #target: _blank
 
-SoCal2:
+Socal2:
 - title: "SoCal 2 Regatta Links"
   published: true # removes extra line, since this is a title not a link
 - text: Silver Scores
@@ -275,6 +270,72 @@ SoCal2:
   #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
   #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
   url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  target: _blank
+- text: Rotations (Sail Numbers)
+  emoji: arrows_clockwise
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/rotations/
+  target: _blank
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+- text: "SoCal2: Notice of Race (NOR)"
+  published: true
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  target: _blank
+- text: SoCal2 Rankings
+  emoji: arrow_up_down
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/sailors/
+  target: _blank
+  #published: false
+- text: SoCal1 Rankings
+  emoji: arrow_up_down
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
+  target: _blank
+  #published: false
+- text: Map to BCYC
+  published: true
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Bahia+Corinthian+Yacht+Club/@33.6069645,-117.8852635,15z/data=!4m5!3m4!1s0x0:0x8ff6aa979352eaba!8m2!3d33.6069645!4d-117.8852635
+  target: _blank
+- text: Map to NHYC
+  published: true
+  emoji: round_pushpin
+  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+  #target: _blank
+
+
+Socal3:
+- title: "SoCal3 Regatta (MBYC)"
+- text: Silver Scores
+  emoji: checkered_flag
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/
+  target: _blank
+  published: false
+- text: Gold Scores
+  emoji: trophy
+  url: https://scores.hssailing.org/f18/2019-18-pcisa-socal3-gold/
+  target: _blank
+  published: false
+- text: SoCal3 Silver Races
+  emoji: 1234
+  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/full-scores/
+  target: _blank
+  published: false
+- text: #spacer
+  published: true
+  emoji:
+  url:
+  #target: _blank
+- text: Wind + Weather
+  published: true
+  emoji: umbrella
+  url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
+  #url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
   target: _blank
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
