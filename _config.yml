@@ -24,6 +24,12 @@ excerpt_words: 100
 google_analytics: UA-107316710-1
 permalink: /:categories/:title/
 
+
+# author:
+#   twitter: SatoSailing
+#   instagram: SatoSailing
+#   picture: /assets/images/logo.png
+
 #collections:
 
 defaults:
@@ -32,7 +38,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: post
-      author: Michael Stewart
+      author: Sato Sailing Admin
+
   - scope:
       path: "" # an empty string here means all files in the project
       type: "pages"
