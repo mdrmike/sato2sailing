@@ -1,8 +1,8 @@
 ---
 title:  "SoCal3: MBYC—Regatta in San Diego"
 date:   2018-11-26 21:00:00 -0800
-last_modified_at: 2018-11-26 21:00:00 -0800
-modified_count: 0
+last_modified_at: 2018-12-08 21:50:00 -0800
+modified_count: 1
 categories: [ 2018-19, socal ]
 
 photo1: 2017socal3-skyline
@@ -68,6 +68,13 @@ Ideas and details need to be fleshed out. Please help. Go for it... and if you s
 **Examples:** _Lunch, Dinner, Touristy sightseeing not-to-be-missed stuff, College campus tours, etc._
 
 
-##### TBD  
+### UPDATE: Regatta Information  
 
-_More details about transportation, lodging, weather, after we get a headcount._
+Sato is sending two boats.
+
+1.  Boat1: Troy Davidson + Elissa Martinez
+1.  Boat2: Diego Lockyer + Nate Rodriguez
+
+_Nikhil Stewart is also traveling and may provide alternate crew as needed._
+
+**Parents:**  sailors need to be onsite by 8:30a. Boat setup and registration is from 9-10a. Warning for first gold race is at 11a (silver shortly after).  Final race must start by 4p, but if winds are good will end sooner.  All details are in NOR. (see links in sidebar)
