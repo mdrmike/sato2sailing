@@ -1,4 +1,4 @@
-current_regatta: "Socal3" # Change this for each regatta to match data key below
+current_regatta: "" # Change this for each regatta to match data key below
 upcoming_regatta: "RoseBowl"
 location: sidebar
 published: true
