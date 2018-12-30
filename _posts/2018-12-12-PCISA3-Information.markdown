@@ -1,8 +1,8 @@
 ---
 title:  "PCISA2: USC Rosebowl Regatta (USSC)"
 date:   2018-12-14 1:35:00 -0800
-last_modified_at: 2018-12-29 20:04:00 -0800
-modified_count: 1
+last_modified_at: 2018-12-29 20:28:00 -0800
+modified_count: 2
 #image for RSS (typically same URL as photo1 widget)
 image: "https://lh3.googleusercontent.com/rCVyV_8LZ7LIlAned4g5AAF99QUSO5QsQahFvmyMB4KETp3DBHgXTEXyEsFwBINCsjqZ5iCbYpDTTh_YIlo6XmnsRKV-noyPOcJKlLXGsB6MvrwS1qIptTNq4J4nZv1Vr28VH-Kh5wpNi7SDA62IVrQxHzkf9rEALAkX6tkd7BEQ2u-rJmJuhFPL8jtWz8UtKAMc7w5K4tl3nkQom41a1qZMWhL0dstU2dn4QVs9AWKRZp7pT2xA-oHOMwcvmjbj34g81ici-xSezP5q4CjBK6HPS-Wedk61MC_zA0LF7Z81ioweLGbJ7gC09vyZm8PxYg01UHu1cxWLDxrZ4EseVCnpQzvrpC5dX4v69LdolBOQ_Jou0jhd8Mk8ad00wlCYsE6JQzdkn34CF94BCVWCJRsB1Ilf5KiY2Gup6TEXagvjWpkrldjyorCl4r2EAft5kQMJ6mClBsRYmsiaZ5wZZ4g9FyIt4TBjad3fLoSZPhWW4PsbM82H4hPeOqb0ktX0AnCj46A-2vgT2gCqPXnrIKnNGCYgaXUZj4FLbsNuBxdtuYK7lrCgIPBZWZ5Y6KW_voejsAzmxExGNYvDdfa7KJzcVcXNbr-9KTa8PGigHctcvOCrwqlPuMtaONDKK3-mWdBqa-IcyvjVvQh0jMtcVHSY05l2jpyX647apMvZFvQ20Ka8stbpUR-sKvUvaLd08jTn7tFtCuI5Z0zY9a0=w1675-h943-no"
 
@@ -58,9 +58,9 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 
 #### Dinner & College Presentations
 
-**Dinner:** Sailors have a total of four dinner tickets as part of registration, [:ticket:  additional dinner tickets](https://hssailing.org/machform/view.php?id=34883) (includes college presentations) must be purchased by Dec 31 and are $15 ea.  
+**Dinner:** Sailors have a total of four dinner tickets as part of registration, _not enough for parents or even **all** sailors._ [:ticket:  Additional dinner tickets](https://hssailing.org/machform/view.php?id=34883) (includes college presentations) must be purchased by Dec 31 and are $15 ea. _Highly recommended!_  
 
-**College Presentations:** There will be a short presentation on Intercollegiate Sailing following dinner on Saturday night. Students and parents interested in information about college sailing in general, or specific collegiate programs should plan to attend. All colleges should plan to be represented. Please read the 2019 Rose Bowl Regatta Important Information document for more details on the dinner. _Highly recommended!_  
+**College Presentations:** There will be a short presentation on Intercollegiate Sailing following dinner on Saturday night. Students and parents interested in information about college sailing in general, or specific collegiate programs should plan to attend. All colleges should plan to be represented. Please read the 2019 Rose Bowl Regatta Important Information document for more details on the dinner.
 
 
 ### Schedule of Events
