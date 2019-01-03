@@ -1,5 +1,5 @@
 ---
-title:  "PCISA2: USC Rosebowl Regatta (USSC)"
+title:  "PCISA3: USC Rosebowl Regatta (USSC)"
 date:   2018-12-14 1:35:00 -0800
 last_modified_at: 2018-12-29 20:40:00 -0800
 modified_count: 3
