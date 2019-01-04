@@ -1,16 +1,16 @@
 ---
-title:  "PCISA3: Rosebowl Logistics"
+title:  "Logistics from PCISA about Rose Bowl"
 date:   2019-01-03 10:43:00 -0800
-last_modified_at: 2019-01-03 10:43:00 -0800
-modified_count: 0
+last_modified_at: 2019-01-03 17:07:00 -0800
+modified_count: 1
 #image for RSS (typically same URL as photo1 widget)
-image: "https://lh3.googleusercontent.com/TG5bI0uCUMsDfTZrQCAJJzz9LHkeh479NuWUxL99Npug6AhDeVk-Wp0gv2b2ZPW5pRaDqDn5SK5I7lAuqsPBC5T4nE5E6ML04ZLfvPay3_V9epzBXAqiaLXZlpAPit9vYGVwd-smr4ptfOOMDU7F3zqFp9t4T6pElmUL3jJs-6vbDTuBcxCph7q2--OB3rubNZap8jH7JJ2tkFeCOfDQ2VG3LtxccGJvhIzIlexF5fQjWgFgQpHq6Csiuy3-Q8UjhghPPYH1V3jeNXCBCRlqZUHJwbTUtBDfJXW3NGJeJcEtLJAQJBAZIzllDPtbQE1tou-fOQg2q3SkV8wuV0fkzoihSNq7CtLaw1cPy7k5zyS9I0wVMLSO8sbuKjf-HHFhvaVMJNmGhIpL9FfgBQ6UUAC_MCokLEYG660c_uXa-mHiYtBXrojF6JoHBn51kxNjnek4FJOYRUnNytvezvdY2PG27jdimZIKUyDEIjpuEUR1oDq1d4HDRF5cCjUHPL5jcvMS-5LcvVLJrpfB6SiQB8ztBSqZLZrtzwei73e9zjUutg7F8LuhBwQZj7LIjZ-lh-LsIbdRw9oOYdKfRyXMF7B6y1L_yjwi_PTbN60pDGBRwix9JQkBZrBzq8FW5eym9WBi4MwC-LPP1BsF-RNvg5kXEQ=w1675-h942-no"
+image: "https://lh3.googleusercontent.com/PIe9VnBtMNF-1nnBXbnjdPcrgti-6Qr0_rQ1NC9zfVRgSwfDMXBX55fVjm-hG1k1Ef8P1kMfS3zn-QhNgbf9K66tvzSKbQ7t6KBNittyD9BXjssETJlyncmbN4OxaPhd9P_RTlzZrXb_SaM3lUVSETlGjS5twyRglb-sOdskEnJhG6U0yrT_toBCmrVjCOESoytJcfduGSNTEtucUFvNZgDZ_rHSySnywHI1cLWEe0guWbO4HLmTCBF1HdN8WdHgz5Q9OgJW7Pj6UuHOReMloGaHVcSYKgwunSJglrb_dLRxYELg3qGe7gnnZNXfEOngxpLcSoBNqZtvxifAhh-Z-8dIDcPSscKDKP_tGEJE6zaGTWdqiv5W6i8IrnDHxqjv3JeWDHyl-ZDVN25PgAgmmWbcRo_jykOiOs7IKnlQuM4GgpUqIYMJw-cXNXDevDRQKUD5RmhPwt9S0E-1Ez18nMU1mPYnso13235Htsfygbqwotei_9Q1LY9YE9rv_V8bwT5O2NqX5vtSuCdCMlu4dRmnYoxdVAj6t_OYCx1NEvmYXBPZKlfEkOgws7kcqbUj5oSOZKFDxJV9fRADl31IbDsbB23V8l2RvVkcmOgaI-d4dD3msloFf_2RRX5mILw2o78SbC9Tw3at0Fd4RhMGAoFJ7UYFX-HQqc-2DPApg1s4bDn5AKq5BMSRcK-mZuVod8Fm5cdM5Ow3P5W921o=w1675-h942-no"
 
 
 photo1: 2018rosebowl2
 photo2:
 
-title_alert: "Rosebowl Regatta Logistics"
+title_alert: "Logistics from PCISA about Rose Bowl"
 
 venue:  
   title: "US Sailing Center / Granada Beach"
@@ -40,6 +40,7 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}
 
+<p>Much of this post is from an email from Michael H. Segerblom, Executive Director Pacific Coast Sailing Foundation, and shared on our website for convenience. All parents (and sailors) are encouraged to sign-up for <a href="https://groups.google.com/forum/#!forum/pcisa" target="_blank" rel="nofollow">PCISA News forum</a> to receive these types of updates directly.</p>
 
 {% if photo2 %}![{{ photo2.text }}]({{ photo2.url }})
 **{{ photo2.text }}**
@@ -50,34 +51,37 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 
 <div class="alert alert-info">
 <h2>{{ page.title_alert }}</h2>
-<br><h4>Practice</h4>
+<br><h4>ABYC Friday Practice</h4>
 <p><strong>Practice:</strong> Regatta sailors have a special Team practice on <strong>Friday 1/4/19 from 11:30a to 5p</strong>.  Boats launched ABYC by 12p, day long practice, then leave boats at Granada beach, prepped for regatta, and finally back to ABYC by 5:00p</p>
-<br><h4>Rosebowl Logistics</h4>
-<p>This Regatta is the biggest of the year, It takes coordination and communication. Please read post and attachments.
-<a href="{{ page.venue.map }}">Granada Beach near {{ page.venue.title }}</a></p>
+<br><h4>Rose Bowl Logistics</h4>
+<p>This Regatta is the biggest of the year with over 40 colleges and 600+ sailors from all over the country. Let's be welcoming hosts to our guests for this prestigious event! It takes coordination and communication. Please read this entire post that explains the documents in the shared folder.</p>
+<br><h4>Rose Bowl Information</h4>
+<p><a href="/2018-19/pcisa/PCISA3-Information/">:crown: PCISA3: USC Rose Bowl Regatta</a> is a previous post which includes info specific for the Sato Team about the regatta; including schedule, venue/map, weather, rotations, etc.</p>
 </div>  
 
-:file_folder: [Rosebowl Shared Documents](https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt?usp=sharing)  (please review before coming)
+[:file_folder: Rose Bowl Shared Folder](https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt?usp=sharing) with PCISA Rose Bowl shared documents. (Tons of useful information!)
 
 <!--more-->
 Important Regatta Documents have been published and are attached as well as posted on the Official Regatta Websites (See Links Below).
+
 Please read all these documents carefully and distribute to all relevant participants. With well over 600 sailors and coaches plus many others there are a lot of logistics.
 
-A few notes:
+#### A few notes
 
 -   Check out the Rose Bowl Maps. There are 3 Aerial Views (Scroll Down) that make understanding the venues much easier.
 -   Appendix C - Important Information is vital logistics info. Read carefully BEFORE arrival and share info with all participants.
 -   As always please prepare your boats carefully! They will be inspected before racing and you could be denied participation if your boat is sub-standard.
 -   Out-of-State Teams (Using Charter Boats) need to email me TODAY with detailed plans (Arrival Time - After 1pm) if you wish to practice on Friday.
--   You can still purchase extra tickets for Saturday Dinner at:  https://hssailing.org/machform/view.php?id=102523
+-   You can still purchase extra tickets for Saturday Dinner at:  [https://hssailing.org/machform/view.php?id=102523](https://hssailing.org/machform/view.php?id=102523)
 
-Official Regatta Websites - Results, etc. (Note: The rotations currently here published are placeholders. Final Rotations will be updated by Friday Evening)
-College - https://scores.collegesailing.org/f18/2019-rose-bowl/
-High School Gold - https://scores.hssailing.org/f18/2019-rose-bowl-gold/
-High School Silver - https://scores.hssailing.org/f18/2019-rose-bowl-silver/
-**High School Bronze** (in sidebar on our website) - https://scores.hssailing.org/f18/2019-rose-bowl-bronze/
+Official Regatta Websites - Results, etc. (Note: The rotations currently here published are placeholders. Final Rotations will be updated by Friday Evening)  
 
-[Rosebowl Shared Documents](https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt?usp=sharing)
+-   [College](https://scores.collegesailing.org/f18/2019-rose-bowl/)
+-   [High School Gold](https://scores.hssailing.org/f18/2019-rose-bowl-gold/)
+-   [High School Silver](https://scores.hssailing.org/f18/2019-rose-bowl-silver/)
+-   [**High School Bronze**](https://scores.hssailing.org/f18/2019-rose-bowl-bronze/) - Also in sidebar menu, Sato is in this division.
+
+[Rose Bowl Shared Documents](:file_folder:: https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt?usp=sharing)
 
 Travel Safely!!
 
