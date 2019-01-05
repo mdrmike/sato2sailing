@@ -125,26 +125,36 @@ SeaOtter:
 RoseBowl:
 - title: "PCISA3: RoseBowl"
   #published: false
-- text: Sailors Instructions (course)
-  published: false
-  emoji: memo
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
+- text: Sailors Instructions
+  #published: false
+  emoji: exclamation
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/sailing-instructions.pdf"
   target: _blank
+- text: Sailors Course Charts
+  #published: false
+  emoji: memo
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-course-charts.pdf"
+  target: _blank
+- text: #spacer
+  published: true
 - text: "Rotations (Sail Numbers)"
-  published: false
+  #published: false
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/rotations/"
   target: _blank
 - text: "Bronze Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/"
   target: _blank
-  published: false
+  #published: false
 - text: #spacer
-  emoji:
-  url:
-  published: false
+  published: true
   #target: _blank
+- text: Sailors Important Info
+  #published: false
+  emoji: information_source
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-important-info.pdf"
+  target: _blank
 
 - text: "PCISA3: Map to Granada Beach"
   emoji: earth_americas
