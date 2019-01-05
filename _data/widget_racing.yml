@@ -125,6 +125,18 @@ SeaOtter:
 RoseBowl:
 - title: "PCISA3: RoseBowl"
   #published: false
+- text: "PCISA3: Map to Granada Beach"
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/1+Granada+Ave,+Long+Beach,+CA+90803/@33.7561755,-118.1394206,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x80dd304a7aa75bef:0xf45890d51acf17c5!2sGranada+Ave,+Long+Beach,+CA!3b1!8m2!3d33.7825752!4d-118.1346406!3m4!1s0x80dd3048897ef993:0xe7bcdfbba0d1d2f2!8m2!3d33.7561755!4d-118.1387699
+  #url: https://www.google.com/maps/place/United+States+Sailing+Center/@33.7518703,-118.1311972,17z/data=!3m1!4b1!4m5!3m4!1s0x80dd303c01d19acb:0x4a9f2f5df289c526!8m2!3d33.7518703!4d-118.1290085
+  #url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+  #published: false
+- text: "HS Fleet Splits"
+  emoji: hatching_chick
+  url: "https://pcisa.hssailing.org/documents/2019-RB-High-School-Fleets.pdf"
+  target: _blank
 - text: Sailors Instructions
   #published: false
   emoji: exclamation
@@ -135,6 +147,7 @@ RoseBowl:
   emoji: memo
   url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-course-charts.pdf"
   target: _blank
+
 - text: #spacer
   published: true
 - text: "Rotations (Sail Numbers)"
@@ -149,39 +162,29 @@ RoseBowl:
   #published: false
 - text: #spacer
   published: true
-  #target: _blank
+- text: #spacer
+  published: true
 - text: Sailors Important Info
   #published: false
   emoji: information_source
   url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-important-info.pdf"
   target: _blank
 
-- text: "PCISA3: Map to Granada Beach"
-  emoji: earth_americas
-  url: https://www.google.com/maps/place/1+Granada+Ave,+Long+Beach,+CA+90803/@33.7561755,-118.1394206,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x80dd304a7aa75bef:0xf45890d51acf17c5!2sGranada+Ave,+Long+Beach,+CA!3b1!8m2!3d33.7825752!4d-118.1346406!3m4!1s0x80dd3048897ef993:0xe7bcdfbba0d1d2f2!8m2!3d33.7561755!4d-118.1387699
-  #url: https://www.google.com/maps/place/United+States+Sailing+Center/@33.7518703,-118.1311972,17z/data=!3m1!4b1!4m5!3m4!1s0x80dd303c01d19acb:0x4a9f2f5df289c526!8m2!3d33.7518703!4d-118.1290085
-  #url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
-  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
-  target: _blank
-  #published: false
-- text: "HS Fleet Splits"
-  emoji: hatching_chick
-  url: "https://pcisa.hssailing.org/documents/2019-RB-High-School-Fleets.pdf"
-  target: _blank
 - text: "Event: Long Beach Jan 5-6 (website)"
   #published: false
   emoji: carousel_horse
   url: "https://pcisa.hssailing.org/event/home/rose-bowl/182"
   target: _blank
-- text: "Event: Logistics & Reminders"
-  url: "https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt"
-  target: _blank
-  emoji: memo
 - text: "PCISA3: Notice of Race (NOR)"
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2019-Rose-Bowl-NOR.pdf"
   target: _blank
   #published: false
+- text: "Event: Logistics & Reminders"
+  url: "https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt"
+  target: _blank
+  emoji: memo
+
 
 
 - text: #spacer
