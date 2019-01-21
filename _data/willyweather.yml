@@ -1,9 +1,9 @@
 title: Conditions
-width: 300
+width: 100%
 height: 228
 showlink: true
 
-id: 83643
+id: 100968
 description: Sato Regattas
 # - id: 83634
 #   title: Peninsula
@@ -13,3 +13,5 @@ description: Sato Regattas
 #   title: SD Shelter Island
 # - id: 83641
 #   Title: foot
+# - id: 100968
+#   Title: ABYC-San Gabriel River Mouth

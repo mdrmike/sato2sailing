@@ -13,11 +13,11 @@ All sailing skill levels are encouraged to join! The idea is to have fun and lea
 
 ## How to Join Sato Sailing Club
 
-**Tuition is $700 per semester** (Fall & Spring), and is the single biggest expense. The fee covers the cost and maintenance of boats, sails, and towing trailers for away regattas. It also covers the cost for a professional coach for practices, and regattas, plus use of ABYC facilities to review video and have strategy "chalk talks."
+**Tuition is $700 per semester** (Fall & Spring), and is the single biggest expense. New for spring 2019, there is an option for single day  practice (Friday's only) for only $400. The fee covers the cost and maintenance of boats, sails, and towing trailers for away regattas. It also covers the cost for a professional coach for practices, and regattas, plus use of ABYC facilities to review video and have strategy "chalk talks."
 
 #### Steps to Join
 
-1.  [ABYC: Register](https://abyc.org/high-school-sailing/spring-highschool-sailing-registration)
+1.  [ABYC: Tuition and Semester Registration](https://abyc.org/high-school-sailing/spring-highschool-sailing-registration)
 1.  ABYC: Important! Print, Sign & Return: [Medical Form & Club Code of Conduct](https://d1p4n2439uoafh.cloudfront.net/images/junior/Medical_and_Code_of_Conduct.pdf)
 1.  SATO: Add your info to [Club Roster](https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA)___*___
 1.  SATO: Add your info to [Carpooling](https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI)___*___
