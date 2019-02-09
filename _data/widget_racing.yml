@@ -1,5 +1,5 @@
 current_regatta: "" # Change this for each regatta to match data key below
-upcoming_regatta: "Socal4"
+upcoming_regatta: "GoldenBear"
 location: sidebar
 published: true
 
@@ -79,6 +79,17 @@ Anteater:
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 - title: "PCISA4: Golden Bear"
   #published: false
+- text: Golden Bear Website Posting
+  emoji: page_facing_up
+  url: /2018-19/pcisa/PCISA4-Information/
+  #published: false
+- text: "PCISA4: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf"
+  target: _blank
+  #published: false
+- text: #spacer
+  #published: false
 - text: "PCISA4: Map to TISC"
   emoji: earth_americas
   url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767
@@ -89,12 +100,6 @@ GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e
   emoji: car
   url: https://drive.google.com/open?id=19gho1hcHYA-wQJS8FGrJI2nzwQlFU4Kv
   target: _blank
-- text: Golden Bear Info
-  emoji: information_source
-  url: #/news/regatta/pcisa/golden-bear/
-  published: false
-- text: #spacer
-  #published: false
 - text: Silver Scores
   emoji: checkered_flag
   url: https://scores.hssailing.org/s19/pcisa-golden-bear-silver/
@@ -105,12 +110,14 @@ GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e
   emoji: ledger
   url: https://scores.hssailing.org/s19/pcisa-golden-bear-silver/full-scores/
   target: _blank
-  #published: false
+  published: false
+  ###
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
   url: https://scores.hssailing.org/s19/pcisa-golden-bear-silver/rotations/
   #url: "https://scores.hssailing.org/s19/golden-bear/rotations/"
   target: _blank
+  published: false
 - text: Sailors Instructions (course)
   emoji: memo
   url: "https://scores.hssailing.org/s19/golden-bear/notices/sailing-instructions.pdf"
@@ -123,15 +130,10 @@ GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e
   emoji: bear
   url: "https://pcisa.hssailing.org/event/home/golden-bear/184"
   target: _blank
-- text: "Event: Logistics & Reminders"
+- text: "Event: Logistics & Coordination"
   url: #"https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
   target: _blank
   emoji: memo
-  #published: false
-- text: "PCISA4: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf"
-  target: _blank
   #published: false
 
 
