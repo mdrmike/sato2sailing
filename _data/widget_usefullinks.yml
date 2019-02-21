@@ -28,7 +28,7 @@ clinks:
 - text: Shared Folder
   emoji: file_folder
   url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2"
-  published: true
+  target: _blank
 
 - text: Regatta Coordination
   emoji: small_orange_diamond
