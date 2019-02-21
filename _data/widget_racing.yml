@@ -76,6 +76,48 @@ Anteater:
   target: _blank
   #published: false
 
+Gaucho:
+- title: "PCISA5: UCSB Gaucho"
+- text: "PCISA5: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
+  target: _blank
+  #published: false
+- text: "PCISA5: Map to SBYC"
+  emoji: earth_americas
+  url: "https://www.google.com/maps/place/Santa+Barbara+Yacht+Club/@34.4143627,-119.7107442,13.75z/data=!4m5!3m4!1s0x80e913f44bc5dc4f:0xe6217e800ab24ea7!8m2!3d34.4032969!4d-119.6928154"
+  target: _blank
+  #published: false
+- text: "Event: Gaucho Mar 9-10 (website)"
+  emoji: ant
+  url: "http://ucsbsailing.squarespace.com/gaucho-regatta"
+  target: _blank
+  #published: false
+- text: #spacer
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/s19/gaucho-silver/"
+  target: _blank
+  #published: false
+- text: Wind + Weather
+  published: true
+  emoji: umbrella
+  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
+  #url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  url: https://www.windfinder.com/#15/33.6046/-117.8986
+  target: _blank
+- text: Wind + Weather2
+  published: true
+  emoji: sunny
+  url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  target: _blank
+- text: #spacer
+- text: "Event: Logistics & Reminders"
+  url: ""
+  target: _blank
+  emoji: memo
+  published: false
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 - title: "PCISA4: Golden Bear"
   #published: false
