@@ -4,7 +4,7 @@
 <ul class="post-list text-muted list-unstyled">
 {% for link in upcoming_event %}
   {% if link.published != false  %}
-  {% if forloop.first != true %}{% comment %}Skip upcoming_event[0].title which causes a blank space inserted{% endcomment %}
+  {% if forloop.first != true and forloop.index < 5  %}{% comment %}Skip upcoming_event[0].title which causes a blank space inserted{% endcomment %}
   <li>
     <h4>{% if link.emoji %}:{{ link.emoji }}:{% else %}&nbsp;{% endif %} <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
   </li>
