@@ -1,8 +1,8 @@
 ---
 title:  "PCISA4: Golden Bear Information"
 date: 2019-02-09 09:35:00 -0800
-last_modified_at: 2019-02-09 09:35:00 -0800
-modified_count: 0
+last_modified_at: 2019-02-21 09:35:00 -0800
+modified_count: 1
 title_alert: "News"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -10,7 +10,7 @@ image: "https://lh3.googleusercontent.com/cEV0ke7b-nj_Ymj0Zv7jzHUD4YX7NIygpP1nxy
 
 
 photo1: treasureisland1
-photo2:
+photo2: treasureisland2
 
 
 venue:  
@@ -104,5 +104,15 @@ Coaches and spectators can view the racing from the shore west of the TISC gate.
 - Follow the exit road around to the west side of Yerba Buena Island.
 - At the stop sign, merge onto the road that takes you down to the gates of Treasure Island.
 - Continue through the gate and take your first right onto California Ave.
+
+### Wind & Weather
+
+[![Weather forecast](/assets/images/posts/2019/TISC-forecast--2019-02-23-24.png) _Click for weather current updates_](https://www.windy.com/37.823/-122.370?37.792,-122.370,12)
+
+
+Current Forecasts call for wind to be similar to last year, not to strong but be prepared for gusts. Click image above for current conditions.
+
+-  **Saturday** chilly at ~53℉. Wins will peak around noon at 9kts/11mph and **gusts ~14kts/16mph**.
+-  **Sunday** also chilly at ~53℉, plus chance of rain. Winds will be slightly stronger peaking 10kts/12mph and **gusts ~16kts/18.5mph**
 
 ### Check back for updates
