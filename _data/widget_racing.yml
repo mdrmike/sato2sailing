@@ -122,25 +122,21 @@ Gaucho:
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 - title: "PCISA4: Golden Bear"
   #published: false
-- text: "PCISA4: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf"
-  target: _blank
-  #published: false
 - text: "PCISA4: Map to TISC"
   emoji: earth_americas
   url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767
   #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
   target: _blank
   #published: false
+- text: TISC Parking Info
+  emoji: car
+  #url: https://drive.google.com/open?id=19gho1hcHYA-wQJS8FGrJI2nzwQlFU4Kv
+  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzdjZMMEF6YWpTWlMyRjhaa2xQLUZydGp5eDl3/view?usp=sharing"
+  target: _blank
 - text: "Event: Treasure Island Feb 23-24 (website)"
   #published: false
   emoji: bear
   url: "https://pcisa.hssailing.org/event/home/golden-bear/184"
-  target: _blank
-- text: Parking
-  emoji: car
-  url: https://drive.google.com/open?id=19gho1hcHYA-wQJS8FGrJI2nzwQlFU4Kv
   target: _blank
 - text: #spacer
 - text: Wind + Weather2
@@ -166,11 +162,16 @@ GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e
   #url: "https://scores.hssailing.org/s19/golden-bear/rotations/"
   target: _blank
   #published: false
+- text: "PCISA4: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf"
+  target: _blank
+  #published: false
 - text: Sailors Instructions (course)
   emoji: memo
-  url: "https://scores.hssailing.org/s19/golden-bear/notices/sailing-instructions.pdf"
+  url: "https://scores.hssailing.org/s19/2019-golden-bear-silver-fleet/notices/sailing-instructions.pdf"
   target: _blank
-  published: false
+  published: true
 - text: #spacer
   published: false
 - text: "Event: Logistics & Coordination"

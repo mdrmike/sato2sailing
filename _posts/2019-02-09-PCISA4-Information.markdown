@@ -1,8 +1,8 @@
 ---
 title:  "PCISA4: Golden Bear Information"
 date: 2019-02-09 09:35:00 -0800
-last_modified_at: 2019-02-21 09:35:00 -0800
-modified_count: 1
+last_modified_at: 2019-02-22 11:40:00 -0800
+modified_count: 2
 title_alert: "News"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -76,7 +76,7 @@ New! There are now two options for practice this semester. The recommended Wed+F
 
 ### Racing Area
 
-The Racing Area will be in Clipper Cove, with rotations made from the TISC floating dock unless another area has been designated by the PRO. All boats shall be launched from the TISC ramp.
+Sailors: The Racing Area will be in Clipper Cove, with rotations made from the TISC floating dock unless another area has been designated by the PRO. All boats shall be launched from the TISC ramp. See Sailing Instructions for course information.
 
 ### Viewing Area  
 
@@ -110,9 +110,46 @@ Coaches and spectators can view the racing from the shore west of the TISC gate.
 [![Weather forecast](/assets/images/posts/2019/TISC-forecast--2019-02-23-24.png) _Click for weather current updates_](https://www.windy.com/37.823/-122.370?37.792,-122.370,12)
 
 
-Current Forecasts call for wind to be similar to last year, not to strong but be prepared for gusts. Click image above for current conditions.
+Forecasts from Thursday call for wind to be similar to last year, not to strong but be prepared for gusts. Click image above for current conditions.
 
--  **Saturday** chilly at ~53℉. Wins will peak around noon at 9kts/11mph and **gusts ~14kts/16mph**.
--  **Sunday** also chilly at ~53℉, plus chance of rain. Winds will be slightly stronger peaking 10kts/12mph and **gusts ~16kts/18.5mph**
+-  **Saturday** chilly at ~53℉. Winds will peak around noon at 9kts/11mph and **gusts ~14kts/16mph**.
+-  **Sunday** ~~also chilly at ~53℉, plus chance of rain. Winds will be slightly stronger peaking 10kts/12mph and **gusts ~16kts/18.5mph~~*** _-See update #2_
 
-### Check back for updates
+## Update #2
+
+##### Weather Update
+
+As of Friday night 2/22,
+
+- **Saturday** Harsher. Winds will be slightly stronger than forecast, peak around 3pm and **strong gusts ~15kts/17mph**.
+- **Sunday** Calmer. <10% chance of rain, with wind forecast much lighter, peak around noon at ~7kts/9mph and gusts of **13kts/15mph**._
+
+
+##### Email from PCISA Mike Segerblom
+
+<div class="well" role="alert" markdown="1">
+#### NOTICE TO GOLDEN BEAR COMPETITORS
+
+**PARKING** -  Please review the attached parking map.  Do Not park in areas labeled in RED. Please do not park in front of either of the Winery buildings.The Treasure Island Sailing Center has limited parking in the immediate area of the event.  Enter with boats from the west end of the yard. Watch for overhead powerlines. Store CFJ's so that a path to our hoist remains open overnight.   Trailer parking will be along the North fence of the sailing center (See Map).  Cars can only be parked in the GREEN areas shown on map. There are local businesses in the immediate area that need to provide parking to their customers.
+
+**WEATHER**- Temps will be chilly this weekend.  We will likely not see above 60 degrees.  The water up in Nor Cal is still very cold. Please make sure to dress warmly and bring appropriate sailing gear.
+
+**BOAT LAUNCHING**-  Do not launch your boats until after the competitors meeting.  Gold fleet will launch first on Saturday! You are welcome to come practice on Friday evening, however TISC will not be providing any powerboats for this purpose.
+
+**TECH SCORE/RP FORMS**- Don’t forget to fill in your teams Records of Participation.  Record of Participation forms shall be submitted online via the TechScore program by the close of protest filing deadline on the last day of each event
+
+**SECURE YOUR VALUABLES**- the area around Treasure Island is open to the public.  We strongly recommend that you do not leave valuables in your vehicles or around un-accompanied team tents.  The TI Sailing Center and PCISA are not responsible for any lost or stolen items.
+
+**TEAM TENTS**- Please do not be greedy when it comes to finding a space for your team tent.  Space is limited and there are 55+ teams that need room for their team to gather.
+
+**STAY OFF THE ROCKS**- It is mandatory that all competitors and spectators stay off of the rocks along the south side of the shoreline.  There is no climbing or sitting on the rocks.
+
+**T-SHIRTS**-  Regatta Shirts will be sold on site for $20 each, Cash Only.
+
+**FOOD**- This event is NOT providing food for competitors.  BUT, there are some restaurants and a Deli on the island where you can purchase food.
+
+**TRASH**- There will be a large dumpster located next to the west gate of the sailing center.  Please make sure to clean up after your team each day and dispose of your trash in this dumpster.  We will have the blue water filtration system at the event so bring a reusable water bottle.
+
+Thank you and see you all this weekend.
+
+</div>
