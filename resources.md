@@ -9,12 +9,10 @@ permalink: /resources/
 -   [North Sails Flying Junior Tuning Guide](http://www.encinal.org/pageResource/juniors/2010/sailingResourceDocs/NorthSails_FJTuningGuide.pdf)
 
 
-
 ###  Videos
 
 -   [PLAYLIST: Rules + How To](https://www.youtube.com/playlist?list=PLTJ_oqBpIPTs4Rf04_iMMnsKRZe-VfMcV)
 -   [PLAYLIST: Stratgies & Tactics](https://www.youtube.com/playlist?list=PLTJ_oqBpIPTtxzqudasNvEUf12N80erhG)
-
 -   [FJ Acceleration](http://www.youtube.com/watch?v=__EeOgwePqI)
 -   [FJ Light Air Acceleration](http://www.youtube.com/watch?v=JOiulVBzoKE)
 -   [HOWTO: FJ Roll Tack](https://youtu.be/Otc7l8j44cE?t=1m10s)
@@ -28,8 +26,13 @@ permalink: /resources/
 -   [WOC-TAC: Gybe or Bear away after Windward Mark](https://youtu.be/pnMyl4ZBo5Y)
 
 
+### Learning to Sail
+
+-   [US Sailing](http://www.ussailing.org/education/)
 
 ### Cool Stuff
+
+-   [US Sailing STEM: Reach Program](https://youtu.be/4OMXdW_CQ84) Connecting the curriculum of STEM, common core and the fluid dynamics and tech of sailing.
 
 -   [SailX Live Virtual Racing](http://www.sailx.com/)
 -   [NASA Foil Simulator](http://www.grc.nasa.gov/WWW/k-12/airplane/foil2.html)
