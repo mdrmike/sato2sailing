@@ -161,7 +161,7 @@ webmaster_verifications:
   alexa: config_yml__webmaster_alexa
   yandex: config_yml__webmaster_yandex
 
-disqus:
-  shortname: satosailing # Your disqus shortname, entering this will enable commenting on posts
+#disqus:
+#  shortname: satosailing # Your disqus shortname, entering this will enable commenting on posts
 
 lang: en_US
