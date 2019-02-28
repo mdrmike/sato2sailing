@@ -6,12 +6,15 @@ last_modified_at: 2018-02-27 16:11:00 -0800
 url-local-climate: https://www.weather-us.com/en/california-usa/long-beach-climate
 
 protip:
-  msg: "Label all your gear! We suggest including yacht club, school, name, and contact info."
+  body: "Label all your gear! We suggest including yacht club, school, name, and contact info."
   example: "ABYC - Sato - Sailor Name - Parent Cell"
   btn_url: "https://smile.amazon.com/gp/product/B00IMJ2L62/ref=oh_aui_search_asin_title?ie=UTF8&psc=1"
   btn_text: "Buy Labels"
-  emoji: star2
-  color: info
+  #ex_label: "" # Title for example well
+  #title: ""
+  #color: "" #default #primary #info #warning #danger #success
+  #emoji: ""
+  #align: "" #right #left #center
 ---
 
 
@@ -90,7 +93,17 @@ The good news, a lot of gear you need to stay warm in sailing during cold condit
 -   **Head:** [Beenies :arrow_upper_right:](https://smile.amazon.com/s?k=sailing+beanie&i=sporting&rh=p_85%3A2470955011&s=price-asc-rank&dc&qid=1551210662&rnid=2470954011&ref=sr_st_price-asc-rank), [Balaclavas :arrow_upper_right:](https://smile.amazon.com/s?k=balaclava+wicking&i=sports-and-fitness&rh=p_85%3A2470955011&s=price-asc-rank&dc&qid=1551210252&rnid=2470954011&ref=sr_nr_p_85_1), [Neck Gaiters :arrow_upper_right:](https://smile.amazon.com/s?k=Neck+Gaiter+Mask+wicking&i=sporting&rh=p_85%3A2470955011&s=price-asc-rank&dc&qid=1551210321&rnid=2470954011&ref=sr_nr_p_85_1), Hats with rims (Weather & warmth)
 -   **Advanced:** Base: 3-5mm+ neoprene tops/bottoms/wetsuits.
 
-{% include protip.html protip=page.protip.msg example=page.protip.example action_text=page.protip.btn_text action_url=page.protip.btn_url color=page.protip.color emoji=page.protip.emoji %}
+{% include protip.html
+    title       = page.protip.title
+    body        = page.protip.body
+    ex_label    = page.protip.ex_label
+    example     = page.protip.example
+    action_text = page.protip.btn_text
+    action_url  = page.protip.btn_url
+    color       = page.protip.color
+    emoji       = page.protip.emoji
+    align       = page.protip.align
+%}
 
 
 ## When to Buy Gear

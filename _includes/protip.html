@@ -1,14 +1,26 @@
-{% assign protip_emoji = "star" %}
-{% assign protip_title = "Pro Tip" %}
-{% assign protip_color = "primary" %}
-
-<div class="panel panel-{{ include.color | default: protip_color }}">
+{% assign title       = include.title       | default: "Pro Tip"  %}
+{% assign body        = include.body                              %}
+{% assign example     = include.example                           %}
+{% assign ex_label    = include.ex_label    | default: "Example" %}
+{% assign action_text = include.action_text                       %}
+{% assign action_url  = include.action_url                        %}
+{% assign align       = include.align       | default: "right"    %}
+{% assign color       = include.color       | default: "info"     %}
+{% assign emoji       = include.emoji       | default: "star2"    %}
+{% comment %}
+# Add emoji colons as needed
+{% endcomment %}
+{% assign emoji_end = emoji | size | minus: 1 %}
+{% assign colon1 = emoji | slice: 0 %}
+{% assign colon2 = emoji | slice: emoji_end %}
+{% if emoji %}{% capture emojii %}{% if colon1 != ":" %}:{% endif %}{{ emoji }}{% if colon2 != ":" %}:{% endif %}{% endcapture %}{% endif %}
+<div class="panel panel-{{ color }}">
   <div class="panel-heading">
-    <h3 class="panel-title">ℹ️:{{ include.emoji | default: protip_emoji }}: {{ include.title | default: protip_title }}</h3>
+    <h3 class="panel-title">ℹ️{{ emojii }} {{ title }}</h3>
   </div>
   <div class="panel-body">
-    {% if include.protip %}<p>{{ include.protip }}</p>{% endif %}
-    {% if include.example %}<p><em>Example:</em> <div class="well well-sm">{{ include.example }}</div></p>{% endif %}
-    {% if include.action_url %}<div class="text-{{ include.align | default: "right" }}"><a type="button" class="btn btn-sm btn-{{ include.color | default: protip_color }}" href="{{ include.action_url }}" target="_blank" rel="nofollow">{{ include.action_text }}</a></div>{% endif %}
+    {% if body %}<p>{{ body }}</p>{% endif %}
+    {% if example %}<p><strong>{{ ex_label }}</strong> <div class="well well-sm">{{ example }}</div></p>{% endif %}
+    {% if action_url %}<div class="text-{{ align }}"><a type="button" class="btn btn-sm btn-{{ color }}" href="{{ action_url }}" target="_blank" rel="nofollow">{{ action_text }}</a></div>{% endif %}
   </div>
 </div>
