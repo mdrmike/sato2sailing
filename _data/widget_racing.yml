@@ -1,10 +1,17 @@
-current_regatta: "GoldenBear" # Change this for each regatta to match data key below
+current_regatta: "" # Change this for each regatta to match data key below
 upcoming_regatta: "Gaucho"
 location: sidebar
 published: true
 
-# github emoji list https://www.webpagefx.com/tools/emoji-cheat-sheet/
-# github emoji list https://gist.github.com/rxaviers/7360908
+#weather
+  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
+  #url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+  #url: https://www.windfinder.com/#15/33.6046/-117.8986
+
+#maps:
+  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+
 
 current-common:
 - text: #spacer
@@ -78,11 +85,6 @@ Anteater:
 
 Gaucho:
 - title: "PCISA5: UCSB Gaucho"
-- text: "PCISA5: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
-  target: _blank
-  #published: false
 - text: "PCISA5: Map to SBYC"
   emoji: earth_americas
   url: "https://www.google.com/maps/place/Santa+Barbara+Yacht+Club/@34.4143627,-119.7107442,13.75z/data=!4m5!3m4!1s0x80e913f44bc5dc4f:0xe6217e800ab24ea7!8m2!3d34.4032969!4d-119.6928154"
@@ -100,32 +102,21 @@ Gaucho:
   target: _blank
   #published: false
 - text: Wind + Weather
-  published: true
   emoji: umbrella
-  #url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
-  #url: https://wind.willyweather.com/ca/alameda-county/alameda.html
-  #url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
-  url: https://www.windfinder.com/#15/33.6046/-117.8986
+  url: https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15
+  #published: false
   target: _blank
-- text: Wind + Weather2
-  published: true
-  emoji: sunny
-  url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
+- text: "PCISA5: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
   target: _blank
-- text: #spacer
-- text: "Event: Logistics & Reminders"
-  url: ""
-  target: _blank
-  emoji: memo
-  published: false
+  #published: false
 
 GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 - title: "PCISA4: Golden Bear"
-  #published: false
 - text: "PCISA4: Map to TISC"
   emoji: earth_americas
-  url: https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767
-  #url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  url: "https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767"
   target: _blank
   #published: false
 - text: TISC Parking Info
