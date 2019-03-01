@@ -1,8 +1,8 @@
 ---
 title:  "PCISA5: Gaucho Information"
 date: 2019-02-21 9:45:00 -0800
-last_modified_at: 2019-02-21 9:45:00 -0800
-modified_count: 0
+last_modified_at: 2019-03-01 10:15:00 -0800
+modified_count: 1
 title_alert: "Upcoming Regattas: Gaucho & SoCal5"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -10,8 +10,7 @@ image: "https://lh3.googleusercontent.com/nE-swazhl07dWV51RJo4_h-UmDnm502slInEdw
 
 
 photo1: 2018gaucho1
-#photo2: 2018socal4
-photo2:
+#photo2: 2018gaucho2
 
 
 venue:  
@@ -23,6 +22,10 @@ entrylist: "https://pcisa.hssailing.org/event/home/gaucho/178"
 signup-emoji: ":triangular_flag_on_post:"
 signup-text: "Regatta Sign-up Form"
 signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
+
+tour_url: "https://docs.google.com/forms/d/e/1FAIpQLSdvpp7s_a0qN2DCiYan49uiNbAQchKWLF_wdfzG8gcYS9PjWg/viewform"
+tour_label: ":bowtie: Event Info & Registration"
+
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}
@@ -35,6 +38,25 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 {% endif %}
 
 <div class="alert alert-info" markdown="1">
+### Gaucho: UCSB Campus Tour
+
+High School Sailing Recruits:  Campus & Boating Facility Tour by UCSB Sailing Team - March 8, 2019
+(more info below)
+
+<a href="{{ page.tour_url }}" class="btn btn-info btn-sm" role="button" target="_blank" markdown="0">{{ page.tour_label }}</a>
+
+<br markdown="0">
+### Upcoming: SoCal5 at San Diego Yacht Club  
+
+
+[SoCal5](https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal) is Mar 23-24 (two day, due tocancellation of SoCal4)... it's just around the corner, its a spectacular venue, and last regatta before PCC finals. Read the [Notice of Race (NOR)](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf) for current details.  
+
+<a markdown="0" href="{{ page.signup }}" class="btn btn-info btn-sm" role="button" target="_blank">{{ page.signup-emoji }} {{ page.signup-text }}</a>_
+
+</div>  
+
+<!--more-->
+
 ### PCISA5: Gaucho Regatta Information
 
 UCSB Sailing hosts the final big 5 regatta of the year, PCISA5 Gaucho on **March 9-10** at the Santa Barbara Yacht Club (SBYC). Of note, UCSB Sailing is also hosting a campus facility tour and practice for potential High School sailing recruits the Friday before the regatta, **March 8** at 1:30p.
@@ -44,25 +66,17 @@ All Sailors please use the [{{ page.signup-text }}]({{ page.signup }}) by end of
 
 <a href="{{ page.signup }}" class="btn btn-default btn-sm" role="button" target="_blank" markdown="0">{{ page.signup-emoji }} {{ page.signup-text }}</a>
 
-
-<br markdown="0">
-### Upcoming: SoCal5 at San Diego Yacht Club  
-
-[SoCal5](https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal) is Mar 23-24 (two day, due tocancellation of SoCal4)... it's just around the corner, its a spectacular venue, and last regatta before PCC finals. Read the [Notice of Race (NOR)](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf) for current details.  
-
-<a markdown="0" href="{{ page.signup }}" class="btn btn-info btn-sm" role="button" target="_blank">{{ page.signup-emoji }} {{ page.signup-text }}</a>
-
-</div>  
-
-<!--more-->
-
 ### UCSB Campus tour by UCSB Sailing Team
 
 High School Sailing Recruits:  Campus & Boating Facility Tour - March 8, 2019
-Come meet members of the UCSB Sailing Team and receive a guided tour of campus from them.  Learn what it's like to be a Gaucho on and off the water from fellow sailors.  Meet the coaching staff and see the sailing facility.  [EVENT INFO & REGISTRATION](http://ucsbsailing.squarespace.com/gaucho-regatta)
+Come meet members of the UCSB Sailing Team and receive a guided tour of campus from them.  Learn what it's like to be a Gaucho on and off the water from fellow sailors.  Meet the coaching staff and see the sailing facility.  
+
+<a href="{{ page.tour_url }}" class="btn btn-info btn-sm" role="button" target="_blank" markdown="0">{{ page.tour_label }}</a>
+
 
 **Friday, March 8, 2019**
 
 -  1:30-2:30pm - Early Campus Tour with team members.
+-  1:00-3:45   - _Alternative/Optional Practice_
 -  3:45-4:15pm - Boating Facility Tour and meet with the coaching staff.
 -  5:00-6:00pm - Late Campus Tour with team members.  
