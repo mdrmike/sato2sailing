@@ -1,8 +1,8 @@
 ---
 title:  "PCISA5: Gaucho Information"
 date: 2019-02-21 9:45:00 -0800
-last_modified_at: 2019-03-01 10:15:00 -0800
-modified_count: 1
+last_modified_at: 2019-03-03 12:40:00 -0800
+modified_count: 2
 title_alert: "Upcoming Regattas: Gaucho & SoCal5"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -49,11 +49,13 @@ High School Sailing Recruits:  Campus & Boating Facility Tour by UCSB Sailing Te
 ### Upcoming: SoCal5 at San Diego Yacht Club  
 
 
-[SoCal5](https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal) is Mar 23-24 (two day, due tocancellation of SoCal4)... it's just around the corner, its a spectacular venue, and last regatta before PCC finals. Read the [Notice of Race (NOR)](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf) for current details.  
+[SoCal5](https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal) is Mar 23-24 (two days)... it's just around the corner, its a spectacular venue, and last regatta before PCC finals. Read the [Notice of Race (NOR)](https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf) for current details.  
 
-<a markdown="0" href="{{ page.signup }}" class="btn btn-info btn-sm" role="button" target="_blank">{{ page.signup-emoji }} {{ page.signup-text }}</a>_
+<a markdown="0" href="{{ page.signup }}" class="btn btn-info btn-sm" role="button" target="_blank"><!--_-->{{ page.signup-emoji }} {{ page.signup-text }}</a>
 
 </div>  
+
+Schedule, Regatta Details, Weather, and more in full post below.
 
 <!--more-->
 
@@ -74,9 +76,72 @@ Come meet members of the UCSB Sailing Team and receive a guided tour of campus f
 <a href="{{ page.tour_url }}" class="btn btn-info btn-sm" role="button" target="_blank" markdown="0">{{ page.tour_label }}</a>
 
 
-**Friday, March 8, 2019**
+## Schedule (unofficial)
+
+**Friday, March 8, 2019 – [Optional (sign-up)]({{ page.signup }})**
 
 -  1:30-2:30pm - Early Campus Tour with team members.
--  1:00-3:45   - _Alternative/Optional Practice_
+-  1:00-3:45   - _Possible TBD Sato/UCSB Sailing Practice_
 -  3:45-4:15pm - Boating Facility Tour and meet with the coaching staff.
 -  5:00-6:00pm - Late Campus Tour with team members.  
+
+
+
+|       | Saturday                        |       | Sunday        |
+| -----:| ------------------------------- | -----:|               |
+|  8:30 | &nbsp;Report time & boat rigging      |  9:00 | &nbsp; Regatta report time |
+| 10:00 | &nbsp;Check-in & Boat Inspection      |  9:30 | &nbsp; Competitors Meeting (Mandatory) |
+| 10:00 | &nbsp;Competitors Meeting (Mandatory) | 10:30 | &nbsp; Racing begins |
+| 11:00 | &nbsp;Racing                          |  3:30 | &nbsp; _No Start after this time_ |
+|       |                                 |  5:00 | **Awards**        |
+
+
+
+
+#### Recent Email: Gaucho Regatta Details - Email 1
+
+<div class="well" role="alert" markdown="1">
+
+Hello Gaucho competitors, coaches, and parents. We are excited as always to have you all be a part of this year’s Gaucho Regatta.  I want to remind all of you of some important information regarding this coming weekend’s event.  There will be another email sent out the day before the event to confirm probable rotation area as the forecast solidifies.
+
+Before the regatta begins, on Friday, March 8th the UCSB Sailing Team members will be hosting guided campus tours and there will be a meet and greet with the coaching staff at 3pm on Friday.  Information and sign up for tour times is available at [www.ucsbsailing.com/gaucho-regatta](http://ucsbsailing.com/gaucho-regatta).
+
+An online order form for extra regatta shirts is live at [pcisa.hssailing.org/event/home/gaucho/178](https://pcisa.hssailing.org/event/home/gaucho/178), but remember that four shirts are already included with every registration and you only need to fill this out if you would like more than the four included shirts _(**Ed.** Nikhil, Diego, Elissa, Tyler)._  We will have UCSB Sailing hoodies and hats for sale as well on the weekend of the event in addition to burger and dog lunch specials.  The sale of these items goes directly to the UCSB Sailing Team  and supports their continual competitive rise.  If you would like to support the team through a tax-deductible charitable gift, you can learn more at [www.ucsbsailing.com/contribute](http://www.ucsbsailing.com/contribute).
+
+Finally, there are still plenty of charter boats left. Please just send me an email if you are in need of chartered FJ's.
+
+Please pass along the following information to your team members, coaches, and advisors:
+
+1.       **Parking** – There are several rules for the parking lot that need to be taken into account.  To make it easy, we’ve posted a Gaucho Regatta Map on the event page at [www.ucsbsailing.com/gaucho-regatta/](http://www.ucsbsailing.com/gaucho-regatta/).  Please review this map carefully to avoid harbor tickets!
+2.       **Check-in** – When you arrive, visit the check-in table (noted on the Gaucho Regatta Map) to receive your t-shirts and Boat Inspection Forms necessary to get your sail assignments.  Chartering Teams may turn their paperwork and checks in this time if they still need to.
+3.       **Boat Check** - Once you have your Boat Inspection Form, find a Gaucho with a UCSB Sailing hoody on.  Those Gauchos will be allowed to inspect and approve your team’s boat and will sign off on the inspection form.
+4.       **Sail Assignments** –Take the signed off inspection form to the Sail Assignment Station as shown on the Gaucho Regatta Map so that you can get your sail assignments.
+5.       **T-shirts** – Many teams are not sure what sizes they wanted for their t-shirts when registering online.  In most cases, we put four shirts in your bag, however it is not a problem to exchange sizes!  Once you receive your shirts and realize you do not have the correct size, visit the check-in tent to exchange sizes.  Additional T-shirts will be for sale for $15 for the duration of the regatta.   There will also be UCSB Sailing Team Hats and Hoodies available for sale.
+6.       **Online only** – Sailing Instructions, Rotations, and Results will all be available online at scores.hssailing.org.  Record of Participation (RP) Forms are available online at [ts.hssailing.org](ts.hssailing.org).  _There are no paper versions._
+7.       **BBQ Tent / Central Command** – Will be located near the rotation area which will be announced at the competitor meeting.  This is where protest forms will be located and protest times and parties to the hearings will be posted.  There will also be burgers, hot dogs, snacks, and drinks for sale along with Gaucho merchandise at this location.
+8.       **Weather** – Santa Barbara is a cold water, open ocean environment and it is crucial to come prepared with the proper gear!  The conditions can also be highly variable and a great deal of consideration should be given by each sailor and their coach on whether a sailor should go out on the water or not.  When in doubt, sit it out!
+9.       **Recruits** – If you are interested in sailing on the UCSB Sailing Team one day, please contact coach (**Ed.** _remove contact email_) or fill out the recruit form online at [www.ucsbsailing.com/high-school-recruits](http://ucsbsailing.com/high-school-recruits/). We look forward to seeing many of you at our recruit session and campus tour (info online at [www.ucsbsailing.com/gaucho-regatta/](http://www.ucsbsailing.com/gaucho-regatta/)).
+
+As always, we are excited to see you all this weekend at the Gaucho.  We hope you enjoy the regatta and your visit to Santa Barbara.  OLE!  
+
+Best of luck this weekend!  
+
+-The Gauchos  
+
+Brad Schaupeter  
+UCSB Sailing Coach  
+Website - [UCSBsailing.com](http://UCSBsailing.com)  
+Facebook - [facebook.com/UCSBsailing](http://facebook.com/UCSBsailing)  
+</div>
+
+
+## Wind & Weather
+
+**Sun March 3:** Forecast is cold, but mostly sunny, with chance of rain on Sunday. The biggest changes appear to be changes in tide direction each day, and wave frequency (half speed on Sunday).
+
+[![Weather forecast](/assets/images/posts/2019/SBYC-forecast--2019-03-09-10.png) _Click for weather current updates from windy.com_](https://www.windy.com/34.408/-119.685?namConus,34.404,-119.685,15,m:eCvacPG)
+
+### Real time Forecast from Windfinder.com
+
+_click Title to open website/app_
+<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/stearns_wharf_santa_barbara?unit_wave=ft&unit_rain=in&unit_temperature=f&unit_wind=kts&days=4&show_day=1"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/stearns_wharf_santa_barbara?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for undefined</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
