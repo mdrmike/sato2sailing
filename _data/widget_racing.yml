@@ -1,5 +1,5 @@
-current_regatta: "" # Change this for each regatta to match data key below
-upcoming_regatta: "Gaucho"
+current_regatta: "Gaucho" # Change this for each regatta to match data key below
+upcoming_regatta: "Socal5"
 location: sidebar
 published: true
 
@@ -103,7 +103,14 @@ Gaucho:
   #published: false
 - text: Wind + Weather
   emoji: umbrella
-  url: https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15
+  url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
+  #url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
+  #published: false
+  target: _blank
+- text: Wind + Weather Alt
+  emoji: rainbow
+  url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
+  #url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
   #published: false
   target: _blank
 - text: "PCISA5: Notice of Race (NOR)"
@@ -493,7 +500,7 @@ Socal3:
   #published: false
 
 Socal4:
-- title: "SoCal4 & Golden Bear "
+- title: "SoCal4"
 - text: "SoCal4: Notice of Race (NOR)"
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
@@ -554,12 +561,29 @@ Socal4:
 
 
 Socal5:
+- title: "SoCal5 SDYC"
+- text: "SoCal5: Notice of Race (NOR)"
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  target: _blank
+  #published: false
+- text: "Silver PCCs (Website)"
+  emoji:
+  url: https://pcisa.hssailing.org/event/home/p-silver-pccs/312
+  target: _blank
+  published: false
+- text: Map to SDYC
+  emoji: earth_americas
+  url:  https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7226619,-117.2508717,13.25z/data=!4m5!3m4!1s0x80deab9883524577:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806
+  target: _blank
+  published: false
 - text: SoCal5 Race Results
   emoji: abcd
   url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/full-scores/
   target: _blank
-
+  published: false
 - text: SoCal5 Rotations (Sail#)
   emoji: hash
   url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/rotations/
   target: _blank
+  published: false
