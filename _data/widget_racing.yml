@@ -90,6 +90,11 @@ Gaucho:
   url: "https://www.google.com/maps/place/Santa+Barbara+Yacht+Club/@34.4143627,-119.7107442,13.75z/data=!4m5!3m4!1s0x80e913f44bc5dc4f:0xe6217e800ab24ea7!8m2!3d34.4032969!4d-119.6928154"
   target: _blank
   #published: false
+- text: "Parking & Useful Info"
+  emoji: car
+  #url: https://drive.google.com/open?id=19gho1hcHYA-wQJS8FGrJI2nzwQlFU4Kv
+  url: "/2018-19/pcisa/PCISA5-Information/#parking-etc"
+  target: _blank
 - text: "Event: Gaucho Mar 9-10 (website)"
   emoji: ant
   url: "http://ucsbsailing.squarespace.com/gaucho-regatta"
@@ -98,10 +103,10 @@ Gaucho:
 - text: #spacer
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/s19/gaucho-silver/"
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/"
   target: _blank
   #published: false
-- text: Wind + Weather
+- text: Windfinder + Weather
   emoji: umbrella
   url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
   #url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
@@ -113,6 +118,17 @@ Gaucho:
   #url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
   #published: false
   target: _blank
+- text: #spacer
+- text: Silver Full Scores
+  emoji: ledger
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/full-scores/"
+  target: _blank
+  #published: false
+- text: Rotations (Sail Numbers)
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/rotations/"
+  target: _blank
+  #published: false
 - text: "PCISA5: Notice of Race (NOR)"
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
