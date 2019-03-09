@@ -129,6 +129,11 @@ Gaucho:
   url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/rotations/"
   target: _blank
   #published: false
+- text: Sailors Instructions (course)
+  emoji: memo
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/notices/sailing-instructions.pdf"
+  target: _blank
+  published: true
 - text: "PCISA5: Notice of Race (NOR)"
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
