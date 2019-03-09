@@ -111,9 +111,9 @@ The good news is that there will very likely be decent wind and I want to relay 
 
 Beyond being prepared for weather this weekend, please be reminded of the following:
 
-##### Gaucho Reminders  {#parking-etc} 
+##### Gaucho Reminders  {#parking-etc}
 
-1.       **Parking** – There are several rules for the parking lot that need to be taken into account. Please review this map carefully to avoid harbor tickets! The **Gaucho Regatta Map** is also on the event page at [http://www.ucsbsailing.com/gaucho-regatta/](http://www.ucsbsailing.com/gaucho-regatta/).   [![parking](/assets/posts/2018-19/pcisa5/2016-Gaucho-Parking-Map.jpg)](/assets/posts/2018-19/pcisa5/2016-Gaucho-Parking-Map.jpg)
+1.       **Parking** – There are several rules for the parking lot that need to be taken into account. Please review this map carefully to avoid harbor tickets! The :memo: **Gaucho Regatta Map** is also on the event page at [http://www.ucsbsailing.com/gaucho-regatta/](http://www.ucsbsailing.com/gaucho-regatta/).    [![parking](/assets/posts/2018-19/pcisa5/2016-Gaucho-Parking-Map.jpg)](/assets/posts/2018-19/pcisa5/2016-Gaucho-Parking-Map.pdf)
 2.       **Check-in:** When you arrive, visit the check-in table (noted on the **Gaucho Regatta Map**) to receive your t-shirts and Boat Inspection Forms necessary to get your sail assignments.  Chartering Teams may turn their paperwork and checks in this time if they still need to.
 3.       **Boat Check:** Once you have your Boat Inspection Form, find a Gaucho with a flower lei around their neck (think aloha).  Those Gauchos will be allowed to inspect and approve your team’s boat and will sign off on the inspection form.
 4.       **Sail Assignments:** Take the signed off inspection form to the Sail Assignment Station as shown on the Gaucho Regatta Map so that you can get your sail assignments.
