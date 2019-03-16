@@ -1,4 +1,4 @@
-current_regatta: "Gaucho" # Change this for each regatta to match data key below
+current_regatta: "" # Change this for each regatta to match data key below
 upcoming_regatta: "Socal5"
 location: sidebar
 published: true
@@ -522,31 +522,16 @@ Socal3:
 
 Socal4:
 - title: "SoCal4"
-- text: "SoCal4: Notice of Race (NOR)"
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
-  target: _blank
-  #published: false
-- text: "PCISA4: Golden Bear (NOR)"
-  emoji: bear
-  url: https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf
-  target: _blank
-  #published: false
 - text: Map to ABYC
   emoji: earth_americas
   url: https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817
   target: _blank
   published: false
-- text: SoCal1 Rankings
-  emoji: arrow_up_down
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
+- text: "SoCal4: Notice of Race (NOR)"
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
   target: _blank
-  published: false
-- text: SoCal2 Rankings
-  emoji: arrow_up_down
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/sailors/
-  target: _blank
-  published: false
+  #published: false
 - text: #spacer
 - text: Silver Scores
   emoji: checkered_flag
@@ -583,28 +568,46 @@ Socal4:
 
 Socal5:
 - title: "SoCal5 SDYC"
-- text: "SoCal5: Notice of Race (NOR)"
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
-  target: _blank
-  #published: false
-- text: "Silver PCCs (Website)"
-  emoji:
-  url: https://pcisa.hssailing.org/event/home/p-silver-pccs/312
-  target: _blank
-  published: false
 - text: Map to SDYC
   emoji: earth_americas
-  url:  https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7226619,-117.2508717,13.25z/data=!4m5!3m4!1s0x80deab9883524577:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806
+  url:  "https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7226619,-117.2508717,13.25z/data=!4m5!3m4!1s0x80deab9883524577:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806"
   target: _blank
-  published: false
-- text: SoCal5 Race Results
+- text: "SoCal5: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf"
+  target: _blank
+  #published: false
+- text: "SoCal Series 2018-19"
+  emoji: sailboat
+  url: "https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal"
+  target: _blank
+  #published: false
+- text: #spacer
+- text: Windfinder + Weather
+  emoji: umbrella
+  url: "https://www.windfinder.com/forecast/san-diego_shelter-island"
+  #url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
+  #published: false
+  target: _blank
+- text: Wind + Weather Alt
+  emoji: rainbow
+  url: "https://www.windy.com/station/madis-E9951?32.713,-117.223,15,m:ezGacTM"
+  #published: false
+  target: _blank
+- text: #spacer
+- text: Silver Scores
   emoji: abcd
-  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/full-scores/
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-silver/full-scores/"
   target: _blank
-  published: false
+- text: Gold Scores
+  emoji: capital_abcd
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-gold/full-scores/"
+  target: _blank
 - text: SoCal5 Rotations (Sail#)
-  emoji: hash
-  url: https://scores.hssailing.org/s18/2017-018-pcisa-socal-silver/rotations/
+  emoji: 👥busts_in_silhouette
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-silver/sailors/"
   target: _blank
-  published: false
+- text: Spring Season Results
+  emoji: trophy
+  url: "https://scores.hssailing.org/schools/sato-academy-of-math/s19/"
+  target: _blank
