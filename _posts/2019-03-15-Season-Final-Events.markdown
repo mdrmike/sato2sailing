@@ -10,9 +10,9 @@ image: "https://lh3.googleusercontent.com/-jypIFmVfMnn-VvOeyVBE0zVGVc7vk6qcdbTPd
 #
 
 
-photo1: 2019gaucho-win
+photo1: 2018socal5
 #photo2: 2018socal4
-photo2: 2018socal5
+photo2: 2019gaucho-win
 
 
 venue:  
@@ -52,17 +52,7 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 
 ## {{ page.title_alert }}
 
-#### SoCal5 in San Diego
-
-The final SoCal Series regatta is next weekend Mar 23-24 at San Diego Yacht club. It's beautiful venue with a nice view of DTSD. Hopefully we can get three boats down there for a good competition between skippers and crew. We'll likely have boats in both silver & gold divisions.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform" class="btn btn-default btn-sm" role="button" target="_blank" markdown="0">{{ page.signup-emoji }} ABYC Regatta Sign-up</a>
-
-<br>
 #### PCISA5 Gaucho: Success in Santa Barbara  
-
-
-![{{ photo1.text }}]({{ photo1.url }})
 
 Santa Barbara was a blast last weekend. In addition to UCSB tour offered by UCSB sailing team, the weather was great! It was sunny both mornings and most of Saturday. Better, the wind was epic on Saturday up to 15-20kts followed by lighter 3-8kts shifty winds on Sunday. A strong up coast current also made for some very interesting starts and time and distance practice, especially as the breeze shifted around and changed the angle of the current to the course.
 
@@ -70,8 +60,17 @@ Check out our lead! <!--more--> Everyone had fun. Tyler & Diego did great and Tr
 
 Final team results moved us up to a three-way-tie for, 7th place overall (of 24 teams), and our best of the the last two seasons. As a team we're continuing to make great strides and hard work is paying off!
 
-
 <br>  
+#### SoCal5 in San Diego
+
+
+The final SoCal Series regatta is next weekend Mar 23-24 at San Diego Yacht club. It's beautiful venue with a nice view of DTSD. Hopefully we can get three boats down there for a good competition between skippers and crew. We'll likely have boats in both silver & gold divisions.
+![{{ photo1.text }}]({{ photo1.url }})
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform" class="btn btn-default btn-sm" role="button" target="_blank" markdown="0">{{ page.signup-emoji }} ABYC Regatta Sign-up</a>
+
+<br>
+
 </div>
 
 
