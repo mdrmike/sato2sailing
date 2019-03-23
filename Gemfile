@@ -32,7 +32,9 @@ ruby RUBY_VERSION
 #   - jekyll-titles-from-headings
 #
 # Also note, some are enabled by default, such as, `jekyll-sitemap`.
-gem 'github-pages', '~> 185', group: :jekyll_plugins
+gem 'github-pages', '~> 197'
+
+#, group: :jekyll_plugins
 
 
 # Add plugins to development group
