@@ -510,11 +510,11 @@ Socal5:
 - text: #spacer
 - text: Silver Scores
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-silver/full-scores/"
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-silver/"
   target: _blank
 - text: Gold Scores
   emoji: trophy
-  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-gold/full-scores/"
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-gold/"
   target: _blank
 - text: #spacer
 - text: "Techscore"
@@ -523,7 +523,7 @@ Socal5:
   target: _blank
 - text: "SoCal5 Rotations (sail #)"
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal5-silver/sailors/"
+  url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-gold/rotations/"
   target: _blank
 - text: SoCal5 Planning (last year)
   published: true
