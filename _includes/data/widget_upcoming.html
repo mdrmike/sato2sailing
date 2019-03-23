@@ -1,6 +1,6 @@
 {% if site.data.widget_upcoming.published != false %}
 {% assign upcoming_event = site.data.widget_racing[site.data.widget_racing.upcoming_regatta] %}
-<h3>Upcoming: {{ upcoming_event[0].title | escape }}</h3>
+{% if upcoming_event[0].title %}<h3>Upcoming: {{ upcoming_event[0].title | escape }}</h3>{% endif %}
 <ul class="post-list text-muted list-unstyled">
 {% for link in upcoming_event %}
   {% if link.published != false  %}
