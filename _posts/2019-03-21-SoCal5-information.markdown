@@ -57,12 +57,13 @@ windfinder:
 
 -  0845 [Meetup at SDYC]({{page.venue.map}})
 -  0900 Boat check-in
-<!--more-->
 -  1000 Onsite registration closes
 -  1000 Competitor's meeting and Coaches Meeting
 -  1100 First Warning
--  1600 Deadline for Starting Last Race
--  1700 Awards (or soon as possible after racing)  
+<!--more-->
+-  1600 Deadline for Starting Last Race (Sunday) / 1700 on Sat
+-  1700 Sunday Awards (or soon as possible after racing)  
+
 
 ### Regatta Information  
 
