@@ -1,5 +1,5 @@
-current_regatta: "Socal5" # Change this for each regatta to match data key below
-upcoming_regatta: ""
+current_regatta: "" # Change this for each regatta to match data key below
+upcoming_regatta: "pcc"
 location: sidebar
 published: true
 
@@ -23,7 +23,7 @@ published: true
   #url: https://www.google.com/maps/place/Encinal+Yacht+Club/@37.7824052,-122.2651127,17z/data=!3m1!4b1!4m5!3m4!1s0x808f872a85d4429d:0x5aede73cb58cfb9e!8m2!3d37.782401!4d-122.262924
 
 current-common:
-- title: "Racing Related"
+- title: "Useful PCISA Links"
   published: false # unpublished removes extra line, since title doesn't output link
 - text: Sailor Rank 2018-19
   emoji: arrow_up_down
@@ -46,14 +46,52 @@ current-common:
 
 upcoming-common:
 - text: #spacer
+  published: flase
+
+pcisa1:
+- title: "PCISA1: Sea Otter"
+  published: false # unpublished removes extra line, since title doesn't output link
+- text: Sailors Instructions (course)
   published: false
-- text: PCISA 2018-2019 Schedule
-  emoji: calendar
-  url: https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s
+  emoji: memo
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
+  target: _blank
+- text: "Rotations (Sail Numbers)"
+  published: false
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
+  target: _blank
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
   target: _blank
   published: false
+- text: #spacer
+  emoji:
+  url:
+  published: false
+  #target: _blank
+- text: "PCISA1: Map to MPYC"
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+  target: _blank
+  #published: false
+- text: "Event: Monterey Oct 13-14 (website)"
+  #published: false
+  emoji: shell
+  url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
+  target: _blank
+- text: "Event: Logistics & Reminders"
+  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
+  target: _blank
+  emoji: memo
+- text: "PCISA1: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
+  target: _blank
+  #published: false
 
-Anteater:
+pcisa2:
 - title: "PCISA2: UCI Anteater"
   published: false # unpublished removes extra line, since title doesn't output link
 - text: "Silver Scores"
@@ -93,62 +131,70 @@ Anteater:
   target: _blank
   #published: false
 
-Gaucho:
-- title: "PCISA5: UCSB Gaucho"
+pcisa3:
+- title: "PCISA3: RoseBowl"
   published: false # unpublished removes extra line, since title doesn't output link
-- text: "PCISA5: Map to SBYC"
+- text: "PCISA3: Map to Granada Beach"
   emoji: earth_americas
-  url: "https://www.google.com/maps/place/Santa+Barbara+Yacht+Club/@34.4143627,-119.7107442,13.75z/data=!4m5!3m4!1s0x80e913f44bc5dc4f:0xe6217e800ab24ea7!8m2!3d34.4032969!4d-119.6928154"
+  url: https://www.google.com/maps/place/1+Granada+Ave,+Long+Beach,+CA+90803/@33.7561755,-118.1394206,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x80dd304a7aa75bef:0xf45890d51acf17c5!2sGranada+Ave,+Long+Beach,+CA!3b1!8m2!3d33.7825752!4d-118.1346406!3m4!1s0x80dd3048897ef993:0xe7bcdfbba0d1d2f2!8m2!3d33.7561755!4d-118.1387699
   target: _blank
   #published: false
-- text: "Parking & Useful Info"
-  emoji: car
-  url: "/2018-19/pcisa/PCISA5-Information/#parking-etc"
+- text: "HS Fleet Splits"
+  emoji: hatching_chick
+  url: "https://pcisa.hssailing.org/documents/2019-RB-High-School-Fleets.pdf"
   target: _blank
-- text: "Event: Gaucho Mar 9-10 (website)"
-  emoji: ant
-  url: "http://ucsbsailing.squarespace.com/gaucho-regatta"
-  target: _blank
+- text: Sailors Instructions
   #published: false
-- text: #spacer
-- text: "Silver Scores"
-  emoji: checkered_flag
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/"
+  emoji: exclamation
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/sailing-instructions.pdf"
   target: _blank
+- text: Sailors Course Charts
   #published: false
-- text: Windfinder + Weather
-  emoji: umbrella
-  url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
-  #published: false
-  target: _blank
-- text: Wind + Weather Alt
-  emoji: rainbow
-  url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
-  #published: false
-  target: _blank
-- text: #spacer
-- text: Silver Full Scores
-  emoji: ledger
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/full-scores/"
-  target: _blank
-  #published: false
-- text: Rotations (Sail Numbers)
-  emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/rotations/"
-  target: _blank
-  #published: false
-- text: Sailors Instructions (course)
   emoji: memo
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/notices/sailing-instructions.pdf"
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-course-charts.pdf"
   target: _blank
+
+- text: #spacer
   published: true
-- text: "PCISA5: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
+- text: "Rotations (Sail Numbers)"
+  #published: false
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/rotations/"
+  target: _blank
+- text: "Bronze Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/"
   target: _blank
   #published: false
 
-GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
+- text: #spacer
+  published: true
+- text: #spacer
+  published: true
+- text: Sailors Important Info
+  #published: false
+  emoji: information_source
+  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-important-info.pdf"
+  target: _blank
+- text: "Event: Long Beach Jan 5-6 (website)"
+  #published: false
+  emoji: carousel_horse
+  url: "https://pcisa.hssailing.org/event/home/rose-bowl/182"
+  target: _blank
+- text: "PCISA3: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2019-Rose-Bowl-NOR.pdf"
+  target: _blank
+  #published: false
+- text: "Event: Logistics & Reminders"
+  url: "https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt"
+  target: _blank
+  emoji: memo
+
+
+
+
+pcisa4: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304cc9c39ae702e71a054bbefde/_blocks/05-racing.md
 - title: "PCISA4: Golden Bear"
   published: false # unpublished removes extra line, since title doesn't output link
 - text: "PCISA4: Map to TISC"
@@ -211,110 +257,110 @@ GoldenBear: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e
   url: /2018-19/pcisa/PCISA4-Information/
   published: false
 
-
-SeaOtter:
-- title: "PCISA1: Sea Otter"
+pcisa5:
+- title: "PCISA5: UCSB Gaucho"
   published: false # unpublished removes extra line, since title doesn't output link
-- text: Sailors Instructions (course)
-  published: false
-  emoji: memo
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/notices/sailing-instructions.pdf"
+- text: "PCISA5: Map to SBYC"
+  emoji: earth_americas
+  url: "https://www.google.com/maps/place/Santa+Barbara+Yacht+Club/@34.4143627,-119.7107442,13.75z/data=!4m5!3m4!1s0x80e913f44bc5dc4f:0xe6217e800ab24ea7!8m2!3d34.4032969!4d-119.6928154"
   target: _blank
-- text: "Rotations (Sail Numbers)"
-  published: false
-  emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/rotations/"
+  #published: false
+- text: "Parking & Useful Info"
+  emoji: car
+  url: "/2018-19/pcisa/PCISA5-Information/#parking-etc"
   target: _blank
+- text: "Event: Gaucho Mar 9-10 (website)"
+  emoji: ant
+  url: "http://ucsbsailing.squarespace.com/gaucho-regatta"
+  target: _blank
+  #published: false
+- text: #spacer
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/sea-otter-silver/"
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/"
   target: _blank
-  published: false
+  #published: false
+- text: Windfinder + Weather
+  emoji: umbrella
+  url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
+  #published: false
+  target: _blank
+- text: Wind + Weather Alt
+  emoji: rainbow
+  url: "https://www.windy.com/34.408/-119.685?namConus,34.406,-119.686,15"
+  #published: false
+  target: _blank
 - text: #spacer
-  emoji:
-  url:
-  published: false
-  #target: _blank
-- text: "PCISA1: Map to MPYC"
-  emoji: earth_americas
-  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+- text: Silver Full Scores
+  emoji: ledger
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/full-scores/"
   target: _blank
   #published: false
-- text: "Event: Monterey Oct 13-14 (website)"
-  #published: false
-  emoji: shell
-  url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
-  target: _blank
-- text: "Event: Logistics & Reminders"
-  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
-  target: _blank
-  emoji: memo
-- text: "PCISA1: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
-  target: _blank
-  #published: false
-
-RoseBowl:
-- title: "PCISA3: RoseBowl"
-  published: false # unpublished removes extra line, since title doesn't output link
-- text: "PCISA3: Map to Granada Beach"
-  emoji: earth_americas
-  url: https://www.google.com/maps/place/1+Granada+Ave,+Long+Beach,+CA+90803/@33.7561755,-118.1394206,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x80dd304a7aa75bef:0xf45890d51acf17c5!2sGranada+Ave,+Long+Beach,+CA!3b1!8m2!3d33.7825752!4d-118.1346406!3m4!1s0x80dd3048897ef993:0xe7bcdfbba0d1d2f2!8m2!3d33.7561755!4d-118.1387699
-  target: _blank
-  #published: false
-- text: "HS Fleet Splits"
-  emoji: hatching_chick
-  url: "https://pcisa.hssailing.org/documents/2019-RB-High-School-Fleets.pdf"
-  target: _blank
-- text: Sailors Instructions
-  #published: false
-  emoji: exclamation
-  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/sailing-instructions.pdf"
-  target: _blank
-- text: Sailors Course Charts
-  #published: false
-  emoji: memo
-  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-course-charts.pdf"
-  target: _blank
-
-- text: #spacer
-  published: true
-- text: "Rotations (Sail Numbers)"
-  #published: false
+- text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/rotations/"
-  target: _blank
-- text: "Bronze Scores"
-  emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/"
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/rotations/"
   target: _blank
   #published: false
-
-- text: #spacer
-  published: true
-- text: #spacer
-  published: true
-- text: Sailors Important Info
-  #published: false
-  emoji: information_source
-  url: "https://scores.hssailing.org/f18/2019-rose-bowl-bronze/notices/si-appendix-important-info.pdf"
-  target: _blank
-- text: "Event: Long Beach Jan 5-6 (website)"
-  #published: false
-  emoji: carousel_horse
-  url: "https://pcisa.hssailing.org/event/home/rose-bowl/182"
-  target: _blank
-- text: "PCISA3: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2019-Rose-Bowl-NOR.pdf"
-  target: _blank
-  #published: false
-- text: "Event: Logistics & Reminders"
-  url: "https://drive.google.com/drive/folders/1T5qIgyHyV78EqXIuUq1m6dLxsaKe-_Tt"
-  target: _blank
+- text: Sailors Instructions (course)
   emoji: memo
+  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/notices/sailing-instructions.pdf"
+  target: _blank
+  published: true
+- text: "PCISA5: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
+  target: _blank
+  #published: false
 
+pcc:
+- title: "Silver Championships"
+  published: false # unpublished removes extra line, since title doesn't output link
+- text: "PCC: Map to MBYC"
+  emoji: earth_americas
+  url: "https://www.google.com/maps/place/Mission+Bay+Yacht+Club/@32.778919,-117.2496288,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc01e1db2ec19f:0x3c54b40aae519695!8m2!3d32.778919!4d-117.2474401"
+  target: _blank
+- text: "Event: PCC (website)"
+  emoji: crossed_flags
+  url: "https://pcisa.hssailing.org/event/home/p-silver-pccs/312"
+  target: _blank
+- text: "PCC: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://pcisa.hssailing.org/documents/2019-HS-Silver-PCC-NOR.pdf"
+  target: _blank
+  #published: false
+- text: #spacer
+- text: Wind + Weather
+  emoji: partly_sunny
+  #url: "https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html"
+  url: "https://www.windy.com/32.781/-117.253?32.773,-117.253,14,m:ezNacTJ"
+  #published: false
+  target: _blank
+- text: Current Wind
+  emoji: leaves
+  url: "https://www.windfinder.com/report/mission_bay_yacht_club"
+  #published: false
+  target: _blank
+- text: #spacer
+- text: "Silver Scores"
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/"
+  target: _blank
+  #published: false
+- text: Silver Full Scores
+  emoji: ledger
+  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/full-scores/"
+  target: _blank
+  #published: false
+- text: Rotations (Sail Numbers)
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/rotations/"
+  target: _blank
+  #published: false
+- text: Sailors Instructions (course)
+  emoji: memo
+  url: ""
+  target: _blank
+  published: false
 
 
 
@@ -397,7 +443,7 @@ Socal3:
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
   target: _blank
-- text: SoCal1 @ NHYC
+- text: SoCal3 @ MBYC
   emoji: three
   url: "https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal"
   target: _blank
@@ -409,20 +455,19 @@ Socal3:
 - text: #spacer
 - text: Silver Scores
   emoji: checkered_flag
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/
+  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/"
   target: _blank
 - text: Gold Scores
   emoji: trophy
-  url: https://scores.hssailing.org/f18/2019-18-pcisa-socal3-gold/
+  url: "https://scores.hssailing.org/f18/2019-18-pcisa-socal3-gold/"
   target: _blank
 - text: SoCal3 Silver Races
   emoji: 1234
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/full-scores/
+  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/full-scores/"
   target: _blank
-
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/rotations/
+  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/rotations/"
   target: _blank
   #published: false
 
