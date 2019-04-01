@@ -315,9 +315,9 @@ pcisa5:
 pcc:
 - title: "Silver Championships"
   published: false # unpublished removes extra line, since title doesn't output link
-- text: "PCC: Map to MBYC"
-  emoji: earth_americas
-  url: "https://www.google.com/maps/place/Mission+Bay+Yacht+Club/@32.778919,-117.2496288,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc01e1db2ec19f:0x3c54b40aae519695!8m2!3d32.778919!4d-117.2474401"
+- text: "PCC: Map & Parking Info"
+  emoji: car
+  url: "https://www.google.com/maps/d/u/0/viewer?mid=1uG_6zSMD_RGe62iFSy2-93ylIpo73Pia&vomp=1&cid=mp&cv=Dms39s4zzpI.en."
   target: _blank
 - text: "Event: PCC (website)"
   emoji: crossed_flags
@@ -327,7 +327,11 @@ pcc:
   emoji: information_source
   url: "https://pcisa.hssailing.org/documents/2019-HS-Silver-PCC-NOR.pdf"
   target: _blank
-  #published: false
+- text: "PCC: Map to MBYC"
+  emoji: earth_americas
+  url: "https://www.google.com/maps/place/Mission+Bay+Yacht+Club/@32.778919,-117.2496288,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc01e1db2ec19f:0x3c54b40aae519695!8m2!3d32.778919!4d-117.2474401"
+  target: _blank
+  published: false
 - text: #spacer
 - text: Wind + Weather
   emoji: partly_sunny
