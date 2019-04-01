@@ -8,7 +8,7 @@ photo2: 2017socal2
 
 ## Sailing for fun, excellence, and life
 
-There might be nothing in the world that packs as many life lessons as the activity of sailing. Sailing teaches engineering, fluid dynamics, history, preparation, patience, oceanography, ecology… all in one fell swoop. In addition, competitive sailing teaches teamwork, strategy, tactics, and precise communication! Because of this and more, we believe everyone should learn to sail. One of the greatest things about sailing is you can do it your entire life. Join us!
+There might be nothing in the world that packs as many life lessons as the activity of sailing. Sailing teaches engineering, _fluid dynamics,_ history, _preparation,_ patience, oceanography, ecology… all in one fell swoop. [Note :one:](#reference) In addition, competitive sailing teaches teamwork, strategy, tactics, and precise communication! Because of this and more, we believe everyone should learn to sail. One of the greatest things about sailing is you can do it your entire life. Join us!
 
 ![{{ photo1.text}}]({{ photo1.url }})
 
@@ -34,3 +34,7 @@ Info about the organizations we're involved, help us with our program, or just g
 -  [SCYRRA](http://www.scyyra.org) — Dedicated to the improvement of sailing skills among youth racing sailors in Southern California.  Not a part of High School sailing, but provides access to more regattas & avenues to learn.
 - [US Sailing](http://www.ussailing.org/racing/youth-sailing/) — US Sailing’s Youth Department connects you to the programs, events, and resources that support youth sailors and stakeholders.
 - [ISAF: Team Racing](http://www.sailing.org/new-to-sailing/team-racing.php) — About Team racing; By World Sailing (ISAF), who is responsible for the promotion of sailing internationally, Olympic and Paralympic Games, Racing Rules & regulations, and more.
+
+#### References  {#reference}
+
+1. Adapted and expanded upon from article about [why all kids should sail](https://asa.com/news/2017/10/03/5-reasons-why-all-kids-should-sail/) by American Sailing Association

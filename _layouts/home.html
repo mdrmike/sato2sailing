@@ -38,18 +38,6 @@ Get latest update for frontpage excerpt
       </div>
     </aside>
     <article class="col-md-7">
-
-      {{ intro }}
-      {% comment %}<!--
-      Possibility of injecting content between intro and outro
-      -->{% endcomment %}
-      {{ outro }}
-
-      <aside class="well" style="">
-        {% include windfinder.html title="Current Weather near ABYC" %}
-      </aside>
-      <aside class="well" style="">
-        {% include waterquality.html %}
-      </aside>
+      {{ content }}
     </article><!--/.col -->
   </div><!--/.row -->
