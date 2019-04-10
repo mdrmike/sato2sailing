@@ -1,5 +1,5 @@
-current_regatta: "" # Change this for each regatta to match data key below
-upcoming_regatta: "pcc"
+current_regatta: "pcc" # Change this for each regatta to match data key below
+upcoming_regatta: ""
 location: sidebar
 published: true
 

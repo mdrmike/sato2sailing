@@ -1,8 +1,8 @@
 ---
 title:  "PCISA: Pacific Coast Championships"
 date: 2019-03-28 2:30:00 -0700
-last_modified_at: 2019-04-01 11:20:00 -0700
-modified_count: 1
+last_modified_at: 2019-04-10 14:50:00 -0700
+modified_count: 2
 title_alert: "Silver PCC's @MBYC"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -40,12 +40,6 @@ pcc_label: "2018-19 Silver Pacific Coast Championships (PCCs)"
 {% endif %}
 
 
-<div class="alert alert-info" markdown="1">
-## Practice Over Spring Break
-
-Friday practice (4/5/18) is canceled due to a special event at ABYC. Please plan to practice Wed instead, and should be considered mandatory for sailors participating in PCCs. In addition, a few sailors are organizing extra practices over spring break in order to sharpen skills and prepare for PCCs. Reach out to other sailors on the team to get involved in the action.
-</div>  
-
 ## Silver Championships Apr 13-14
 
 The [{{ page.pcc_label }}]({{ page.pcc_url }}) is April 13-14 and we are registered! The event will host both Gold & Silver fleets and is hosted by [{{ page.venue.title }}]({{ page.venue.map }}). There are 19 boats in Gold and 25 registered in Silver. Details about the event are available from the [Notice of Race (NOR)]({{ page.nor }}).
@@ -61,7 +55,6 @@ after racing on Saturday, plus snacks after racing on Sunday. Additional t-shirt
 **Parents:**  Sailors need to be onsite by 8:45a. Boat setup and inspection is from 9-10a. Warning for first race is at 11a.  Final race must start by 3:30p on Sunday, although Sat could go much later. All details are in NOR. (see links in sidebar)
 </div>
 
-<!--more-->
 <div class="well" role="alert" markdown="1">
 
 |       | Saturday                        |       | Sunday        |
@@ -74,6 +67,13 @@ after racing on Saturday, plus snacks after racing on Sunday. Additional t-shirt
 
 
 </div>
+<!--more-->
+
+<div class="alert alert-info" markdown="1">
+## Practice Over Spring Break
+
+Friday practice (4/5/18) is canceled due to a special event at ABYC. Please plan to practice Wed instead, and should be considered mandatory for sailors participating in PCCs. In addition, a few sailors are organizing extra practices over spring break in order to sharpen skills and prepare for PCCs. Reach out to other sailors on the team to get involved in the action.
+</div>  
 
 
 ## Weather
