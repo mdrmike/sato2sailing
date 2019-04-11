@@ -1,8 +1,8 @@
 ---
 title:  "PCISA: Pacific Coast Championships"
 date: 2019-03-28 2:30:00 -0700
-last_modified_at: 2019-04-10 14:50:00 -0700
-modified_count: 2
+last_modified_at: 2019-04-11 15:30:00 -0700
+modified_count: 3
 title_alert: "Silver PCC's @MBYC"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -57,13 +57,13 @@ after racing on Saturday, plus snacks after racing on Sunday. Additional t-shirt
 
 <div class="well" role="alert" markdown="1">
 
-|       | Saturday                        |       | Sunday        |
-| -----:| ------------------------------- | -----:|               |
-|  9:00 | &nbsp;Check-in, Rigging, Inspection      |  9:00 | &nbsp; Regatta report time |
-| 10:00 | &nbsp;Competitors Meeting (Mandatory)    |  9:30 | &nbsp; Competitors Meeting (Mandatory) |
-| 11:30 | &nbsp;Racing Begins                      | 11:00 | &nbsp; Racing begins |
-| ~5p | &nbsp;After racing: BBQ on beach           |  3:30 | &nbsp; No Start after this time |
-|       |                                          |  5:00 | **Awards**        |
+|       | Saturday                                 |       | Sunday        
+| -----:| ---------------------------------------- | -----:|               
+|  9:00 | &nbsp;Check-in, Rigging, Inspection      |  9:00 | &nbsp; Regatta report time
+| 10:00 | &nbsp;Competitors Meeting (Mandatory)    |  9:30 | &nbsp; Competitors Meeting (Mandatory)
+| 11:30 | &nbsp;Racing Begins                      | 11:00 | &nbsp; Racing begins
+| ~5p   | &nbsp;After racing: BBQ on beach         |  3:30 | &nbsp; No Start after this time
+|       |                                          |  5:00 | **Awards**        
 
 
 </div>
@@ -78,7 +78,22 @@ Friday practice (4/5/18) is canceled due to a special event at ABYC. Please plan
 
 ## Weather
 
-TBA
+**WIND:** GFS Model suggests  
+
+-  Saturday wind will have [gentle to moderate breezy conditions](https://en.wikipedia.org/wiki/Beaufort_scale#Modern_scale).  
+-  Sunday will have [light to gentle breezy](https://en.wikipedia.org/wiki/Beaufort_scale#Modern_scale) conditions throughout.
+
+**TIDE/CURRENTS:**  Towards high tide, water currents fill the bay. Towards low tide, water currents leave the bay.
+
+-  Saturday low tide at 12:01 will cause a shift in currents after first races, then gradually grow stronger throughout the day. By 3p currents will likely be a factor in strategy.
+- Sunday low tide is almost an hour later, just before 1p.
+
+[![Weather forecast](/assets/images/posts/2019/MBYC-forecast--2019-04-13-14.png) _Click for weather current updates from windfinder.com_](https://www.windfinder.com/forecast/mission_bay_yacht_club)
+
+[![Weather forecast](/assets/images/posts/2019/MBYC-forecast-animation.gif) <br> _Animation of ECMWF Model forecast. Click for weather from windy.com_](https://www.windy.com/32.778/-117.247?2019-04-15-00,32.778,-117.249,15,i:pressure,m:ezNacTK)
+
+
+
 
 ## Season in Review
 
