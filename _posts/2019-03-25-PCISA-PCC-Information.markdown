@@ -1,8 +1,8 @@
 ---
 title:  "PCISA: Pacific Coast Championships"
 date: 2019-03-28 2:30:00 -0700
-last_modified_at: 2019-04-11 15:30:00 -0700
-modified_count: 3
+last_modified_at: 2019-04-12 16:20:00 -0700
+modified_count: 4
 title_alert: "Silver PCC's @MBYC"
 categories: [ 2018-19, PCISA ]
 #image for RSS (typically same URL as photo1 widget)
@@ -43,6 +43,18 @@ pcc_label: "2018-19 Silver Pacific Coast Championships (PCCs)"
 ## Silver Championships Apr 13-14
 
 The [{{ page.pcc_label }}]({{ page.pcc_url }}) is April 13-14 and we are registered! The event will host both Gold & Silver fleets and is hosted by [{{ page.venue.title }}]({{ page.venue.map }}). There are 19 boats in Gold and 25 registered in Silver. Details about the event are available from the [Notice of Race (NOR)]({{ page.nor }}).
+
+<div class="alert alert-info" markdown="1">
+:eight_spoked_asterisk: **UPDATE:** Note [the custom map to MBYC](https://www.google.com/maps/d/u/0/viewer?mid=1uG_6zSMD_RGe62iFSy2-93ylIpo73Pia&vomp=1&cid=mp&cv=Dms39s4zzpI.en.). In addition to regatta info, it contains directions to route you through a *½ marathon on Saturday morning* in the Mission Bay area (runners 7a ~ 8:30a). **Sea World Drive will be closed.**
+
+-  PCISA race committee suggests coming to MBYC from the north (Balboa/Garnet [I5 Exit 23]). Note that runners do cross Mission Blvd just north of MBYC, but usually all the runners have passed by 8-8:30am. Please plan accordingly and for more information regarding the marathon, please visit [sandiegobeachandbayhalfmarathon.com](https://sandiegobeachandbayhalfmarathon.com/gettingthere/).
+-  **ALTERNATE:**  Based on info about the marathon route I've added a possible Alternate (less congested) route on the map from south of MBYC (Rosecrans [I5 Exit 20] -> Hancock St ->W Mission Bay Dr). While navigating there we suggest using a maps app with realtime traffic conditions and plan on needing extra time.
+-  Bagels, Pastries, and fruits will be provided Saturday and Sunday morning in the Junior Building.
+-  Team meeting location on our map
+-  Parking info on our map
+-  Tent Location on our map
+-  Lunch: The galley window will be open for lunch with a limited menu.
+</div>
 
 ### Fees
 
