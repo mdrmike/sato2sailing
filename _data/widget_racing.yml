@@ -347,19 +347,23 @@ pcc:
 - text: #spacer
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/"
+  url: "https://scores.hssailing.org/s19/silver-pacific-coast-dinghy-championships/"
   target: _blank
   #published: false
 - text: Silver Full Scores
   emoji: ledger
-  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/full-scores/"
+  url: "https://scores.hssailing.org/s19/silver-pacific-coast-dinghy-championships/full-scores/"
   target: _blank
   #published: false
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/s19/pcisa-silver-pcc/rotations/"
+  url: "https://scores.hssailing.org/s19/silver-pacific-coast-dinghy-championships/rotations/"
   target: _blank
   #published: false
+- text: Silver Notice Board
+  emoji: clipboard
+  url: "https://scores.hssailing.org/s19/silver-pacific-coast-dinghy-championships/notices/"
+  target: _blank
 - text: Sailors Instructions (course)
   emoji: memo
   url: ""
