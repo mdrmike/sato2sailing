@@ -69,6 +69,7 @@ after racing on Saturday, plus snacks after racing on Sunday. Additional t-shirt
 
 <div class="well" role="alert" markdown="1">
 
+{:.table .table-striped .table-bordered}
 |       | Saturday                                 |       | Sunday        
 | -----:| ---------------------------------------- | -----:|               
 |  9:00 | &nbsp;Check-in, Rigging, Inspection      |  9:00 | &nbsp; Regatta report time

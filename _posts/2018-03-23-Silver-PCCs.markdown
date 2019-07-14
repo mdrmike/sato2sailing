@@ -85,6 +85,7 @@ More details upcoming, but please (_please_, **please**) [:triangular_flag_on_po
 
 #### Schedule
 
+{:.table .table-striped .table-bordered}
 |       | Saturday                        |       | Sunday        |
 | -----:| ------------------------------- | -----:| ------------- |
 |  8:30a &nbsp;| Registration / Rigging / Inspection  | 8:30a\* &nbsp;| Check-in & Rigging of boats |

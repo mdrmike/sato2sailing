@@ -32,6 +32,7 @@ Depending on our need to tow boats to the regatta (or if we charter from the clu
 
 #### Schedule
 
+{:.table .table-striped .table-bordered}
 |       | Saturday                        |       | Sunday        |
 | -----:| ------------------------------- | -----:| ------------- |
 |  9:00a &nbsp;| Registration & Boat check-in  | 9:30a\* &nbsp;| Check-in and Team meeting with ABYC coach |

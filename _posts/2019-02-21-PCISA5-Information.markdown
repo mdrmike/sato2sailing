@@ -86,7 +86,7 @@ Come meet members of the UCSB Sailing Team and receive a guided tour of campus f
 -  5:00-6:00pm - Late Campus Tour with team members.  
 
 
-
+{:.table .table-striped .table-bordered}
 |       | Saturday                        |       | Sunday        |
 | -----:| ------------------------------- | -----:|               |
 |  8:30 | &nbsp;Report time & boat rigging      |  9:00 | &nbsp; Regatta report time |

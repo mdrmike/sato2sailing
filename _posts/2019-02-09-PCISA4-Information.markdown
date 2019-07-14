@@ -62,7 +62,7 @@ New! There are now two options for practice this semester. The recommended Wed+F
 ### Regatta Schedule
 <!--more-->
 
-
+{:.table .table-striped .table-bordered}
 |       | Saturday                        |       | Sunday        |
 | -----:| ------------------------------- | -----:|               |
 |  8:30 | Report time & boat rigging      |  9:00 | Regatta report time |

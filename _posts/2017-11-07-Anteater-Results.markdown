@@ -18,6 +18,7 @@ Sato Sailing's first PCISA Regatta was great!  We had fun even though wind was n
 
 #### Results
 
+{:.table .table-striped .table-bordered}
 | Race / Place |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |
 | ------------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Team A**   |  24  |  15  |   23 |   22 |   22 |   26 |   27 |   29 |

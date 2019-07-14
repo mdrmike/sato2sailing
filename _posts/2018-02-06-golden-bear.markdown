@@ -35,7 +35,7 @@ News is some of the team will fly up, some driving. Communicate and coordinate n
 _February 24 - 25, 2018_
 
 
-
+{:.table .table-striped .table-bordered}
 |       | Saturday                        |       | Sunday        |
 | -----:| ------------------------------- | -----:|               |
 |  8:30 | Report time & boat rigging      |  9:00 | Regatta report time |
