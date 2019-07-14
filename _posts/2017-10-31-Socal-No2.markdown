@@ -2,7 +2,7 @@
 title:  "SoCal Series 2/5 Info"
 date:   2017-10-31 22:30:00 -0700
 last_modified_at: 2017-10-31 22:30:00 -0700
-categories: [ info ]
+categories: [ 2017-18, socal ]
 ---
 
 

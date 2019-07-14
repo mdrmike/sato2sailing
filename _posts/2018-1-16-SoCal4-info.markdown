@@ -2,7 +2,7 @@
 title:  "SoCal4 Info & Results"
 date:   2018-02-02 07:30:00 -0800
 last_modified_at: 2018-02-06 10:35:00 -0800
-categories: [ news, regatta, socal ]
+categories: [ 2017-18, socal ]
 ---
 
 SoCal4 is a two day regatta hosted by ABYC. Sato has three boats registered for the event.

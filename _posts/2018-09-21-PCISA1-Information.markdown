@@ -3,13 +3,14 @@ title:  "PCISA1: CSUMB Sea Otter"
 date:   2018-09-20 11:00:00 -0700
 last_modified_at: 2018-10-12 11:00:00 -0700
 modified_count: 2
+categories: [ 2018-19, PCISA ]
+
 photo1: 2018SoCal1
 photo2: 2018abycfirepit
 signup-emoji: ":triangular_flag_on_post:"
 signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
 map:  "https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824"
 entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
-categories: [ 2018-19, PCISA ]
 
 windfinder:
   unit_wave: "ft"

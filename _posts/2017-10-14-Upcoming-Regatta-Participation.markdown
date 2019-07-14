@@ -1,8 +1,9 @@
 ---
 title:  "How to Participate in Upcoming Regattas"
 date:   2017-10-07 15:00:00 -0700
-last_modified_at: 2017-10-14 16:10:00 -0700
-categories: [ info ]
+last_modified_at: 2017-10-07 15:00:00 -0700
+modified_count: 0
+categories: [ 2017-18, news ]
 ---
 
 Get ready to sail in November!  The first two weekends both have fun local regattas.  Saturday Nov 4 is SoCal #2: a one day regatta at BHYC, in Newport.  The following weekend Nov 11-12 is PCISA Anteater regatta: a two day regatta across the bay at NHYC.

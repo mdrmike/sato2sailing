@@ -2,7 +2,7 @@
 title:  "Looking Forward"
 date:   2018-01-02 07:30:00 -0800
 last_modified_at: 2018-01-21 10:45:00 -0800
-categories: [ news, fundraising ]
+categories: [ news ]
 ---
 
 Our fall semester ends this month, and we're about to start spring semester. Here's a short list of things to be working on as we move forward.

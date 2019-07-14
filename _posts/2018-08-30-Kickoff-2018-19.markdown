@@ -3,9 +3,9 @@ title:  "2018-19 Sato Sailing Kickoff"
 date:   2018-08-30 13:36:00 -0700
 last_modified_at: 2018-09-06 13:06:00 -0700
 modified_count: 1
+categories: [ 2018-19, news ]
 photo1: practiceboard2
 photo2: 2018firstpractice
-categories: [ 2018-19, news ]
 ---
 {% assign photo1 = site.data.widget_photos[page.photo1] %}
 {% assign photo2 = site.data.widget_photos[page.photo2] %}

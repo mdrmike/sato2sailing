@@ -2,18 +2,9 @@
 title:  "Sea Otter Regatta"
 date:   2017-09-29 01:07:52 -0700
 last_modified_at: 2017-10-07 14:59:33 -0700
-categories: [ regatta, PCISA ]
-#authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
-#social:
-#  name: satosailingclub # If the user or organization name differs from the site's name
-#  date_modified: 2017-09-29 01:07:52 -0700
-#  links:
-#    - https://twitter.com/frontmatter_styleguide_social
-#    - https://www.facebook.com/frontmatter_styleguide_social
-#    - https://www.linkedin.com/in/frontmatter_styleguide_social
-#    - https://plus.google.com/+frontmatter_styleguide_social
-#    - https://keybase.io/frontmatter_styleguide_social
-#    - https://github.com/frontmatter_styleguide_social
+modified_count: 1
+categories: [ 2017-18, PCISA ]
+
 ---
 
 ## Update
@@ -37,6 +28,6 @@ In this case the Organizing Authority is PCISA and MPYC.  We requested PCISA to 
 
 **We need to know** how the PCISA organization works and the language they use. So, what's an **NOR?**  It's an acronym for **Notice of Race**.  In the section of the PCISA website: [https://pcisa.hssailing.org/](https://pcisa.hssailing.org/) titled "Upcoming Events," the **NOR** is listed next to **REG**, which is short for **Registration**.
 
-**How do we avoid repeating this mistake?**  Stay up-to-date on PCISA happenings.  Eveyone can help with this.  Parents.  Sailors.  Perhaps even family or friends.  The easiest way is to stay up to date with latest news is to [join the PCISA mailing list](https://pcisa.hssailing.org/index.php?mailing-list), and help us avoid these types of mishaps in the future. 
+**How do we avoid repeating this mistake?**  Stay up-to-date on PCISA happenings.  Eveyone can help with this.  Parents.  Sailors.  Perhaps even family or friends.  The easiest way is to stay up to date with latest news is to [join the PCISA mailing list](https://pcisa.hssailing.org/index.php?mailing-list), and help us avoid these types of mishaps in the future.
 
 Lessons learned.  We'll be prepared next time.

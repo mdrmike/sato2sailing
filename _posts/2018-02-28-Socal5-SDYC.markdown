@@ -3,10 +3,10 @@ title:  "SDYC: SoCal5"
 date:   2018-02-28 14:37:00 -0800
 last_modified_at: 2018-03-23 10:05:00 -0700
 modified_count: 2
-categories: [ news, regatta, socal ]
+categories: [ 2017-18, socal ]
 ---
 
-<h3>Latest Update</h3> 
+<h3>Latest Update</h3>
 <div class="alert alert-info">
 <h4>See Update #2 for details on:</h4>
 <ul><li>
@@ -28,7 +28,7 @@ More details forthcoming, but please (_please_, **please**) [:triangular_flag_on
 
 ## Update #1
 
-Depending on our need to tow boats to the regatta (or if we charter from the club), a few of us will be traveling down either Friday after school or Saturday (really, really, early) so we'll arive in time for 9:00a check-in. Please see the SoCal5 Planning folder (navigation bar). 
+Depending on our need to tow boats to the regatta (or if we charter from the club), a few of us will be traveling down either Friday after school or Saturday (really, really, early) so we'll arive in time for 9:00a check-in. Please see the SoCal5 Planning folder (navigation bar).
 
 #### Schedule
 
@@ -43,7 +43,7 @@ Depending on our need to tow boats to the regatta (or if we charter from the clu
 <span class="label label-info"><em>* - Time subject to change per race committee (announcements in competitor meeting) or ABYC Coach. Check for updates.</em></span>
 
 
-#### Wind+Weather 
+#### Wind+Weather
 
 <div style="width: 300px;"><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=84083" width="300" height="228" frameborder="0" scrolling="no"></iframe><a style="display: block;z-index: 1;height: 20px;text-indent: -9999em;margin: -20px 0 0 0;position: relative" href="https://www.willyweather.com/ca/san-diego-county/coronado-island.html" rel="nofollow">coronado island weather</a></div>
 
@@ -53,7 +53,7 @@ Depending on our need to tow boats to the regatta (or if we charter from the clu
 
 ## Update #2
 
-*   **2pm practice:**  Please come a early to practice today so we can get on the water early and get the trailer loaded for the regatta this weekend.  We'll likely end practice early too. Details with Coach Nick. 
+*   **2pm practice:**  Please come a early to practice today so we can get on the water early and get the trailer loaded for the regatta this weekend.  We'll likely end practice early too. Details with Coach Nick.
 *   **Lodging:** Please add your lodging info to our [shared google doc](https://docs.google.com/document/d/1ih8Qf9ej5maqpwTU8QvQLs6I-0gepYx-z_SWxrxHKps/edit)
 *   **Weather:** Checkout SDYC weather station from wunderground.  Wind readings are in a different format that weather willy control above.  Which do you prefer?
 
