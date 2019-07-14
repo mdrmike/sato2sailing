@@ -3,7 +3,7 @@ title:  "NorCal: Golden Bear Regatta"
 date:   2018-02-06 09:30:00 -0800
 last_modified_at: 2018-02-24 7:34:00 -0800
 modified_count: 4
-categories: [ news, regatta, pcisa ]
+categories: [ 2017-18, PCISA ]
 ---
 
 <div class="alert alert-info">
@@ -48,7 +48,7 @@ _February 24 - 25, 2018_
 
 ### Racing Area
 
-The Racing Area will be in Clipper Cove, with rotations made from the TISC floating dock unless another area has been designated by the PRO. All boats shall be launched from the TISC ramp. 
+The Racing Area will be in Clipper Cove, with rotations made from the TISC floating dock unless another area has been designated by the PRO. All boats shall be launched from the TISC ramp.
 
 ### Viewing Area  
 
@@ -61,37 +61,37 @@ Coaches and spectators can view the racing from the shore west of the TISC gate.
 
 #### From San Francisco (or points on the west side of San Francisco Bay)
 
-- Take I-80 East to the Bay Bridge. 
-- Treasure Island is a left exit at the end of the San Francisco side span. The exit merges onto the road that runs down the west side of Yerba Buena Island (overlooking San Francisco to the west and Clipper Cove to the east). 
-- Continue down the hill until you reach the gate that guards the entrance to Treasure Island. 
+- Take I-80 East to the Bay Bridge.
+- Treasure Island is a left exit at the end of the San Francisco side span. The exit merges onto the road that runs down the west side of Yerba Buena Island (overlooking San Francisco to the west and Clipper Cove to the east).
+- Continue down the hill until you reach the gate that guards the entrance to Treasure Island.
 - Continue through the gate and take your first right onto California Ave.
-- As you proceed down California, you will see several large buildings on your right. After the last building, turn right on Avenue "I". 
+- As you proceed down California, you will see several large buildings on your right. After the last building, turn right on Avenue "I".
 - Drive straight (south) along the building to the facility.
 
 #### From Oakland (or points on the east side of San Francisco Bay)
 
-- Take I-80 west to the Bay Bridge. 
-- After the toll booths, merge into the far left lane. 
-- The exit for Yerba Buena/Treasure Island is a left exit at the end of the Oakland side span. 
-- Follow the exit road around to the west side of Yerba Buena Island. 
-- At the stop sign, merge onto the road that takes you down to the gates of Treasure Island. 
+- Take I-80 west to the Bay Bridge.
+- After the toll booths, merge into the far left lane.
+- The exit for Yerba Buena/Treasure Island is a left exit at the end of the Oakland side span.
+- Follow the exit road around to the west side of Yerba Buena Island.
+- At the stop sign, merge onto the road that takes you down to the gates of Treasure Island.
 - Continue through the gate and take your first right onto California Ave.
 
 ---
 
-## Update #2 
+## Update #2
 
 Feb 20 Update Follows
 
 ### Overview
 
--  Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about. 
+-  Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about.
 - Folder for Regatta Coordination
 - LB Poly & LB Wilson regatta coordination
 
 ### Cal Sailing Team will be offering tours of the UC Berkeley
 
-The Cal Sailing Team is excited to support TISC in hosting PCISA #4. Unlike years past, this year the Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about. In the following Google form, you can select what tour you want to go on as well as whether you are interested in the practice. Note that priority for the practice will be given to those who also sign up for the 1:30pm tour and that those doing the 5:00pm tour cannot practice. Additionally, for those attending our practice, please have this waiver signed before coming if you want to sail. 
+The Cal Sailing Team is excited to support TISC in hosting PCISA #4. Unlike years past, this year the Cal Sailing Team will be offering tours of the school with the team on the Friday before the regatta 2/23 at 1:30pm and 5:00pm. We are also hosting an open practice at 3:30pm at Treasure Island on Friday (2/23) to those sailors who want to see what Cal Sailing is all about. In the following Google form, you can select what tour you want to go on as well as whether you are interested in the practice. Note that priority for the practice will be given to those who also sign up for the 1:30pm tour and that those doing the 5:00pm tour cannot practice. Additionally, for those attending our practice, please have this waiver signed before coming if you want to sail.
 
 _Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
 
@@ -101,7 +101,7 @@ _Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
 -  **Practice Waiver:** [Regatta Folder](https://drive.google.com/drive/u/0/folders/1sLefrs2C0Dr9aQfFDhZ-3-T6FZA-nOUf)
 
 
-### News & Coordination 
+### News & Coordination
 
 - [LB Poly & LB Wilson Sailing coordination](https://docs.google.com/document/d/1UTYqVQaF3iQyMHbGbtZLW8UAZVJ4gJ-rA3Mh9rQPayc/edit)
 -  **Add More Docs:** [Regatta Coordination](https://drive.google.com/drive/u/0/folders/1sLefrs2C0Dr9aQfFDhZ-3-T6FZA-nOUf)
@@ -119,7 +119,7 @@ _Nikhil & Obi are signed up to attend 1:30p on Fri 2/23_
 
 #### Notice to Golden Bear Competitors
 
-**PARKING-**  Please review the attached parking map.  Do Not park in areas labeled in RED. The Treasure Island Sailing Center has limited parking in the immediate area of the event.  Trailer parking will be along the North fence of the sailing center.  Cars can only be parked in the GREEN areas shown on map. There are local businesses in the immediate area that need to provide parking to their customers. 
+**PARKING-**  Please review the attached parking map.  Do Not park in areas labeled in RED. The Treasure Island Sailing Center has limited parking in the immediate area of the event.  Trailer parking will be along the North fence of the sailing center.  Cars can only be parked in the GREEN areas shown on map. There are local businesses in the immediate area that need to provide parking to their customers.
 
 **WEATHER-** temps will be chilly this weekend.  We will likely not see above 60 degrees.  The water up in Nor Cal is still very cold. Please make sure to dress warmly and bring appropriate sailing gear.
 
@@ -139,7 +139,7 @@ We would appreciate it if you would purchase tickets online in advance at:
 
 https://hssailing.org/machform/view.php?id=72561
 
- 
+
 
 **T-SHIRTS-**  Regatta Shirts will be sold on site for $20 each, Cash Only.
 
