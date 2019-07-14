@@ -2,7 +2,7 @@ title: "Old Posts"
 location: sidebar
 timeframe: 2419200
 maxposts: 999
-date_format: "%m/%d %I:%M%P" # timestamp: https://shopify.github.io/liquid/filters/date/
+date_format: "%m/%d/%y %I:%M%P" # timestamp: https://shopify.github.io/liquid/filters/date/
 published: true
 
 # post_in_seconds
