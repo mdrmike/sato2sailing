@@ -69,22 +69,15 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 <!--more-->
 Please plan to arrive to [{{ page.venue.title }}]({{ page.venue.map }}) by 8:55a. Last year breakfast burritos were available at the beach hut on Saturday (and Sunday?); likely the the same this year. :dollar: CASH ONLY :dollar:
 
-#### Saturday
+{:.table .table-striped .table-bordered}
+|       | Saturday                                 |       | Sunday        
+| -----:| ---------------------------------------- | -----:|               
+|  8:50 | Meetup                                   |  9:00 | Meetup
+|  9:00 | Boat inspection and Team Check-In        |  9:30 | PCISA Meeting
+| 10:30 | Competitors’ Meeting                     | 10:30 | Skippers Meeting
+| 11:00 | First Warning                            | 15:30 | No Starts After
+| 17:00 |  Dinner & College Sailing Forum          | 17:00 | **Awards**    
 
--  0850                   Meetup  
--  0900                   Boat inspection and Team Check-In  
--  1030                   Competitors’ Meeting  
--  1100                   First Warning  
--  NO CUT OFF TIME  
--  1700                   Dinner & College Sailing Forum
-
-#### Sunday
-
--  0900                   Meetup  
--  0930                   PCISA Meeting
--  1030                   Skippers Meeting
--  1530                   No Starts After  
--  1700                   Trophy Presentations
 
 ### Weather Info for {{ page.title }}
 - <a href="https://www.windfinder.com/windstatistics/{{ page.windfinder.location }}">Wind: {{ page.windfinder.title }}</a>
