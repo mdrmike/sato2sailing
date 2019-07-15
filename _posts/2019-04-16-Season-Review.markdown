@@ -73,7 +73,7 @@ Below you can find a breakdown of our season results for each event by skipper/c
 
 Sato team rankings improved in our second year, finishing 25 out of 57 PCISA High School teams overall. In addition, PCISA was one of the most competitive divisions this season, [winning three of four National Championship races](https://pcisa.hssailing.org/news-results/full-post/awesome-season-end). Point Loma HS won ISSA Mallory Dinghy, and ISSA Baker Team Racing National Championships. In the fall of 2018, Newport Harbor won the Cressy Full Rig. PCISA is one of seven districts. MASSA and SAISA also were very competitive this year in nationals.
 
-Read below for details on how we improved together as a team.  Note, teams that won at nationals also practiced in healthy competitive environments in San Diego and Newport. Its great to see Long Beach teams competing against each other in practice.
+See table below for details of scores to gain a sense of how we improved together as a team. Its great to see Long Beach, Alamitos, and HB teams competing against each other and helping each other improve in practice. Teams that won at nationals also practiced in healthy competitive environments in San Diego and Newport.
 
 #### Socal Series
 
