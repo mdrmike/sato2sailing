@@ -1,0 +1,9 @@
+{% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+{% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
+
+{% if include.photo2 %}![{{ include.photo2.text }}]({{ include.photo2.url }})
+**{{ include.photo2.text }}**
+{% else %}
+![{{ include.photo1.text }}]({{ include.photo1.url }})
+**{{ include.photo1.text }}**
+{% endif %}
