@@ -13,6 +13,8 @@ All sailing skill levels are encouraged to join! The idea is to have fun and lea
 
 ## How to Join Sato Sailing Club
 
+_Please note, this information was based for 2018-19 school year. Prices for 2019-20 may differ. Reach out to us on [Sato Sailing Instagram](https://www.instagram.com/satosailing/) to learn more. [ABYC](https://www.abyc.org/high-school-sailing/high-school)._
+
 **Tuition is $700 per semester** (Fall & Spring), and is the single biggest expense. New for spring 2019, there is an option for single day  practice (Friday's only) for only $400. The fee covers the cost and maintenance of boats, sails, and towing trailers for away regattas. It also covers the cost for a professional coach for practices, and regattas, plus use of ABYC facilities to review video and have strategy "chalk talks."
 
 #### Steps to Join
@@ -36,7 +38,9 @@ ___*___ _- Please note these documents are publicly accessible (therefore option
 
 ## About Sato Sailing
 
-Sato High School Sailing Club started in 2017/18 school year. We participate in a two handed sailing league, which means there are two sailors per boat; one skipper & one crew. Sailing as a team sport encourages healthy competition with others in the league. Sailing as a team requires cooperation, and rewards clear communication, strategy, and anticipation. Many elements of engineering are applied in sailing, such as physics, [fluid dynamics](https://phys.org/news/2014-11-explore-unsteady-fluid-dynamics.html), [aerodynamics](http://web.mit.edu/2.972/www/reports/sail_boat/sail_boat.html), and [hydro dynamics](https://www.sciencedirect.com/science/article/pii/S1877705812016232), etc., and could provide opportunities for hands on exploration.  Sailing is an Olympic sport, and many colleges have sailing teams.  Our sailors participate in events that colleges attend to recruit High School students.
+Sato High School Sailing Club started in 2017/18 school year. We participate in a two handed sailing league, which means there are two sailors per boat; one skipper & one crew.
+
+Sailing as a team requires cooperation, and rewards clear communication, strategy, preparation, and learning to anticipate changes. Many elements of engineering are applied in sailing, such as physics, [fluid dynamics](https://phys.org/news/2014-11-explore-unsteady-fluid-dynamics.html), [aerodynamics](http://web.mit.edu/2.972/www/reports/sail_boat/sail_boat.html), and [hydro dynamics](https://www.sciencedirect.com/science/article/pii/S1877705812016232), etc., and could provide opportunities for hands on exploration.  Sailing is an Olympic sport, and many colleges have sailing teams.  Our sailors participate in events that colleges attend to recruit High School students.
 
 ### PCISA & ISSA
 
