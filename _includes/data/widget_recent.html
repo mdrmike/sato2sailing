@@ -33,4 +33,5 @@
   {% assign label_updated = '' %}
 {% endfor %}
 </ul>
+{% if site.data.widget_recent.more %}<a class="post-link" href="{{ site.data.widget_recent.more | relative_url }}">read more</a>{% endif %}
 {% endif %}

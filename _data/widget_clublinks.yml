@@ -1,26 +1,33 @@
 title: "Join"
 location: sidebar
-published: false
+published: true
 
 clinks:
+- text: Coming soon...
+  emoji:  information_source
+  url:
+  target: _blank
+
 - text: ABYC Registration
   emoji: dollar
   url: https://abyc.org/high-school-sailing/spring-highschool-sailing-registration
   target: _blank
-  published: true
+  published: false
 
 - text: Medical Form & Rules
   emoji: pencil
   url: https://d1p4n2439uoafh.cloudfront.net/images/junior/Medical_and_Code_of_Conduct.pdf
   target: _blank
-  published: true
+  published: false
 
 - text: Club Roster
   emoji: blue_book
   url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
   target: _blank
+  published: false
 
 - text: Carpooling to Practice
   emoji: car
   url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
   target: _blank
+  published: false

@@ -1,7 +1,7 @@
 current_regatta: "pcc" # Change this for each regatta to match data key below
 upcoming_regatta: ""
 location: sidebar
-published: true
+published: false
 
 #weather
   #url: "https://www.windfinder.com/forecast/stearns_wharf_santa_barbara"
@@ -25,24 +25,31 @@ published: true
 current-common:
 - title: "Useful PCISA Links"
   published: false # unpublished removes extra line, since title doesn't output link
+- text: PCISA Schedule
+  emoji:  calendar
+  url: https://pcisa.hssailing.org/schedule-results/2019/2020/pcisa-s
+  target: _blank
 - text: Sailor Rank 2018-19
   emoji: arrow_up_down
   url: https://scores.hssailing.org/f18/2018-19-pcisa-socal-silver/sailors/
   target: _blank
+  published: false
 - text: PCISA Current Standings
   #published: false
   emoji: triangular_flag_on_post
   url: https://scores.hssailing.org/f18/
   target: _blank
-- text: All HSS Scores
   published: false
+- text: All HSS Scores
   emoji: large_orange_diamond
   url: https://scores.hssailing.org/seasons/
   target: _blank
+  published: false
 - text: Spring Season Results
   emoji: bar_chart
   url: "https://scores.hssailing.org/schools/sato-academy-of-math/s19/"
   target: _blank
+  published: false
 
 upcoming-common:
 - text: #spacer

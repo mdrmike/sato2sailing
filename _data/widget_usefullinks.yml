@@ -1,6 +1,6 @@
 title: "Useful Links"
 location: sidebar
-published: true
+published: false
 #emoji_cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
@@ -9,15 +9,16 @@ clinks:
   emoji: car
   url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
   target: _blank
+  published: false
 
 - text: Regatta Sign-up
   emoji: triangular_flag_on_post
   url: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
-  published: true
+  published: false
 
-- text: PCISA 2018 Schedule
+- text: PCISA 2019-20 Schedule
   emoji: calendar
-  url: "https://pcisa.hssailing.org/schedule/2018/2019/pcisa-s"
+  url: "https://pcisa.hssailing.org/schedule-results/current/2019/2020/socal-s"
   target: _blank
 
 - text: Club Roster
@@ -29,6 +30,7 @@ clinks:
   emoji: file_folder
   url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2"
   target: _blank
+  published: false
 
 - text: Regatta Coordination
   emoji: small_orange_diamond
@@ -57,7 +59,7 @@ clinks:
   emoji: moneybag
   url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
   target: _blank
-  published: false
+  #published: false
 
 - text: Go Fund Me
   emoji: moneybag
@@ -65,12 +67,12 @@ clinks:
     Sato doesn't have sports teams. To make matters worse, even if Sato did pay for sports, sailing is not a [CIF sport](http://www.cifstate.org/navbar-sports) and still wouldn't have school funding, even though it's an Olympic sport and many Colleges have sailing teams.
   url: https://www.gofundme.com/sato-academy-sailing-team
   target: _blank
-  published: false
+  #published: false
 
 - emoji: sailboat
   url: "https://docs.google.com/document/d/1r6rolxUriRyGGoCFj3L0xZI5NrpF6LRfX-YenjhCK1U"
   text: Sato Dragons Sailing Club
-  published: false
+  #published: false
 
 
 
