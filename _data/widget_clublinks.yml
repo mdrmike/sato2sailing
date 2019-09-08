@@ -3,9 +3,13 @@ location: sidebar
 published: true
 
 clinks:
-- text: Coming soon...
+- text: Parent (+ Sailors) Meeting
+  emoji:  large_orange_diamond
+  url: /2018-19/news/Season-Kickoff/#meeting
+
+- text: ABYC Information Packet
   emoji:  information_source
-  url:
+  url: /assets/posts/2019-20/HS_ Sailing_2019-2020.pdf
   target: _blank
 
 - text: ABYC Registration

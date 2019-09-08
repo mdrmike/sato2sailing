@@ -1,8 +1,8 @@
 ---
 title: "2019-20 Season Kickoff"
 date: 2019-09-05 16:30:00 -0700
-last_modified_at: 2019-09-05 16:30:00 -0700
-modified_count: 0
+last_modified_at: 2019-09-08 13:30:00 -0700
+modified_count: 1
 title_alert: "Season Kickoff Meeting"
 categories: [ 2018-19, news ]
 #image for RSS (typically same URL as photo1 widget)
@@ -33,14 +33,16 @@ signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzA
 
 Interested in sailing with us? No experience needed. Come visit our table during club drive, come to a meeting, or reach out to us on [Instagram][SatoSailingIG] or [Facebook][SatoSailingFB].
 
-## Informational Meeting at ABYC
+## Informational Meeting {#meeting}
 
 {:.table .table-striped .table-condensed}
-**Date:**  |  Wed Sep 11th
-**Time:**  | TBD (likely ~6 or 7ish ... We'll update once we know)  
-**Where:** | [ABYC][ABYC]  
+:date: | **Date:**  | Wed Sep 11th
+:watch: | **Time:**  | 5:50pm :sparkles:
+:round_pushpin:  | **Where:** | Alamitos Bay Yacht Club [Map to ABYC][ABYC]  
+:orange_book: | **Info:** | [HS Sailing Packet from ABYC][ABYC Packet] :sparkles:
 
-## Preliminary Schedule
+
+## Information
 
 First Practice is scheduled for **Wed Sep 18th.**  Tentative practices schedule is currently planned for after school **Wednesdays & Fridays 3-6 pm**. Sailors are responsible for their own transportation, but that could mean coordinating carpooling with other sailors & parents who take turns driving kids on the team to [ABYC]. _Practice days and time is still subject to change. We'll update once its locked down._
 
@@ -70,5 +72,6 @@ Sailing teaches independence, turning a plan into action, and adjusting to real 
 
 [sign-up]:     https://pcisa.hssailing.org/mailing-list                       "sign-up"
 
+[ABYC Packet]: /assets/posts/2019-20/HS_Sailing_2019-2020.pdf
 [SatoSailingIG]:   https://www.instagram.com/satosailing/      "Sato Sailing Club - Instagram Account"
 [SatoSailingFB]:   https://www.facebook.com/satosailing.club/  "Sato Sailing Club - Facebook Page"
