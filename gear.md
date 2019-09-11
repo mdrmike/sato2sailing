@@ -158,3 +158,11 @@ These shops are local to Long Beach Area.
 -   [West Coast Sailing](https://westcoastsailing.net/scholastic-sailing) (15% Discount code for HS Sailing: **ISSA**)
 -   [Sound Boatworks](https://www.shopsoundboatworks.com/) (20% discount code for HS Sailing: **scholastic**) _Holiday Season Savings - up to 35% discount!_
 -   [APS: Annapolis Pro Sailing](http://www.apsltd.com/) (20% discount code: **highschool** [Click for Instructions](http://www.apsltd.com/issa-high-school-team-member-order.html))
+
+
+
+
+
+[//]: # (Comment: Links)
+[sale-hh-men-s]: https://www.hellyhansen.com/en_us/mens/shop-by/na-sale?product_list_order=price_low_high&product_use_for=inshore_sailing,dinghy_lifestyle,coastal_sailing&size=261700
+[sale-hh-men-m]:

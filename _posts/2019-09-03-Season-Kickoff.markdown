@@ -1,7 +1,7 @@
 ---
 title: "2019-20 Season Kickoff"
 date: 2019-09-05 16:30:00 -0700
-last_modified_at: 2019-09-08 13:30:00 -0700
+last_modified_at: 2019-09-11 16:25:00 -0700
 modified_count: 1
 title_alert: "Season Kickoff Meeting"
 categories: [ 2018-19, news ]
@@ -37,7 +37,7 @@ Interested in sailing with us? No experience needed. Come visit our table during
 
 {:.table .table-striped .table-condensed}
 :date: | **Date:**  | Wed Sep 11th
-:watch: | **Time:**  | 5:50pm :sparkles:
+:watch: | **Time:**  | 5:30pm :boom: :eyes:
 :round_pushpin:  | **Where:** | Alamitos Bay Yacht Club [Map to ABYC][ABYC]  
 :orange_book: | **Info:** | [HS Sailing Packet from ABYC][ABYC Packet] :sparkles:
 
