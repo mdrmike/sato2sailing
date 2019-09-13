@@ -1,8 +1,8 @@
 ---
 title:  "SoCal1: NHYC"
 date:   2019-09-08 15:00:00 -0700
-last_modified_at: 2019-09-08 15:00:00 -0700
-modified_count: 0
+last_modified_at: 2019-09-13 12:00:00 -0700
+modified_count: 1
 title_alert: "Season Kickoff Meeting"
 categories: [ 2019-20, socal ]
 
@@ -19,29 +19,45 @@ entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
 
 <div class="alert alert-info" markdown="1">
 
+### Socal1 Schedule Overview
+
+
+
+{:.table .table-striped .table-condensed}
+| Time | Details |
+| ----:| ------------------------------------------------------------------------------------------------- |
+  0830 | Event Staff Meeting (Host Club representative, PRO, scorers, registration table staff)
+  0830 | Sato Sailors meet at trailer in [NHYC parking lot (map)]({{page.map}}). Kids unload boats and setup.
+  0900 | Boat check-in (get in boat line early)
+  1000 | Onsite registration closes
+  1000 | Competitor's meeting and Coaches Meeting
+  1100 | First Warning
+  1600 | Deadline for Starting Last Race
+  1700 | Awards (or soon as possible after racing)  
+
+
+Please fill-out and turn-in ABYC Sign-up form handed out at the PArent Meeting at ABYC on Wed 9/11.
+
+**Competitors participate in the regattas entirely at their own risk. See RRS 4, Decision to Race. The team coach/parent/adult is the final authority for each team. The OA & Sato Sailing Club will not accept any liability for material damage or personal injury or death sustained in conjunction with or prior to, during, or after the regatta.**
+
+</div>
 ## {{ page.title }}
 
-Our first regatta of the season is Saturday Sep 14.  Then next is Oct 12-13.  Our complete schedule is on our [calendar](/calendar/) or you can always follow along on [PCISA website](https://pcisa.hssailing.org/schedule-results/2019/2020/pcisa-s). We'll be traveling to our first regatta with McBride, who has helped arrange coach/coach boat for the weekend. All sailors must confirm with team by Thursday 9/12. Regattas in the future require sign-up commitment much sooner.
+Our first regatta of the season is Saturday Sep 14.  Then next is Oct 12-13.  Our complete schedule is on our [calendar](/calendar/) or you can always follow along on [PCISA website](https://pcisa.hssailing.org/schedule-results/2019/2020/pcisa-s). We've arranged coaching from Cabrillo Beach Yacht Club (CBYC). Be sure to Thank Coach Alex Smith, and McBride parent Aaron Feves, who has helped connect us with a coach for the weekend. Regattas in the future require sign-up commitment much sooner. Regattas in the future require sign-up commitment 2-3 weeks in advance. So also plan to let us know if you'll be traveling to Sea Otter in Monterrey. (It's one of the coolest regattas of the year).
 
--  All sailors must confirm by this Thursday. Regattas in the future require sign-up commitment 2-3 weeks in advance. So also plan to let us know if you'll be travelling to Sea Otter in Monterrey. (It's one of the coolest regattas.
+
+### Details
 
 -  Regatta at <a href="{{ page.map }}" target="_blank">Newport Harbor Yacht Club (NHYC)</a>
--  Meet for morning call by 9:00am
+-  8:30 arrival and 9:00am morning call.
 -  If parents aren't attending, they need to coordinate a chaperon/carpool, etc.
 -  Still have a question and not sure who to call? Talk to your sailor... ask them to share team roster.
+-  It'll be hot Saturday!
 -  Be prepared: Weather appropriate <a href="/apparel/">apparel</a> plus: Life jacket, gloves, watch,
     **Weather protection:** sun screen, hat, glasses, change of clothes, towel,
     **Sustenance:** snacks, water, etc.
 -  <strong>Note:</strong> for each regatta there are links specific to the regatta, <a class="btn btn-default btn-sm" role="button"  href="{{page.map}}" target="_blank">such as map</a>. Always check the sidebar links, they change for each event.
 
-
-## Reminder About Parent Meeting
-
-See [Kickoff post](/2018-19/news/Season-Kickoff/) for details.
-
-
-
-</div>
 <!--more-->
 
 
