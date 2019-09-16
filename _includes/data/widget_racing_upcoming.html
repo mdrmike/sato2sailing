@@ -1,5 +1,5 @@
 {% if site.data.widget_upcoming.published != false %}
-{% assign upcoming_event = site.data.widget_racing[site.data.widget_racing.upcoming_regatta] %}
+{% assign upcoming_event = site.data.widget_racing_2019_20[site.data.widget_racing_2019_20.upcoming_regatta] %}
 {% if upcoming_event[0].title %}<h3>Upcoming: {{ upcoming_event[0].title | escape }}</h3>{% endif %}
 <ul class="post-list text-muted list-unstyled">
 {% for link in upcoming_event %}
@@ -12,7 +12,7 @@
   {% endif %}
 {% endfor %}
 
-{% for link in site.data.widget_racing.upcoming-common %}
+{% for link in site.data.widget_racing_2019_20.upcoming-common %}
   {% if link.published != false %}
   <li>
     <h4>{% if link.emoji %}:{{ link.emoji }}:{% else %}&nbsp;{% endif %} <a href="{{ link.url }}" rel="nofollow" target="{{ link.target }}">{{ link.text }}</a></h4>
@@ -20,7 +20,7 @@
   {% endif %}
 {% endfor %}
 
-{% for link in site.data.widget_racing.current-common %}
+{% for link in site.data.widget_racing_2019_20.current-common %}
 {% if link.title %}<h3>{{ link.title | escape }}</h3>{% endif %}
   {% if link.published != false %}
   <li>

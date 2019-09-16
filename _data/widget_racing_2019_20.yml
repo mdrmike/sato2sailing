@@ -1,5 +1,6 @@
-current_regatta: "socal1" # Change this for each regatta to match data key below
-upcoming_regatta: ""
+current_regatta: "" # Change this for each regatta to match data key below
+upcoming_regatta: "pcisa1"
+past_regatta: "socal1"
 location: sidebar
 published: true
 
@@ -25,7 +26,7 @@ published: true
 current-common:
 - title: "Useful PCISA Links"
   published: false # unpublished removes extra line, since title doesn't output link
-- text: PCISA Schedule
+- text: PCISA 2019-20 Schedule
   emoji:  calendar
   url: https://pcisa.hssailing.org/schedule-results/2019/2020/pcisa-s
   target: _blank
@@ -45,19 +46,42 @@ current-common:
   url: https://scores.hssailing.org/seasons/
   target: _blank
   published: false
-- text: Spring Season Results
-  emoji: bar_chart
+- text: Fall 2018 Results
+  emoji: chart_with_upwards_trend
+  url: "https://scores.hssailing.org/schools/sato-academy-of-math/f18/"
+  target: _blank
+- text: Spring 2019 Results
+  emoji: chart_with_downwards_trend
   url: "https://scores.hssailing.org/schools/sato-academy-of-math/s19/"
   target: _blank
-  published: false
+- text: Current Season
+  emoji: bar_chart
+  url: "https://scores.hssailing.org/schools/sato-academy-of-math/f19/"
+  target: _blank
 
 upcoming-common:
 - text: #spacer
   published: flase
 
 pcisa1:
-- title: "PCISA1: Sea Otter"
+- title: "PCISA1: Monterey Bay"
   published: false # unpublished removes extra line, since title doesn't output link
+- text: "Event: Monterey Oct 12-13"
+  #published: false
+  emoji: shell
+  url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
+  target: _blank
+- text: "PCISA1: Notice of Race (NOR)"
+  emoji: information_source
+  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/2019-Sea-Otter-Regatta-NOR.pdf"
+  target: _blank
+  #published: false
+- text: "PCISA1: Map to MPYC"
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
+  target: _blank
+  published: true
+
 - text: Sailors Instructions (course)
   published: false
   emoji: memo
@@ -78,25 +102,11 @@ pcisa1:
   url:
   published: false
   #target: _blank
-- text: "PCISA1: Map to MPYC"
-  emoji: earth_americas
-  url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
-  target: _blank
-  #published: false
-- text: "Event: Monterey Oct 13-14 (website)"
-  #published: false
-  emoji: shell
-  url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
-  target: _blank
+
 - text: "Event: Logistics & Reminders"
   url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
   target: _blank
   emoji: memo
-- text: "PCISA1: Notice of Race (NOR)"
-  emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2018-Sea-Otter-Regatta-NOR.pdf"
-  target: _blank
-  #published: false
 
 pcisa2:
 - title: "PCISA2: UCI Anteater"
@@ -380,42 +390,40 @@ pcc:
 
 
 socal1:
-- title: "SoCal 1 Regatta Links"
+- title: "SoCal 1 Regatta"
   published: false # removes extra line, since this is a title not a link
-- text: Map to NHYC
-  published: true
-  emoji: earth_americas
-  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
-  target: _blank
-- text: "PCISA Parent Meeting"
-  published: true
-  emoji: point_right
-  url: https://pcisa.hssailing.org/schedule-results/details/pcisa-socal-meeting19
-  target: _blank
-- text: "SoCal1: Notice of Race (NOR)"
-  published: true
-  emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
-  target: _blank
 - text: SoCal1 @ NHYC
   emoji: one
   url: "https://pcisa.hssailing.org/schedule-results/details/pcisa-socal-1-19"
   target: _blank
-  published: true
+- text: Map to NHYC
+  emoji: earth_americas
+  url: https://www.google.com/maps/place/Newport+Harbor+Yacht+Club/@33.6053653,-117.9096753,15z/data=!4m5!3m4!1s0x0:0xdd5113b21488522f!8m2!3d33.6053653!4d-117.9096753
+  target: _blank
+- text: "PCISA Meeting: Parent/Team Leaders (NHYC@11a)"
+  emoji: point_right
+  url: https://pcisa.hssailing.org/schedule-results/details/pcisa-socal-meeting19
+  target: _blank
+- text: "SoCal1: Notice of Race (NOR)"
+  emoji: information_source
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
+  target: _blank
 - text: #spacer
+  published: false
 - text: Wind + Weather
   emoji: umbrella
   url: https://wind.willyweather.com/ca/orange-county/newport-bay--harbor-island.html
   target: _blank
+  published: false
 - text: #spacer
+  published: false
 - text: Silver Scores
   emoji: checkered_flag
   url: https://scores.hssailing.org/f19/2019-20-pcisa-socal-silver/
-  published: false
   target: _blank
 - text: Gold Scores
   emoji: trophy
-  url: https://scores.hssailing.org/f18/2019-20-pcisa-socal-gold/
+  url: https://scores.hssailing.org/f19/2019-20-pcisa-socal-gold/
   target: _blank
   published: false
 
