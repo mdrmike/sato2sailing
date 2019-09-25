@@ -7,9 +7,9 @@ published: true
 clinks:
 - text: Carpooling to Practice
   emoji: car
-  url: "https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI"
+  url: "https://docs.google.com/spreadsheets/d/19ZG0tYGOXD8LMIOwY240rdt58P2WcdY5JMgPEWEsfQ8"
   target: _blank
-  published: false
+  published: true
 
 - text: Regatta Sign-up
   emoji: triangular_flag_on_post
@@ -18,19 +18,19 @@ clinks:
 
 - text: Club Roster
   emoji: blue_book
-  url: "https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA"
+  url: "https://docs.google.com/spreadsheets/d/1mZEICnBdh0WlsnHH3mcl4FEKV-7PGBxjQNj3gijVaFA"
   target: _blank
   published: false
 
 - text: Shared Folder
   emoji: file_folder
-  url: "https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2"
+  url: "https://drive.google.com/drive/folders/11n6fULg_J_n95uX9ZsypvuEMG9izRAC7"
   target: _blank
   #published: false
 
 - text: Regatta Coordination
   emoji: small_orange_diamond
-  url: "https://drive.google.com/drive/folders/10KzSuppw7rxr0VAsg3jT9MW__Juhk7T5"
+  url: ""
   published: false
 
 - emoji: art
@@ -53,7 +53,7 @@ clinks:
 
 - text: Club Fund-raising
   emoji: moneybag
-  url: "https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg"
+  url: "https://drive.google.com/drive/folders/1y50th8dYi9QxHCzflovHe3mgpLqw_x8M"
   target: _blank
   #published: false
 

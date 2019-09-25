@@ -22,7 +22,7 @@ If you're interested in joining our club, start on the [About Sato Sailing page]
 
 ![{{ photo2.text }}]({{ photo2.url }})
 
-This is where you'll learn all about the program, find registration info, and further instructions. The latest information is always found in the club :file_folder: <a href="https://drive.google.com/drive/folders/1I5wHKgolv5CZQIhUXuQevwgc3EAY0J_2" rel="nofollow" target="_blank">Shared folder</a>. This folder provides full read, edit, and create access to all the shared documents about the club. They are updated often, by all parents & sailors.  We share info about the club, coordinate carpooling to practice and regattas, coordinate fund-raising activities, and more!
+This is where you'll learn all about the program, find registration info, and further instructions. The latest information is always found in the club :file_folder: <a href="https://drive.google.com/drive/folders/11n6fULg_J_n95uX9ZsypvuEMG9izRAC7" rel="nofollow" target="_blank">Shared folder</a>. This folder provides full read, edit, and create access to all the shared documents about the club. They are updated often, by all parents & sailors.  We share info about the club, coordinate carpooling to practice and regattas, coordinate fund-raising activities, and more!
 
 
 ### Sailing Organizations

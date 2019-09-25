@@ -21,8 +21,8 @@ _Please note, this information was based for 2018-19 school year. Prices for 201
 
 1.  [ABYC: Tuition and Semester Registration](https://abyc.org/high-school-sailing/spring-highschool-sailing-registration)
 1.  ABYC: Important! Print, Sign & Return: [Medical Form & Club Code of Conduct](https://d1p4n2439uoafh.cloudfront.net/images/junior/Medical_and_Code_of_Conduct.pdf)
-1.  SATO: Add your info to [Club Roster](https://docs.google.com/spreadsheets/d/1FO_0DI7mmTIUni8JgHmszItVf_4T4efpImZvPp0ffXA)___*___
-1.  SATO: Add your info to [Carpooling](https://docs.google.com/spreadsheets/d/1jJrCoJa86PEiDSFBmZDywH-jzTyYeMlsQzKO14BaiFI)___*___
+1.  SATO: Add your info to [Club Roster](https://docs.google.com/spreadsheets/d/1mZEICnBdh0WlsnHH3mcl4FEKV-7PGBxjQNj3gijVaFA)___*___
+1.  SATO: Add your info to [Carpooling](https://docs.google.com/spreadsheets/d/19ZG0tYGOXD8LMIOwY240rdt58P2WcdY5JMgPEWEsfQ8)___*___
 
 ___*___ _- Please note these documents are publicly accessible (therefore optional). The goal is easy coordination and sharing of info without a lot of email/texts._
 
