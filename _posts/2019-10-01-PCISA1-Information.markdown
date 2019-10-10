@@ -1,7 +1,7 @@
 ---
 title:  "PCISA1: CSUMB Sea Otter"
-date:             2019-10-10 12:00:00 -0700
-last_modified_at: 2019-10-10 12:00:00 -0700
+date:             2019-10-10 12:00:01 -0700
+last_modified_at: 2019-10-10 12:00:01 -0700
 modified_count: 0
 title_alert: "Sea Otter Regatta Oct 12-13"
 categories: [ 2019-20, PCISA ]
