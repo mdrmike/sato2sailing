@@ -1,5 +1,5 @@
-current_regatta: "" # Change this for each regatta to match data key below
-upcoming_regatta: "pcisa1"
+current_regatta: "pcisa1" # Change this for each regatta to match data key below
+upcoming_regatta: "socal2"
 past_regatta: "socal1"
 location: sidebar
 published: true
@@ -71,9 +71,13 @@ pcisa1:
   emoji: shell
   url: "https://pcisa.hssailing.org/event/home/sea-otter/183"
   target: _blank
+- text: "Event: Logistics & Reminders"
+  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNUIxdHVqblNtbWlBcGh5YVRBdXFUSWdBVmdV/view?usp=sharing"
+  target: _blank
+  emoji: memo
 - text: "PCISA1: Notice of Race (NOR)"
   emoji: information_source
-  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/2019-Sea-Otter-Regatta-NOR.pdf"
+  url: "https://scores.hssailing.org/f19/sea-otter-silver/notices/notice-race.pdf"
   target: _blank
   #published: false
 - text: "PCISA1: Map to MPYC"
@@ -81,6 +85,23 @@ pcisa1:
   url: https://www.google.com/maps/place/Monterey+Peninsula+Yacht+Club/@36.6020501,-121.8920127,17z/data=!3m1!4b1!4m5!3m4!1s0x808de418438faccb:0x7874f873f0a478a5!8m2!3d36.6020501!4d-121.889824
   target: _blank
   published: true
+- text: #spacer
+- text: Sailors Instructions (course)
+  published: true
+  emoji: memo
+  url: "https://scores.hssailing.org/f19/sea-otter-silver/notices/sailing-instructions.pdf"
+  target: _blank
+- text: "Rotations (Sail Numbers)"
+  #published: false
+  emoji: arrows_clockwise
+  url: "https://scores.hssailing.org/f19/sea-otter-silver/rotations/"
+  target: _blank
+- text: "Silver Scores"
+  #published: false
+  emoji: checkered_flag
+  url: "https://scores.hssailing.org/f19/sea-otter-silver/"
+  target: _blank
+
 
 - text: Sailors Instructions (course)
   published: false
@@ -97,16 +118,6 @@ pcisa1:
   url: "https://scores.hssailing.org/f18/sea-otter-silver/"
   target: _blank
   published: false
-- text: #spacer
-  emoji:
-  url:
-  published: false
-  #target: _blank
-
-- text: "Event: Logistics & Reminders"
-  url: "https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
-  target: _blank
-  emoji: memo
 
 pcisa2:
 - title: "PCISA2: UCI Anteater"
