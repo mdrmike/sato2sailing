@@ -1,8 +1,8 @@
 ---
-title:  "Sailing Practice + Upcoming PCISA1"
+title:  "Sailing Practice + SoCal1 Results"
 date:             2019-09-15 18:00:00 -0700
-last_modified_at: 2019-09-15 18:00:00 -0700
-modified_count: 0
+last_modified_at: 2019-10-10 12:00:00 -0700
+modified_count: 1
 title_alert: "Sailing Practice Starts Friday 9/20"
 categories: [ 2019-20, pcisa ]
 
@@ -22,7 +22,7 @@ entrylist: "https://hssailing.org/machform/widget.php?key=90340xeb2ffe3c5d"
 <div class="alert alert-info" markdown="1">
 ## Amazing Season Start
 
-If you're interested in sailing, reach out to us at school (we meet Tuesday's in Ms Saeed's room), our [Facebook Page], or on [Instagram]. We welcome anyone interested in sailing and willing to work at learning more about how sailing works. We're a fun welcoming club and we're off to a great start to our season in our first regatta! Two of our boats tied for first place in silver division, with a total of only 15 points each. With six races scored, that meant both boats averaged 2½ place finish. Scoring rules meant that _Nikhil Stewart (junior) & Tyler Hoang (junior)_ received the first place trophy due to the "Number of high-place (1st) finishes" over _Preston Woodworth (freshman) & Diego Lockyer (junior)._  But in the end both teams finished with trophy's and happy with their performance.
+If you're interested in sailing, reach out to us at school (we meet Tuesday's in Ms Saeed's room), our [Facebook Page][SatoSailingFB], or on [Instagram][SatoSailingIG]. We welcome anyone interested in sailing and willing to work at learning more about how sailing works. We're a fun welcoming club and we're off to a great start to our season in our first regatta! Two of our boats tied for first place in silver division, with a total of only 15 points each. With six races scored, that meant both boats averaged 2½ place finish. Scoring rules meant that _Nikhil Stewart (junior) & Tyler Hoang (junior)_ received the first place trophy due to the "Number of high-place (1st) finishes" over _Preston Woodworth (freshman) & Diego Lockyer (junior)._  But in the end both teams finished with trophy's and happy with their performance.
 
 The third place boat was also from Long Beach, with 26 points, from Long Beach Wilson. Also of note, our borrowed coach, Alex Smith (CBYC), had five of the top six boats in the fleet of 17!
 
@@ -54,3 +54,5 @@ Looking forward, our next regatta requires travel and planning. Oct 12-13 is PCI
 
 [Register]: https://drive.google.com/file/d/0B1BmCT4HlfrzRUtHcjgxelN4OWRjbTZtX2lfcHl3WnhDdWFJ/view?usp=sharing "ABYC Registration Packet"
 [ABYC]:    https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817  "Alamitos Bay Yacht Club"
+[SatoSailingIG]:   https://www.instagram.com/satosailing/      "Sato Sailing Club - Instagram Account"
+[SatoSailingFB]:   https://www.facebook.com/satosailing.club/  "Sato Sailing Club - Facebook Page"
