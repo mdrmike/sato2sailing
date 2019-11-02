@@ -1,6 +1,6 @@
-current_regatta: "pcisa1" # Change this for each regatta to match data key below
-upcoming_regatta: "socal2"
-past_regatta: "socal1"
+current_regatta: "socal2" # Change this for each regatta to match data key below
+upcoming_regatta: "pcisa2"
+past_regatta: "pcisa1"
 location: sidebar
 published: true
 
@@ -447,11 +447,11 @@ socal2:
   target: _blank
 - text: "SoCal2: Notice of Race (NOR)"
   emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
 - text: SoCal1 @ NHYC
   emoji: two
-  url: "https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal"
+  url: "https://pcisa.hssailing.org/schedule-results/current/2019/2020/pcisa-s"
   target: _blank
 - text: #spacer
 - text: Wind + Weather
@@ -462,12 +462,12 @@ socal2:
 - text: Silver Scores
   published: true
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal2-silver/"
+  url: "https://scores.hssailing.org/f19/2019-20pcisa-socal-silver/"
   target: _blank
 - text: Gold Scores
   published: true
   emoji: trophy
-  url: "https://scores.hssailing.org/f18/2019-18-pcisa-socal2-gold/"
+  url: "https://scores.hssailing.org/f19/2019-20pcisa-socal-silver/"
   target: _blank
 - text: #spacer
 
@@ -482,7 +482,7 @@ socal3:
   target: _blank
 - text: "SoCal3: Notice of Race (NOR)"
   emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
 - text: SoCal3 @ MBYC
   emoji: three
@@ -532,7 +532,7 @@ socal4:
   published: false
 - text: "SoCal4: Notice of Race (NOR)"
   emoji: information_source
-  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf
+  url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
   #published: false
 - text: #spacer
@@ -574,7 +574,7 @@ socal5:
   target: _blank
 - text: "SoCal5: Notice of Race (NOR)"
   emoji: information_source
-  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf"
+  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf"
   target: _blank
   #published: false
 - text: "SoCal Series 2018-19"

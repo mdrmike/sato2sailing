@@ -1,0 +1,68 @@
+---
+title:  "Socal2 at BHYC"
+date:             2019-11-02 12:00:01 -0700
+last_modified_at: 2019-11-02 12:00:01 -0700
+modified_count: 0
+title_alert: "Socal2 Information"
+categories: [ 2019-20, PCISA ]
+
+photo1: 2018seaotter-nikhil-elissa
+photo2:
+
+signup-emoji: ":triangular_flag_on_post:"
+signup: "https://docs.google.com/forms/d/e/1FAIpQLSePOXdW--1sn6oYcNezOHPHldTjDzAE-2wFDntbsxmvjt3scw/viewform"
+
+venue:
+  title: "Bahia Corinthian Yacht Club (BCYC)"
+  maptitle: "BCYC (Map)"
+  map:  "https://www.google.com/maps/place/Bahia+Corinthian+Yacht+Club/@33.6069645,-117.8852635,15z/data=!4m5!3m4!1s0x0:0x8ff6aa979352eaba!8m2!3d33.6069645!4d-117.8852635"
+nor: "https://hssailing.org/schedule_news/docs/pcisa_docs/2018-2019-PCISA-SoCal-NOR.pdf"
+entrylist: "https://hssailing.org/machform/widget.php?key=119683x52b9e8fa4b"
+
+windfinder:
+  unit_wave: "ft"
+  unit_rain: "in"
+  unit_temperature: "f"
+  unit_wind: "mph" #kts
+  days: 3
+  show_day: 1
+
+---
+{% assign photo1 = site.data.widget_photos[page.photo1] %}
+{% assign photo2 = site.data.widget_photos[page.photo2] %}
+
+{% include data/widget_main_photo.html photo1=photo1 photo2=photo2 %}
+
+<div class="alert alert-info" markdown="1">
+## {{ page.title_alert }}
+
+Check back for more info about upcoming Anteater and results from SoCal2.
+
+
+</div>
+<div class="well" role="alert" markdown="1">
+
+**Venue:**  [{{page.venue.title}}]({{page.venue.map}})
+
+**Schedule:**
+
+-  0845 [Meetup]({{page.venue.map}})
+-  0900 Boat check-in
+-  1000 Onsite registration closes
+-  1000 Competitor's meeting and Coaches Meeting
+-  1100 First Warning
+-  1600 Deadline for Starting Last Race
+-  1700 Awards (or soon as possible after racing)  
+
+</div>
+
+
+
+
+[//]: # (Comment: Links)
+
+[Register]: https://drive.google.com/file/d/0B1BmCT4HlfrzRUtHcjgxelN4OWRjbTZtX2lfcHl3WnhDdWFJ/view?usp=sharing "ABYC Registration Packet"
+[ABYC]:    https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817  "Alamitos Bay Yacht Club"
+[SatoSailingIG]:   https://www.instagram.com/satosailing/      "Sato Sailing Club - Instagram Account"
+[SatoSailingFB]:   https://www.facebook.com/satosailing.club/  "Sato Sailing Club - Facebook Page"
+[PCISA1 reminders]:       https://drive.google.com/file/d/0B1BmCT4HlfrzNUIxdHVqblNtbWlBcGh5YVRBdXFUSWdBVmdV/view?usp=sharing  "PCISA 2019 Sea Otter Reminders"
