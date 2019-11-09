@@ -1,6 +1,6 @@
-current_regatta: "socal2" # Change this for each regatta to match data key below
-upcoming_regatta: "pcisa2"
-past_regatta: "pcisa1"
+current_regatta: "pcisa2" # Change this for each regatta to match data key below
+upcoming_regatta: "socal3"
+past_regatta: "socal2"
 location: sidebar
 published: true
 
@@ -124,7 +124,7 @@ pcisa2:
   published: false # unpublished removes extra line, since title doesn't output link
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/anteater-silver/"
+  url: "https://scores.hssailing.org/f19/pcisa-anteater-silver/"
   target: _blank
   #published: false
 - text: Wind + Weather
