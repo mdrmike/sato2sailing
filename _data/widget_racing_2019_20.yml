@@ -1,6 +1,6 @@
-current_regatta: "pcisa2" # Change this for each regatta to match data key below
-upcoming_regatta: "socal3"
-past_regatta: "socal2"
+current_regatta: "socal3" # Change this for each regatta to match data key below
+upcoming_regatta: "PCISA3"
+past_regatta: "PCISA2"
 location: sidebar
 published: true
 
@@ -155,7 +155,7 @@ pcisa2:
   published: false
 - text: "PCISA2: Notice of Race (NOR)"
   emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/18_Anteater_NOR.pdf"
+  url: "https://hssailing.org/schedule_news/docs/pcisa_docs/19_Anteater_NOR.pdf"
   target: _blank
   #published: false
 
@@ -474,19 +474,19 @@ socal2:
 
 
 socal3:
-- title: "SoCal3 Regatta (MBYC)"
+- title: "SoCal3 Regatta (SWYC)"
   published: false # unpublished removes extra line, since title doesn't output link
-- text: Map to MBYC
+- text: Map to SWYC
   emoji: earth_americas
-  url: "https://www.google.com/maps/place/Mission+Bay+Yacht+Club/@32.778919,-117.2496288,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc01e1db2ec19f:0x3c54b40aae519695!8m2!3d32.778919!4d-117.2474401"
+  url: "https://www.google.com/maps/place/Southwestern+Yacht+Club/@32.7145094,-117.2359967,17z/data=!3m1!4b1!4m5!3m4!1s0x80deab9740925caf:0xd74a2dfe0796aa41!8m2!3d32.7145049!4d-117.233808"
   target: _blank
 - text: "SoCal3: Notice of Race (NOR)"
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
-- text: SoCal3 @ MBYC
+- text: SoCal3 @ SWYC
   emoji: three
-  url: "https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal"
+  url: "https://pcisa.hssailing.org/schedule/2019/2020/socal-s"
   target: _blank
 - text: #spacer
 - text: Wind + Weather
@@ -495,18 +495,22 @@ socal3:
   target: _blank
 - text: #spacer
 - text: Silver Scores
+  published: false
   emoji: checkered_flag
   url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/"
   target: _blank
 - text: Gold Scores
+  published: false
   emoji: trophy
   url: "https://scores.hssailing.org/f18/2019-18-pcisa-socal3-gold/"
   target: _blank
 - text: SoCal3 Silver Races
+  published: false
   emoji: 1234
   url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/full-scores/"
   target: _blank
 - text: Rotations (Sail Numbers)
+  published: false
   emoji: arrows_clockwise
   url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/rotations/"
   target: _blank
