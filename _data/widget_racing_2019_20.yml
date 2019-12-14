@@ -495,24 +495,24 @@ socal3:
   target: _blank
 - text: #spacer
 - text: Silver Scores
-  published: false
+  published: true
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/"
+  url: "https://scores.hssailing.org/f19/2019-20-pcisa-socal-3silver/"
   target: _blank
 - text: Gold Scores
-  published: false
+  published: true
   emoji: trophy
-  url: "https://scores.hssailing.org/f18/2019-18-pcisa-socal3-gold/"
+  url: "https://scores.hssailing.org/f19/2019-20-pcisa-socal-3gold/"
   target: _blank
-- text: SoCal3 Silver Races
-  published: false
+- text: SoCal3 Gold Races
+  published: true
   emoji: 1234
-  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/full-scores/"
+  url: "https://scores.hssailing.org/f19/2019-20-pcisa-socal-3gold/full-scores/"
   target: _blank
 - text: Rotations (Sail Numbers)
-  published: false
+  published: true
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/rotations/"
+  url: "https://scores.hssailing.org/f19/2019-20-pcisa-socal-3gold/rotations/"
   target: _blank
   #published: false
 
