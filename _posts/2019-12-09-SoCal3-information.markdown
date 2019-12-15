@@ -30,7 +30,7 @@ entrylist: ""
 ![{{ photo1.text }}]({{ photo1.url }})
 **{{ photo1.text }}**
 {% endif %}
-<div class="alert alert-info" markdown="1">
+<div class="alert alert-info">
 <div class="well" role="alert" markdown="1">
 ### Registration Deadlines
 
@@ -49,7 +49,6 @@ Please coordinate with your sailor and communicate your intent to sail ASAP!
 
 More info posted soon, but this is the largest annual regatta. It also features four divisions, including a division of College sailors from 40-50 colleges throughout the country. On Saturday of the two day regatta, there's dinner and presentations by colleges.
 
-</div>
 
 #### Schedule
 
@@ -64,6 +63,9 @@ More info posted soon, but this is the largest annual regatta. It also features 
 | 16:00 | Deadline for last race
 | 17:00 | Awards                                                           
 
+
+
+</div>
 
 </div>
 
