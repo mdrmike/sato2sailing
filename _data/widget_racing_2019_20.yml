@@ -1,6 +1,6 @@
-current_regatta: "socal3" # Change this for each regatta to match data key below
-upcoming_regatta: "PCISA3"
-past_regatta: "PCISA2"
+current_regatta: "pcisa4" # Change this for each regatta to match data key below
+upcoming_regatta: "pcisa5"
+past_regatta: "socal4"
 location: sidebar
 published: true
 
@@ -245,44 +245,29 @@ pcisa4: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304c
   emoji: cloud
   url: https://www.windy.com/37.823/-122.370?37.792,-122.370,12
   target: _blank
-- text: Silver Scores
-  emoji: checkered_flag
-  url: https://scores.hssailing.org/s19/pcisa-golden-bear-silver/
-  #url: #"https://scores.hssailing.org/s19/golden-bear/"
+- text: Gold Scores
+  emoji: trophy
+  url: https://scores.hssailing.org/s20/2020-golden-bear-gold/
   target: _blank
-  published: false
 - text: #spacer
-- text: Silver Full Scores
+- text: Gold Full Scores
   emoji: ledger
-  url: https://scores.hssailing.org/s19/2019-golden-bear-silver-fleet/
+  url: https://scores.hssailing.org/s20/2020-golden-bear-gold/full-scores/
   target: _blank
-  #published: false
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: https://scores.hssailing.org/s19/2019-golden-bear-silver-fleet/rotations/
-  #url: "https://scores.hssailing.org/s19/golden-bear/rotations/"
+  url: https://scores.hssailing.org/s20/2020-golden-bear-gold/rotations/
   target: _blank
-  #published: false
 - text: "PCISA4: Notice of Race (NOR)"
   emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/goldenbear19-nor.pdf"
+  url: "https://scores.hssailing.org/s20/2020-golden-bear-gold/notices/notice-race.pdf"
   target: _blank
-  #published: false
 - text: Sailors Instructions (course)
   emoji: memo
-  url: "https://scores.hssailing.org/s19/2019-golden-bear-silver-fleet/notices/sailing-instructions.pdf"
+  url: "https://scores.hssailing.org/s20/2020-golden-bear-gold/notices/sailing-instructions.pdf"
   target: _blank
   published: true
 - text: #spacer
-  published: false
-- text: "Event: Logistics & Coordination"
-  url: #"https://drive.google.com/file/d/0B1BmCT4HlfrzNVNXQ0o1ZmxYeEtQQTN5ZXBRN1B0UGZTRkw0/view?usp=sharing"
-  target: _blank
-  emoji: memo
-  published: false
-- text: Golden Bear Info (Post)
-  emoji: page_facing_up
-  url: /2018-19/pcisa/PCISA4-Information/
   published: false
 
 pcisa5:
@@ -538,18 +523,16 @@ socal4:
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
-  #published: false
-- text: #spacer
+  published: false
 - text: Silver Scores
   emoji: checkered_flag
-  url: https://scores.hssailing.org/s19/2019-20-pcisa-socal4-silver/
+  url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-silver/
   target: _blank
-  published: false
 - text: Gold Scores
   emoji: trophy
-  url: https://scores.hssailing.org/s19/2019-20-pcisa-socal4-gold/
+  url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-gold/
   target: _blank
-  published: false
+- text: #spacer
 - text: SoCal3 Silver Races
   emoji: 1234
   url: https://scores.hssailing.org/s19/2019-20-pcisa-socal4-silver/full-scores/
