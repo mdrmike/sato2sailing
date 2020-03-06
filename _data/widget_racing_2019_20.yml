@@ -1,6 +1,6 @@
-current_regatta: "pcisa4" # Change this for each regatta to match data key below
-upcoming_regatta: "pcisa5"
-past_regatta: "socal4"
+current_regatta: "pcisa5" # Change this for each regatta to match data key below
+upcoming_regatta: "socal5"
+past_regatta: "pcisa4"
 location: sidebar
 published: true
 
@@ -229,44 +229,63 @@ pcisa4: #https://raw.githubusercontent.com/mdrmike/satosailing/2311b92c91b8e304c
   emoji: earth_americas
   url: "https://www.google.com/maps/place/Treasure+Island+Sailing+Center/@37.8191229,-122.3669557,17z/data=!3m1!4b1!4m5!3m4!1s0x8085802e2f01cd4f:0x8cd7b3960e477b13!8m2!3d37.8191187!4d-122.364767"
   target: _blank
-  #published: false
+  published: false
 - text: TISC Parking Info
   emoji: car
   url: "https://drive.google.com/file/d/0B1BmCT4HlfrzdjZMMEF6YWpTWlMyRjhaa2xQLUZydGp5eDl3/view?usp=sharing"
   target: _blank
+  published: false
 - text: "Event: Treasure Island Feb 23-24 (website)"
   #published: false
   emoji: bear
   url: "https://pcisa.hssailing.org/event/home/golden-bear/184"
   target: _blank
+  published: false
 - text: #spacer
+  published: false
 - text: Wind + Weather2
   published: true
   emoji: cloud
   url: https://www.windy.com/37.823/-122.370?37.792,-122.370,12
   target: _blank
-- text: Gold Scores
-  emoji: trophy
-  url: https://scores.hssailing.org/s20/2020-golden-bear-gold/
+  published: false
+- text: Gold Scores (sailors)
+  emoji: innocent
+  url: https://scores.hssailing.org/s20/2020-golden-bear-gold/sailors/
   target: _blank
-- text: #spacer
 - text: Gold Full Scores
   emoji: ledger
   url: https://scores.hssailing.org/s20/2020-golden-bear-gold/full-scores/
   target: _blank
-- text: Rotations (Sail Numbers)
+- text: Gold Rotations (Sail Numbers)
   emoji: arrows_clockwise
   url: https://scores.hssailing.org/s20/2020-golden-bear-gold/rotations/
   target: _blank
+  published: false
+- text: #spacer
+- text: Silver Scores (sailors)
+  emoji: alien
+  url: https://scores.hssailing.org/s20/2020-golden-bear-silver/sailors/
+  target: _blank
+- text: Silver Full Scores
+  emoji: notebook
+  url: https://scores.hssailing.org/s20/2020-golden-bear-silver/full-scores/
+  target: _blank
+- text: Silver Rotations (Sail Numbers)
+  emoji:  arrows_counterclockwise
+  url: https://scores.hssailing.org/s20/2020-golden-bear-silver/rotations/
+  target: _blank
+  published: false
 - text: "PCISA4: Notice of Race (NOR)"
   emoji: information_source
   url: "https://scores.hssailing.org/s20/2020-golden-bear-gold/notices/notice-race.pdf"
   target: _blank
+  published: false
 - text: Sailors Instructions (course)
   emoji: memo
   url: "https://scores.hssailing.org/s20/2020-golden-bear-gold/notices/sailing-instructions.pdf"
   target: _blank
-  published: true
+  published: false
 - text: #spacer
   published: false
 
@@ -280,17 +299,17 @@ pcisa5:
   #published: false
 - text: "Parking & Useful Info"
   emoji: car
-  url: "/2018-19/pcisa/PCISA5-Information/#parking-etc"
+  url: "/2019-20/pcisa/PCISA5-Information/#parking-etc"
   target: _blank
 - text: "Event: Gaucho Mar 7-8 (website)"
-  emoji: ant
+  emoji:  horse_racing
   url: "http://ucsbsailing.squarespace.com/gaucho-regatta"
   target: _blank
   #published: false
 - text: #spacer
 - text: "Silver Scores"
   emoji: checkered_flag
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/"
+  url: "https://scores.hssailing.org/s20/pcisa-gaucho-silver/"
   target: _blank
   #published: false
 - text: Windfinder + Weather
@@ -306,22 +325,22 @@ pcisa5:
 - text: #spacer
 - text: Silver Full Scores
   emoji: ledger
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/full-scores/"
+  url: "https://scores.hssailing.org/s20/pcisa-gaucho-silver/full-scores/"
   target: _blank
   #published: false
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/rotations/"
+  url: "https://scores.hssailing.org/s20/pcisa-gaucho-silver/rotations/"
   target: _blank
   #published: false
 - text: Sailors Instructions (course)
   emoji: memo
-  url: "https://scores.hssailing.org/s19/pcisa-gaucho-silver/notices/sailing-instructions.pdf"
+  url: "https://scores.hssailing.org/s20/pcisa-gaucho-silver/notices/sailing-instructions-with-amended-course-chart.pdf"
   target: _blank
   published: true
 - text: "PCISA5: Notice of Race (NOR)"
   emoji: information_source
-  url: "https://pcisa.hssailing.org/documents/2019_03_09_Gaucho_NOR.pdf"
+  url: "https://scores.hssailing.org/s20/pcisa-gaucho-silver/notices/notice-race.pdf"
   target: _blank
   #published: false
 
@@ -516,48 +535,45 @@ socal4:
 - title: "SoCal4"
 - text: Map to ABYC
   emoji: earth_americas
-  url: https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817
+  url: "https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817"
   target: _blank
   published: false
 - text: "SoCal4: Notice of Race (NOR)"
   emoji: information_source
   url: https://hssailing.org/schedule_news/docs/pcisa_docs/2019-2020-PCISA-SoCalSeries-NOR.pdf
   target: _blank
-  published: false
-- text: Silver Scores
-  emoji: checkered_flag
-  url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-silver/
-  target: _blank
 - text: Gold Scores
   emoji: trophy
   url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-gold/
   target: _blank
+- text: Silver Scores
+  emoji: checkered_flag
+  url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-silver/
+  target: _blank
 - text: #spacer
-- text: SoCal3 Silver Races
+- text: SoCal4 Silver Races
   emoji: 1234
-  url: https://scores.hssailing.org/s19/2019-20-pcisa-socal4-silver/full-scores/
+  url: https://scores.hssailing.org/s20/2019-20-pcisa-socal-silver/
   target: _blank
   published: false
 - text: #spacer
-  #published: false
 - text: Wind + Weather
   emoji: umbrella
-  url: https://wind.willyweather.com/ca/san-diego-county/san-diego--quarantine-station.html
+  url: https://www.windfinder.com/forecast/long-beach-peninsula
   target: _blank
-  published: false
 - text: Rotations (Sail Numbers)
   emoji: arrows_clockwise
-  url: https://scores.hssailing.org/f18/2018-19-pcisa-socal3-silver/rotations/
+  url:
   target: _blank
   published: false
 
 
 
 socal5:
-- title: "SoCal5 SDYC"
-- text: Map to SDYC
+- title: "SoCal5 USSCLB"
+- text: Map to ABYC
   emoji: earth_americas
-  url:  "https://www.google.com/maps/place/San+Diego+Yacht+Club/@32.7226619,-117.2508717,13.25z/data=!4m5!3m4!1s0x80deab9883524577:0xb32271e0380bbf75!8m2!3d32.7188262!4d-117.2295806"
+  url:  "https://www.google.com/maps/place/ABYC/@33.7608805,-118.1394092,15z/data=!4m5!3m4!1s0x0:0xd5ac006f662647e9!8m2!3d33.7459493!4d-118.1167817"
   target: _blank
 - text: "SoCal5: Notice of Race (NOR)"
   emoji: information_source
@@ -566,38 +582,44 @@ socal5:
   #published: false
 - text: "SoCal Series 2018-19"
   emoji: five
-  url: "https://pcisa.hssailing.org/schedule/socal/2018/2019/pcisa-socal"
+  url: "https://pcisa.hssailing.org/schedule-results/details/pcisa-socal-5-19"
   target: _blank
   #published: false
 - text: #spacer
 - text: Windfinder + Weather
   emoji: umbrella
-  url: "https://www.windfinder.com/forecast/san-diego_shelter-island"
+  url: "https://www.windfinder.com/forecast/long-beach-peninsula"
   #published: false
   target: _blank
 - text: Wind + Weather Alt
   emoji: rainbow
-  url: "https://www.windy.com/32.715/-117.225/wind?32.711,-117.225,15,m:ezGacTM"
-  #published: false
+  url: "https://www.windy.com/33.748/-118.111?33.744,-118.111,15,m:eBpacSj"
+  published: false
   target: _blank
 - text: #spacer
+  published: false
 - text: Silver Scores
   emoji: checkered_flag
   url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-silver/"
   target: _blank
+  published: false
 - text: Gold Scores
   emoji: trophy
   url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-gold/"
   target: _blank
+  published: false
 - text: #spacer
+  published: false
 - text: "Techscore"
   emoji: dizzy
   url: "https://scores.hssailing.org/"
   target: _blank
+  published: false
 - text: "SoCal5 Rotations (sail #)"
   emoji: arrows_clockwise
   url: "https://scores.hssailing.org/s19/2018-19-pcisa-socal-gold/rotations/"
   target: _blank
+  published: false
 - text: SoCal5 Planning (last year)
   published: true
   emoji: small_orange_diamond
